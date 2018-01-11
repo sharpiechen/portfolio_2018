@@ -1,14 +1,14 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Peter Kim
+name: Sharon Chen
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Peter Kim Design Portfolio
+description: Sharon Chen Design Portfolio
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Peter Kim
+author: Sharon Chen
 
 # Your email if you want it to be linked on the contact page
-author_email: pkim9308@gmail.com
+author_email: sharonch3n@gmail.com
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1

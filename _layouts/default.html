@@ -9,22 +9,52 @@
         <meta name="author" content="{{site.author}}"/>
         <link rel="author" href="humans.txt"/>
         <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{site.baseurl}}/feed.xml" />
-        <link rel="stylesheet" href="{{site.baseurl}}/resources/fontello/css/fontello.css">
-        <link rel="stylesheet" href="{{site.baseurl}}/resources/fontello/css/animation.css">
-        <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
-        <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i'>
-        <!--[if IE 7]><link rel="stylesheet" href="{{site.baseurl}}/resources/fontello/css/fontello-ie7.css"><![endif]-->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Playfair+Display:400,700|Roboto:900" rel="stylesheet">
     </head>
-    <body>
-        <div class="container_fluid">
-            <div class="row section__container">
-                <div class="col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1"><a href="{{site.baseurl}}/" class="text__header">{{ site.name }}</a></div>
+    <body id="bootstrapoverride">
+        <div class="container container-nav">
+            <div class="row">
+                <div class="col-4 nav-logo">
+                    <a href="index.html" class="heading heading--fancy heading--emphasize">Sharon Chen</a>
+                </div>
+                <div class="col nav-menu">
+                    <a href="#" class="link heading heading--regular heading--emphasize">About</a>
+                    <a href="#" class="link heading heading--regular heading--emphasize">Contact</a>
+                    <a href="#" class="link heading heading--regular heading--emphasize">Work</a>
+                    <a href="#" class="link heading heading--regular heading--emphasize">Blog</a>
+                </div>
             </div>
         </div>
         {{ content }}
-        <div class="container_fluid">
-            <div class="row section__container footer__container">
-                <div class="col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1"><div class="text__body">{{ site.name }}. 2016. Chicago, IL</div></div>
+        <div class="container container-footer">
+            <div class="row">
+                <div class="col-8">
+                    <h3 class="heading heading--fancy">
+                        Let's work together.<br>
+                        <a href="#" class="footer__link-email">hello@sharonchen.design</a>
+                    </h3>
+                    <p class="footer__disclaimer">This website was designed and built by Sharon Chen. 2018. Chicago, IL.</p>
+                </div>
+                <div class="col-2">
+                    <h4 class="heading heading--regular heading--emphasize">social</h4>
+                    <p>
+                        <a href="#">LinkedIn</a><br>
+                        <a href="#">Medium</a><br>
+                        <a href="#">Twitter</a><br>
+                        <a href="#">Github</a><br>
+                        <a href="#">Dribbble</a>
+                    </p>
+                </div>
+                <div class="col-2">
+                    <h4 class="heading heading--regular heading--emphasize">for fun</h4>
+                    <p>
+                        <a href="#">Photography</a><br>
+                        <a href="#">Instant Mindgrams</a><br>
+                        <a href="#">Mood Boards</a><br>
+                        <a href="#">Music Inspo</a><br>
+                    </p>
+                </div>
             </div>
         </div>
         <script src="{{site.baseurl}}/scripts.js"></script>
