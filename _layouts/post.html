@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div class="container_fluid">
+    <div class="row section__container">
+        <div class="col-sm-4 col-sm-offset-2 col-xs-10 col-xs-offset-1 section__container--2col-left">
+            <div class="text__header">
+            	{{ page.title }}
+            </div>
+            <div class="header__border--bottom"></div>
+            <div class="text__body">
+                {{ page.description }}
+            </div>
+        </div>
+        <div class="col-sm-2 col-sm-offset-0 col-xs-10 col-xs-offset-1 section__container--2col-right">
+            <div class="text__header">Tools</div>
+            <div class="header__border--bottom"></div>
+            <div class="text__body">
+            	{{ page.tools }}
+            </div>
+        </div>
+        <div class="col-sm-2 col-sm-offset-0 col-xs-10 col-xs-offset-1 section__container--2col-right">
+            <div class="text__header">Date</div>
+            <div class="header__border--bottom"></div>
+            <div class="text__body">
+            	{{ page.timeline }}
+            </div>
+	</div>
+    </div>
+</div>
+<div class="container_fluid">
+    <div class="row section__container">
+    	<div class="col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
+	    	<div class="text__body" style="max-width:100%;">
+	            {{ content }}
+	        </div>
+	</div>
+    </div>
+</div>
+<div class="container_fluid">
+    <div class="row section__container">
+	<div class="col-sm-4 col-sm-offset-2 col-xs-5 col-xs-offset-1 ">
+    		<a href="{{site.baseurl}}/" class="text__header"> &larr;&nbsp;Back to home </a>
+	</div>
+    </div>
+</div>
+
+

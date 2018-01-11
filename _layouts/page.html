@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="container_fluid">
+    <div class="row section__container">
+        <div class="col-sm-5 col-sm-offset-1 col-xs-10 col-xs-offset-1 section__container--2col-left">
+            <div class="text__header">
+            	{{ page.title }}
+            </div>
+            <div class="header__border--bottom"></div>
+            <div class="text__body">
+                {{ page.description }}
+            </div>
+        </div>
+        <div class="col-sm-3 col-sm-offset-0 col-xs-10 col-xs-offset-1 section__container--2col-right">
+            <div class="text__header">Role</div>
+            <div class="header__border--bottom"></div>
+            <div class="text__body">
+            	{{ page.categories }}
+            </div>
+        </div>
+        <div class="col-sm-2 col-sm-offset-0 col-xs-10 col-xs-offset-1 section__container--2col-right">
+            <div class="text__header">Date</div>
+            <div class="header__border--bottom"></div>
+            <div class="text__body">
+            	{{ page.timeline }}
+            </div>
+	</div>
+    </div>
+</div>
+<div class="container_fluid">
+    <div class="row section__container">
+        <div class="col-xs-10 col-sm-offset-1 ">
+	    	<div class="text__body">
+	            {{ content }}
+	        </div>
+	    </div>
+    </div>
+</div>
+<div class="container_fluid">
+    <div class="row section__container">
+	<div class="col-xs-5 col-sm-offset-1 ">
+    		<a href="{{site.baseurl}}/" class="text__header"> &larr;&nbsp;Back to home MEOW MEOW MEOW </a>
+	</div>
+    </div>
+</div>

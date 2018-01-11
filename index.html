@@ -1,0 +1,74 @@
+---
+layout: default
+title: Home
+---
+
+<!-- Show last 5 posts here -->
+<div class="container_fluid">
+    <!-- About -->
+    <div class="row section__container">
+        <div class="col-sm-4 col-sm-offset-2 col-xs-10 col-xs-offset-1 section__container--2col-left">
+            <div class="text__header">
+            About
+            </div>
+            <div class="header__border--bottom"></div>
+            <div class="text__body">
+                Peter Kim is a multidisciplinary designer specializing in visual design and animation. He has collaborated with a variety of clients from tech startups to university branding departments, where he has applied his unique aesthetic to a variety of mediums and business initiatives.  <br/><br/>As a creative director, Peter brings a set of diverse skills and experience to clients, offering more than a typical designer.
+            </div>
+        </div>
+        <div class="col-sm-4 col-sm-offset-0 col-xs-10 col-xs-offset-1 section__container--2col-right">
+            <div class="text__header">Contact</div>
+            <div class="header__border--bottom"></div>
+            <div class="row">
+                <div class="col-md-6 col-xs-12" style="margin-bottom:20px;">
+                    <div class="text__body">
+                        Email:<br/><a href="mailto:pkim9308@gmail.com">pkim9308@gmail.com</a><br/><br/>Resume:<br/><a href="http://example.com/files/myfile.pdf" target="_blank">Download</a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-xs-12">
+                    <div class="text__body">
+                        Linkedin:<br/><a href="https://www.linkedin.com/in/peter-kim-b5b09825">Peter Kim</a>
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>
+    <!-- Works -->
+<div class="container_fluid">
+    <div class="row section__container">
+        <div class="col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
+            <div class="text__header">Selected works</div>
+            <div class="header__border--bottom"></div>
+            <div class="row">
+                {% for post in site.posts limit: 2 %}
+                    <div class="col-sm-6 col-xs-12"><a href="{{site.baseurl}}{{post.url}}" class="work__container">
+                        <div class="text__overlay hidden-xs">
+                            <div class="text__header">{{ post.title }}</div>
+                            <div class="header__border--bottom"></div>
+                            <div class="text__body">{{ post.excerpt }}<br/><br/>{{ post.categories | category_links }}</div>
+                        </div><img src="{{site.baseurl}}{{post.cover}}" alt="{{post.title}}" data-pin-no-hover class="work"/></a>
+                        <div class="work__caption--mobile visible-xs">
+                            <div class="text__header">{{ post.title }}</div>
+                            <div class="header__border--bottom"></div>
+                            <div class="text__body">{{ post.excerpt }}<br/><br/>{{ post.categories | category_links }}</div>
+                        </div>
+                    </div>
+                {% endfor %}
+                {% for post in site.posts limit: 2 offset: 2 %}
+                    <div class="col-sm-6 col-xs-12"><a href="{{site.baseurl}}{{post.url}}" class="work__container">
+                        <div class="text__overlay hidden-xs">
+                          <div class="text__header">{{ post.title }}</div>
+                          <div class="header__border--bottom"></div>
+                          <div class="text__body">{{ post.excerpt }}<br/><br/>{{ post.categories | category_links }}</div>
+                        </div><img src="{{site.baseurl}}{{post.cover}}" alt="{{post.title}}" data-pin-no-hover class="work"/></a>
+                        <div class="work__caption--mobile visible-xs">
+                            <div class="text__header">{{ post.title }}</div>
+                            <div class="header__border--bottom"></div>
+                            <div class="text__body">{{ post.excerpt }}<br/><br/>{{ post.categories | category_links }}</div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    </div>
