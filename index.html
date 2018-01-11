@@ -3,72 +3,210 @@ layout: default
 title: Home
 ---
 
-<!-- Show last 5 posts here -->
-<div class="container_fluid">
-    <!-- About -->
-    <div class="row section__container">
-        <div class="col-sm-4 col-sm-offset-2 col-xs-10 col-xs-offset-1 section__container--2col-left">
-            <div class="text__header">
-            About
-            </div>
-            <div class="header__border--bottom"></div>
-            <div class="text__body">
-                Peter Kim is a multidisciplinary designer specializing in visual design and animation. He has collaborated with a variety of clients from tech startups to university branding departments, where he has applied his unique aesthetic to a variety of mediums and business initiatives.  <br/><br/>As a creative director, Peter brings a set of diverse skills and experience to clients, offering more than a typical designer.
+<div id="about" class="container container-hero">
+    <div class="row justify-content-end container-summary">
+        <div class="col-md-8 col-xs-10 align-self-center summary">
+            <h1 class="heading heading--fancy heading--emphasize">Hey, I'm Sharon, a product designer located in Chicago.</h1>
+        </div>
+        <div class="accent hidden-sm-down"></div>
+    </div>
+    <div class="row">
+        <div class="summary__img"></div>
+    </div>          
+</div>
+
+<div class="container-fluid hidden-xs-down">
+    <div class="row justify-content-end">
+        <div class="col-md-2 col-sm-3 gallery__img"></div>
+        <div class="col-md-2 col-sm-3 gallery__img"></div>
+        <div class="col-md-2 col-sm-3 gallery__img"></div>
+    </div>
+</div>
+
+<div class="container-fluid container-body">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h4 class="heading heading--regular heading--emphasize">introduction</h4>
+                <div class="marker marker-1">01</div>
             </div>
         </div>
-        <div class="col-sm-4 col-sm-offset-0 col-xs-10 col-xs-offset-1 section__container--2col-right">
-            <div class="text__header">Contact</div>
-            <div class="header__border--bottom"></div>
-            <div class="row">
-                <div class="col-md-6 col-xs-12" style="margin-bottom:20px;">
-                    <div class="text__body">
-                        Email:<br/><a href="mailto:pkim9308@gmail.com">pkim9308@gmail.com</a><br/><br/>Resume:<br/><a href="http://example.com/files/myfile.pdf" target="_blank">Download</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xs-12">
-                    <div class="text__body">
-                        Linkedin:<br/><a href="https://www.linkedin.com/in/peter-kim-b5b09825">Peter Kim</a>
-                    </div>
-                </div>
+        <div class="row">
+            <div class="col-sm-6 col-xs-12">
+                <h3 class="heading heading--fancy">I have 5+ years of experience in user experience, user interface, and visual design</h3>
+            </div>
+            <div class="col-lg-4 col-md-6 col-xs-12">
+                <p>I spend the majority of my time working with engineers, product owners, and marketing leads to build the next generation of <a href="http://www.narrativescience.com">Narrative Science</a>’s Natural Language Generation software and shape the future of Artificial Intelligence.<br><br>On the side, I partner with individuals and small businesses across industries to create designs that shape visual identities and effectively communicate core values.</p>
+            </div>
         </div>
     </div>
 </div>
-    <!-- Works -->
-<div class="container_fluid">
-    <div class="row section__container">
-        <div class="col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
-            <div class="text__header">Selected works</div>
-            <div class="header__border--bottom"></div>
-            <div class="row">
-                {% for post in site.posts limit: 2 %}
-                    <div class="col-sm-6 col-xs-12"><a href="{{site.baseurl}}{{post.url}}" class="work__container">
-                        <div class="text__overlay hidden-xs">
-                            <div class="text__header">{{ post.title }}</div>
-                            <div class="header__border--bottom"></div>
-                            <div class="text__body">{{ post.excerpt }}<br/><br/>{{ post.categories | category_links }}</div>
-                        </div><img src="{{site.baseurl}}{{post.cover}}" alt="{{post.title}}" data-pin-no-hover class="work"/></a>
-                        <div class="work__caption--mobile visible-xs">
-                            <div class="text__header">{{ post.title }}</div>
-                            <div class="header__border--bottom"></div>
-                            <div class="text__body">{{ post.excerpt }}<br/><br/>{{ post.categories | category_links }}</div>
-                        </div>
-                    </div>
-                {% endfor %}
-                {% for post in site.posts limit: 2 offset: 2 %}
-                    <div class="col-sm-6 col-xs-12"><a href="{{site.baseurl}}{{post.url}}" class="work__container">
-                        <div class="text__overlay hidden-xs">
-                          <div class="text__header">{{ post.title }}</div>
-                          <div class="header__border--bottom"></div>
-                          <div class="text__body">{{ post.excerpt }}<br/><br/>{{ post.categories | category_links }}</div>
-                        </div><img src="{{site.baseurl}}{{post.cover}}" alt="{{post.title}}" data-pin-no-hover class="work"/></a>
-                        <div class="work__caption--mobile visible-xs">
-                            <div class="text__header">{{ post.title }}</div>
-                            <div class="header__border--bottom"></div>
-                            <div class="text__body">{{ post.excerpt }}<br/><br/>{{ post.categories | category_links }}</div>
-                        </div>
-                    </div>
-                {% endfor %}
+
+<div class="container-fluid container-body container-vision">
+    <div class="marker marker-2">02</div>
+    <div class="container">
+        <div class="row" >
+            <div class="col-lg-4 col-sm-5 container-frame-img">
+                <div class="vision__img"></div>
+                <!-- <div class="frame frame-1"></div> -->
+            </div>
+            <div class="col-sm-1 hidden-xs-down align-self-center container-frame">
+                <div class="frame frame-1">
+                    <div class="frame__cover frame__cover-1"></div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 align-self-center">
+                <h4 class="heading heading--regular heading--emphasize">vision</h4>
+                <h3 class="heading heading--fancy">I create designs that inspire creative and critical thought</h3>
+                <p>I’ll always be found working with others tackling big, complex problems, bringing ideas together, and creatively communicating solutions in the face of ambiguity and limitations.</p>
             </div>
         </div>
     </div>
+</div>
+
+<div class="container-fluid container-body container-specialties">
+    <div class="container">
+        <div class="marker marker-3">03</div>
+        <div class="row hidden-sm-up container-specialties-xs">
+            <div class="col-6 specialties__img-1"></div>
+            <div class="col-6 specialties__img-2"></div>    
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-5 col-sm-6 col-xs-12 align-self-center">
+                <h4 class="heading heading--regular heading--emphasize">specialties</h4>
+                <h3 class="heading heading--fancy">Design strategy</h3>
+                <p>Ethnographic research, user interviews, qualitative data analysis, interactive prototypes, personas, scenarios, service journey maps, wireframes</p>
+                <h3 class="heading heading--fancy heading--stacked">User interface design
+                <p>Pixel-perfect mockups, UI specifications, UI style guides, user task flows, interaction models, static websites</p>
+                <h3 class="heading heading--fancy heading--stacked">Visual design</h3>
+                <p>Art direction, brand strategy, visual identity, printed collateral</p>
+            </div>
+            <div class="col-3 offset-lg-1 specialties__img-1 hidden-sm-down">
+            </div>
+            <div class="col-md-3 offset-md-1 col-sm-6 hidden-xs-down">
+                <div class="row">
+                    <div class="col specialties__img-2"></div>
+                    <div class="frame frame-2">
+                        <div class="frame__cover frame__cover-2"></div>
+                    </div>
+                </div>
+                <div class="row specialties__img-3"></div>
+            </div>
+        </div>
     </div>
+</div>
+
+<div id="experience" class="container-fluid container-body">
+    <div class="container">
+        <div class="container-experience-title">
+            <div class="marker marker-4">04</div>
+            <h2 class="heading heading--fancy">Experience</h2>
+        </div>
+        <div class="row">
+            <div class="col-sm-5 col-xs-12 container-experience">
+                <div class="experience__img-1"></div>
+                <div class="experience__img-2"></div>
+            </div>
+            <div class="col-lg-4 offset-lg-2 col-sm-6 offset-sm-1 col-xs-12">
+                <h4 class="heading heading--regular heading--emphasize">product designer | may 2016 - present</h4>
+                <h3 class="heading heading--fancy">Narrative Science</h3>
+                <p>I work with product owners to develop <a href="http://www.narrativescience.com">Narrative Science</a>’s go-to-market strategy for the next generation of its Natural Language Generation (NLG) software.<br><br>I carry out the team’s strategy by creating and overseeing the implementation of end-to-end-designs that bridge the gap between product, marketing, and engineering.</p>
+                <a href="#" class="heading--regular heading--emphasize">View Sample Work &rarr;</a>
+            </div>
+        </div>
+        <div class="row container-experience container-experience--stacked">
+            <div class="col-lg-4 col-md-5 col-sm-6 align-self-end">
+                <h4 class="heading heading--regular heading--emphasize">designer & engineer | august 2017 - present</h4>
+                <h3 class="heading heading--fancy">Freelance Design</h3>
+                <p>I partner with individuals and small businesses across multiple industries to create designs that shape unique visual identities and effectively communicate core values.</p>
+                <a href="#" class="heading--regular heading--emphasize">View Sample Work &rarr;</a>
+            </div>
+            <div class="col-lg-5 offset-lg-3 col-md-5 offset-md-2 col-sm-6 container-frame-img container-frame-img-xs">
+                <div class="experience__img-3"></div>
+                <div class="frame frame-3"></div>
+            </div>
+        </div>
+
+        <div class="row container-experience container-experience--stacked container-experience-seelio">
+            <div class="col-md-4 offset-md-2 col-sm-6">
+                <div class="experience__img-4"></div>
+                <div class="experience__img-5 hidden-xs-down"></div>
+            </div>
+            <div class="col-lg-4 offset-lg-1 col-md-6 col-sm-6 align-self-center container-experience-seelio-xs">
+                <h4 class="heading heading--regular heading--emphasize">lead ui & ux designer | march 2012 - march 2016</h4>
+                <h3 class="heading heading--fancy">Seelio by Keypath</h3>
+                <p>As one of <a href="http://www.seelio.com">Seelio</a>’s first 5 employees I helped build the company’s brand and visual identity, user experience strategies, and product vision.<br><br>Starting as a Design Intern in March of 2012, I ultimately took on UI & UX leadership for the company in September of 2012, helping research and end-to-end designs, external marketing pages, as well as all marketing collateral.</p>
+                <a href="#" class="heading--regular heading--emphasize">View Sample Work &rarr;</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="work" class="container-fluid container-body">
+    <div class="container-work-title">
+        <div class="marker marker-5">05</div>
+        <h2 class="heading heading--fancy">Featured Projects</h2>
+        <a href="#" class="heading--regular heading--emphasize">Project Archive &rarr;</a>
+    </div>
+    <div class="row">
+        <div class="col-sm-6 col-xs-12 container-work container-work-1">
+            <h4 class="heading heading--regular heading--light">narrative creation sidebar redesign and code refactor</h4>
+            <hr class="container-work--hidden">
+            <h4 class="heading heading--regular heading--light container-work--hidden">UX Design, UI Design, Product Management</h4>
+            <h4 class="heading heading--regular heading--light container-work--hidden">Fall 2016 - Summer 2017</h4>
+            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+        </div>
+        <div class="col-sm-6 col-xs-12 container-work container-work-2">
+            <h4 class="heading heading--regular heading--light">quill zendesk support site</h4>
+            <hr class="container-work--hidden">
+            <h4 class="heading heading--regular heading--light container-work--hidden">UX Design, UI Design, Front-End Development</h4>
+            <h4 class="heading heading--regular heading--light container-work--hidden">Winter 2017</h4>
+            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+        </div>
+        <div class="col-sm-6 col-xs-12 container-work container-work-2">
+            <h4 class="heading heading--regular heading--light">introassist help tool</h4>
+            <hr class="container-work--hidden">
+            <h4 class="heading heading--regular heading--light container-work--hidden">UX Design, UI Design</h4>
+            <h4 class="heading heading--regular heading--light container-work--hidden">Summer 2017</h4>
+            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+        </div>
+        <div class="col-sm-6 col-xs-12 container-work container-work-1">
+            <h4 class="heading heading--regular heading--light">Product Design Initiative</h4>
+            <hr class="container-work--hidden">
+            <h4 class="heading heading--regular heading--light container-work--hidden">UX Research, UX Design</h4>
+            <h4 class="heading heading--regular heading--light container-work--hidden">Winter 2017</h4>
+            <h4 class="heading heading--regular heading--light container-work--hidden container-work__case-study">+ case study</h4>
+            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+        </div>
+        <div class="col-sm-6 col-xs-12 container-work container-work-1">
+            <h4 class="heading heading--regular heading--light">Narrative Creation Ontology Redesign</h4>
+            <hr class="container-work--hidden">
+            <h4 class="heading heading--regular heading--light container-work--hidden">UX Design, UI Design</h4>
+            <h4 class="heading heading--regular heading--light container-work--hidden">Summer 2016 - Fall 2016</h4>
+            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+        </div>
+        <div class="col-sm-6 col-xs-12 container-work container-work-2">
+            <h4 class="heading heading--regular heading--light">Seelio for Educators</h4>
+            <hr class="container-work--hidden">
+            <h4 class="heading heading--regular heading--light container-work--hidden">UX Research, UX Design, UI Design</h4>
+            <h4 class="heading heading--regular heading--light container-work--hidden">Summer 2014 - Spring 2015</h4>
+            <h4 class="heading heading--regular heading--light container-work--hidden container-work__case-study">+ case study</h4>
+            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+        </div>
+        <div class="col-sm-6 col-xs-12 container-work container-work-2">
+            <h4 class="heading heading--regular heading--light">Career Skills Map</h4>
+            <hr class="container-work--hidden">
+            <h4 class="heading heading--regular heading--light container-work--hidden">UX Design, UI Design, Product Management</h4>
+            <h4 class="heading heading--regular heading--light container-work--hidden">Winter 2015 - Spring 2016</h4>
+            <h4 class="heading heading--regular heading--light container-work--hidden container-work__case-study">+ case study</h4>
+            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+        </div>
+        <div class="col-sm-6 col-xs-12 container-work container-work-1">
+            <h4 class="heading heading--regular heading--light">Animation: Tell Your Story With Seelio</h4>
+            <hr class="container-work--hidden">
+            <h4 class="heading heading--regular heading--light container-work--hidden">Visual Design, Fine Arts</h4>
+            <h4 class="heading heading--regular heading--light container-work--hidden">Summer - Fall 2014</h4>
+            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+        </div>
+    </div>
+</div>
