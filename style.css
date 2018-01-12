@@ -9,27 +9,39 @@
   color:#47D9E8;
 }
 
-#bootstrapoverride p {
+#bootstrapoverride p,
+.list {
   color:#252525;
   font-family: 'Playfair Display', serif;
   font-size:1rem;
   line-height:1.7;
 }
 
-#bootstrapoverride p a {
+.list {
+  list-style:none;
+  padding-left:0;
+}
+
+#bootstrapoverride p a,
+.list a {
   border-bottom:1px dashed #47D9E8;
 }
 
-#bootstrapoverride p a:hover, #bootstrapoverride p a:active {
+#bootstrapoverride p a:hover, 
+#bootstrapoverride p a:active,
+.list p a:hover,
+.list p a:active {
   border-bottom:1px solid #47D9E8;
   color:#47D9E8;
 }
 
-#bootstrapoverride p a:visited { 
+#bootstrapoverride p a:visited,
+.list p a:visited { 
     border-bottom:1px dashed #EE8BBC;
 }
 
-#bootstrapoverride p a:visited:hover { 
+#bootstrapoverride p a:visited:hover
+.list p a:visited:hover { 
     border-bottom:1px solid #EE8BBC;
     color:#EE8BBC;
 }
@@ -385,8 +397,20 @@
   height:525px;
 }
 
-.summary {
+.container-summary-work {
+  padding-top:150px;
+}
+
+.summary__about {
   text-align:right;
+}
+
+.summary__work {
+  text-align:left;
+}
+
+.heading--work-refine {
+  margin-top:10px;
 }
 
 .summary__img {
@@ -455,7 +479,7 @@
     height:300px;
   }
 
-  .summary {
+  .summary__about {
     text-align:center;
   }
 }
