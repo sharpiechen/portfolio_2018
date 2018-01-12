@@ -391,22 +391,29 @@
 }
 
 /*Hero///////////////////////////////////////////////*/
+.container-hero-works {
+  background-color:#E7E8E2;
+}
 
 .container-summary {
   position:relative;
   height:525px;
 }
 
-.container-summary-work {
-  padding-top:150px;
+.container-summary-works {
+  padding-top:130px;
 }
 
 .summary__about {
   text-align:right;
 }
 
-.summary__work {
+.summary__works {
   text-align:left;
+}
+
+.summary-works__contact {
+  padding-top:10px;
 }
 
 .heading--work-refine {
