@@ -7,7 +7,7 @@ layout: works
 <div class="container-fluid container-post-breadcrumb">
     <div class="container">
         <a href="{{site.baseurl}}/work" class="heading heading--regular heading--emphasize">Works</a>
-        <span class="heading heading--regular heading--emphasize">&nbsp;&nbsp;/&nbsp;&nbsp;{{post.title}}</span>
+        <span class="heading heading--regular heading--emphasize">&nbsp;&nbsp;/&nbsp;&nbsp;{{page.title}}</span>
     </div>
 </div>
 
@@ -17,12 +17,12 @@ layout: works
     <div class="container">
         <div class="row">
             <div class="col-2">
-                <h4 class="heading heading--regular heading--emphasize">{{ post.categories }}</h4>
+                <h4 class="heading heading--regular heading--emphasize">{{ page.categories }}</h4>
                 <hr>
-                <h4 class="heading heading--regular heading--emphasize">{{ post.timeline }}</h4>
+                <h4 class="heading heading--regular heading--emphasize">{{ page.timeline }}</h4>
             </div>
             <div class="col-6 offset-lg-1">
-                <h1 class="heading heading--fancy heading--emphasize heading-post-title">{{ post.title }}</h1>
+                <h1 class="heading heading--fancy heading--emphasize heading-post-title">{{ page.title }}</h1>
                 <div class="marker marker-post">01</div>
                 <h4 class="heading heading--regular heading--emphasize">overview</h4>
 
