@@ -1,49 +1,42 @@
 ---
-layout: default
+layout: works
 ---
 
-<div class="container_fluid">
-    <div class="row section__container">
-        <div class="col-sm-4 col-sm-offset-2 col-xs-10 col-xs-offset-1 section__container--2col-left">
-            <div class="text__header">
-            	{{ page.title }}
-            </div>
-            <div class="header__border--bottom"></div>
-            <div class="text__body">
-                {{ page.description }}
-            </div>
-        </div>
-        <div class="col-sm-2 col-sm-offset-0 col-xs-10 col-xs-offset-1 section__container--2col-right">
-            <div class="text__header">Tools</div>
-            <div class="header__border--bottom"></div>
-            <div class="text__body">
-            	{{ page.tools }}
-            </div>
-        </div>
-        <div class="col-sm-2 col-sm-offset-0 col-xs-10 col-xs-offset-1 section__container--2col-right">
-            <div class="text__header">Date</div>
-            <div class="header__border--bottom"></div>
-            <div class="text__body">
-            	{{ page.timeline }}
-            </div>
-	</div>
-    </div>
-</div>
-<div class="container_fluid">
-    <div class="row section__container">
-    	<div class="col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
-	    	<div class="text__body" style="max-width:100%;">
-	            {{ content }}
-	        </div>
-	</div>
-    </div>
-</div>
-<div class="container_fluid">
-    <div class="row section__container">
-	<div class="col-sm-4 col-sm-offset-2 col-xs-5 col-xs-offset-1 ">
-    		<a href="{{site.baseurl}}/" class="text__header"> &larr;&nbsp;Back to home </a>
-	</div>
+<div class="container-fluid container-post-breadcrumb">
+    <div class="container">
+        <a href="#" class="heading heading--regular heading--emphasize">Works</a>
+        <span class="heading heading--regular heading--emphasize">&nbsp;&nbsp;/&nbsp;&nbsp;</span>
+        <a href="#" class="heading heading--regular heading--emphasize">Work Title</a>
     </div>
 </div>
 
+<div class="container-fluid container-post-cover"></div>
 
+<div class="container-fluid container-post-contents">
+    <div class="container">
+        <div class="row">
+            <div class="col-2">
+                <h4 class="heading heading--regular heading--emphasize">UX DESIGN, UI DESIGN, PRODUCT MANAGEMENT</h4>
+                <hr>
+                <h4 class="heading heading--regular heading--emphasize">FALL 2016 - SUMMER 2017</h4>
+            </div>
+            <div class="col-6 offset-lg-1">
+                <h1 class="heading heading--fancy heading--emphasize heading-post-title">Narrative Creation Sidebar Redesign and Code Refactor</h1>
+                <div class="marker marker-post">01</div>
+                <h4 class="heading heading--regular heading--emphasize">overview</h4>
+                <p>Strategy, design and development work hand in hand on the web to create an educational, engaging and empowering experience. Clean linework, derived from the streamlined logomark, reappear as a structural element and visual cue, inviting visitors to read between the lines and make progress at their own pace. Thoughtfully structured copy and strategic pathways—marked by simple animations and delightful interactions—gently guide users toward one final, low-pressure call to action, encouraging them to take the first step toward financial security, just by getting in touch. Financial planning never looked so friendly.</p>
+
+                {{ content }}
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid container-post-breadcrumb">
+    <div class="container">
+        <a href="#" class="heading heading--regular heading--emphasize">&larr;&nbsp;&nbsp;Previous Project</a>
+        <span class="heading heading--regular heading--emphasize">&nbsp;&nbsp;/&nbsp;&nbsp;</span>
+        <a href="#" class="heading heading--regular heading--emphasize">Next Project&nbsp;&nbsp;&rarr;</a>
+    </div>
+</div>

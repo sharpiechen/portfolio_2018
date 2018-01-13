@@ -910,5 +910,33 @@ hr + .container-work--hidden {
     bottom:0px;
   }
 
+/*Post///////////////////////////////////////////////*/
+
+.container-post-breadcrumb {
+  padding-top:25px;
+  padding-bottom:25px;
+  background-color:#E7E8E2;
+}
+
+.container-post-cover {
+  height:400px;
+  background-image: url("../img/img-post-cover-1.jpg");
+  background-size:cover;
+  background-position: 0% 65%;
+}
+
+.container-post-contents {
+  padding-top:100px;
+  padding-bottom:100px;
+}
+
+.heading-post-title {
+  margin-bottom:50px;
+}
+
+.marker-post {
+  top:100;
+  left:-100;
+}
 
 

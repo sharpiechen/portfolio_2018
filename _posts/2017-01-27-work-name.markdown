@@ -12,6 +12,4 @@ excerpt: A complete rebranding of the University of Chicago's Booth School of Bu
 
 ---
 
-<img class="work__img" src="{{site.baseurl}}/assets/img-work-1.png">
-
-Here is a pretty pretty photo. 
+<p>posts are us!</p>
