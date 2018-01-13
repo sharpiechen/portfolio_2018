@@ -142,6 +142,7 @@ title: About
     </div>
 </div>
 
+
 <div id="work" class="container-fluid container-body">
     <div class="container-work-title">
         <div class="marker marker-5">05</div>
@@ -149,64 +150,21 @@ title: About
         <a href="#" class="heading--regular heading--emphasize">Project Archive &rarr;</a>
     </div>
     <div class="row">
-        <div class="col-sm-6 col-xs-12 container-work container-work-1">
-            <h4 class="heading heading--regular heading--light">narrative creation sidebar redesign and code refactor</h4>
-            <hr class="container-work--hidden">
-            <h4 class="heading heading--regular heading--light container-work--hidden">UX Design, UI Design, Product Management</h4>
-            <h4 class="heading heading--regular heading--light container-work--hidden">Fall 2016 - Summer 2017</h4>
-            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+    {% for post in site.posts && post.featured == 'true' %}
+        <div class="col-sm-6 col-xs-12 container-work" >
+            <div class="container-work--cover" style="background-image: url('../assets/{{ post.cover }}');">
+                <div class="container-work--overlay">
+                    <a href="../{{ post.url }}">
+                        <h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
+                        <hr class="container-work--hidden">
+                        <h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories }}</h4>
+                        <h4 class="heading heading--regular heading--light container-work--hidden">{{ post.timeline }}</h4>
+                        <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+                        <span class="work--link"></span>
+                    </a>
+                </div>
+            </div>
         </div>
-        <div class="col-sm-6 col-xs-12 container-work container-work-2">
-            <h4 class="heading heading--regular heading--light">quill zendesk support site</h4>
-            <hr class="container-work--hidden">
-            <h4 class="heading heading--regular heading--light container-work--hidden">UX Design, UI Design, Front-End Development</h4>
-            <h4 class="heading heading--regular heading--light container-work--hidden">Winter 2017</h4>
-            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
-        </div>
-        <div class="col-sm-6 col-xs-12 container-work container-work-2">
-            <h4 class="heading heading--regular heading--light">introassist help tool</h4>
-            <hr class="container-work--hidden">
-            <h4 class="heading heading--regular heading--light container-work--hidden">UX Design, UI Design</h4>
-            <h4 class="heading heading--regular heading--light container-work--hidden">Summer 2017</h4>
-            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
-        </div>
-        <div class="col-sm-6 col-xs-12 container-work container-work-1">
-            <h4 class="heading heading--regular heading--light">Product Design Initiative</h4>
-            <hr class="container-work--hidden">
-            <h4 class="heading heading--regular heading--light container-work--hidden">UX Research, UX Design</h4>
-            <h4 class="heading heading--regular heading--light container-work--hidden">Winter 2017</h4>
-            <h4 class="heading heading--regular heading--light container-work--hidden container-work__case-study">+ case study</h4>
-            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
-        </div>
-        <div class="col-sm-6 col-xs-12 container-work container-work-1">
-            <h4 class="heading heading--regular heading--light">Narrative Creation Ontology Redesign</h4>
-            <hr class="container-work--hidden">
-            <h4 class="heading heading--regular heading--light container-work--hidden">UX Design, UI Design</h4>
-            <h4 class="heading heading--regular heading--light container-work--hidden">Summer 2016 - Fall 2016</h4>
-            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
-        </div>
-        <div class="col-sm-6 col-xs-12 container-work container-work-2">
-            <h4 class="heading heading--regular heading--light">Seelio for Educators</h4>
-            <hr class="container-work--hidden">
-            <h4 class="heading heading--regular heading--light container-work--hidden">UX Research, UX Design, UI Design</h4>
-            <h4 class="heading heading--regular heading--light container-work--hidden">Summer 2014 - Spring 2015</h4>
-            <h4 class="heading heading--regular heading--light container-work--hidden container-work__case-study">+ case study</h4>
-            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
-        </div>
-        <div class="col-sm-6 col-xs-12 container-work container-work-2">
-            <h4 class="heading heading--regular heading--light">Career Skills Map</h4>
-            <hr class="container-work--hidden">
-            <h4 class="heading heading--regular heading--light container-work--hidden">UX Design, UI Design, Product Management</h4>
-            <h4 class="heading heading--regular heading--light container-work--hidden">Winter 2015 - Spring 2016</h4>
-            <h4 class="heading heading--regular heading--light container-work--hidden container-work__case-study">+ case study</h4>
-            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
-        </div>
-        <div class="col-sm-6 col-xs-12 container-work container-work-1">
-            <h4 class="heading heading--regular heading--light">Animation: Tell Your Story With Seelio</h4>
-            <hr class="container-work--hidden">
-            <h4 class="heading heading--regular heading--light container-work--hidden">Visual Design, Fine Arts</h4>
-            <h4 class="heading heading--regular heading--light container-work--hidden">Summer - Fall 2014</h4>
-            <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
-        </div>
+    {% endfor %}
     </div>
 </div>
