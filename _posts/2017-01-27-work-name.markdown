@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Narrative Creation Sidebar Redesign and Code Refactor
-category: UX Design, UI Design, Product Management
+category: test
 cover: /assets/img-work-1.png
 tools: Adobe Photoshop CS3 
 timeline: Fall 2016 - Summer 2017
