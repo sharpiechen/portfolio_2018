@@ -424,6 +424,10 @@
   margin-top:10px;
 }
 
+#bootstrapoverride .refine--active {
+  color:#47D9E8;
+}
+
 .summary__img {
   position:absolute;
   height:600px;
