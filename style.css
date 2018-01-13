@@ -920,7 +920,7 @@ hr + .container-work--hidden {
 
 .container-post-cover {
   height:400px;
-  background-image: url("../assets/img-post-cover-1.jpg");
+  background-image: url("./assets/img-post-cover-1.jpg");
   background-size:cover;
   background-position: 0% 65%;
 }
