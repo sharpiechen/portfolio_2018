@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Test A
 category: Branding, Visual Design
 author: Peter Kim
