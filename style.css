@@ -816,6 +816,10 @@
   padding:30px;
   height:500px;
   width:100%;
+  position:relative;
+  background-size:cover;
+  background-position: 0% 70%;
+  background-repeat: no-repeat;
 }
 
 .container-work:hover {
@@ -854,6 +858,16 @@ hr + .container-work--hidden {
   position:absolute;
   left:30px;
   bottom:30px;
+}
+
+.work--link {
+  position:absolute; 
+  width:100%;
+    height:100%;
+    top:0;
+    left: 0;
+    z-index: 1;
+    background-image: url('empty.gif');
 }
 
 /*LG*/

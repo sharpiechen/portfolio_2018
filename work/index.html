@@ -39,20 +39,11 @@ title: Works
 	</div>
 </div>
 
-<!-- <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="../{{ post.url }}">{{ post.title }}</a>
-      <p>{{ post.categories }}</p>
-      <p>{{ post.timeline }}</p>
-    </li>
-  {% endfor %}
-</ul> -->
 
 <div id="work" class="container-fluid">
 	<div class="row">
 	{% for post in site.posts %}
-		<div class="col-sm-6 col-xs-12 container-work container-work-1">
+		<div class="col-sm-6 col-xs-12 container-work" style="background-image: url('./assets/{{post.cover}}');">
 			<a href="../{{ post.url }}">
 				<h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
 				<hr class="container-work--hidden">
