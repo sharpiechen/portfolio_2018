@@ -3,6 +3,8 @@ layout: works
 title: Works
 ---
 
+<!-- This is the page for "work" -->
+
 <div class="container-fluid container-hero-works">
 	<div class="container">
 		<div class="row container-summary container-summary-works">
@@ -36,3 +38,11 @@ title: Works
 		</div>		
 	</div>
 </div>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
