@@ -6,6 +6,7 @@ categories: ['UX Design','UI Design','Product Management']
 timeline: Fall 2016 - Summer 2017
 tools: Sketch, InVision
 client: Narrative Science
+featured: true
 
 cover: img-post-cover-1.jpg
 ---
