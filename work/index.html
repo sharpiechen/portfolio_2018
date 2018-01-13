@@ -39,7 +39,7 @@ title: Works
 	</div>
 </div>
 
-<ul>
+<!-- <ul>
   {% for post in site.posts %}
     <li>
       <a href="../{{ post.url }}">{{ post.title }}</a>
@@ -47,6 +47,22 @@ title: Works
       <p>{{ post.timeline }}</p>
     </li>
   {% endfor %}
-</ul>
+</ul> -->
+
+<div id="work" class="container-fluid">
+	<div class="row">
+	{% for post in site.posts %}
+		<div class="col-sm-6 col-xs-12 container-work container-work-1">
+			<a href="../{{ post.url }}">
+				<h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
+				<hr class="container-work--hidden">
+				<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories }}</h4>
+				<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.timeline }}</h4>
+				<h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+			</a>
+		</div>
+	</div>
+	{% endfor %}
+</div>
 
 
