@@ -6,7 +6,6 @@ categories: ['UX Research','UX Design','UI Design']
 timeline: Summer 2014 - Spring 2015
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6, Axure RP, InVision
 client: Seelio
-featured: true
 
 cover: img-post-cover-6.jpg
 ---

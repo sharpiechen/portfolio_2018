@@ -151,14 +151,14 @@ title: About
     </div>
     <div class="row">
     {% for post in site.posts %}
-        {% if post.featured contains 'true' %}
+        {% if post.categories contains 'Featured' %}
         <div class="col-sm-6 col-xs-12 container-work" >
             <div class="container-work--cover" style="background-image: url('./assets/{{ post.cover }}');">
                 <div class="container-work--overlay">
                     <a href="./{{ post.url }}">
                         <h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
                         <hr class="container-work--hidden">
-                        <h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories | join: ', ' | remove: 'Featured' }}</h4>
+                        <h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories | join: ' ' | remove: 'Featured' }}</h4>
                         <h4 class="heading heading--regular heading--light container-work--hidden">{{ post.timeline }}</h4>
                         <h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
                         <span class="work--link"></span>
