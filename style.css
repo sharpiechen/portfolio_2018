@@ -354,6 +354,134 @@
   margin-bottom:25px;
 }
 
+.container-logo {
+  position:relative;
+  height:50px;
+  width:50px;
+}
+
+.logo__cat, .logo__ear-left__cover, .logo__ear-right__cover, 
+.logo__ear-left, .logo__ear-right, 
+.logo__eye-right, .logo__eye-left, 
+.logo__mouth__cover, .logo__mouth, 
+.logo__body, .logo__body__cover {
+  position:absolute;
+}
+
+.logo__cat {
+  top:6;
+  left:0;
+  transition: top .2s ease-in;
+}
+
+.container-logo:hover .logo__cat {
+  top:0;
+}
+
+.container-logo:hover .logo__body__cover {
+  height:5px;
+}
+
+.logo__ear-left__cover, .logo__ear-right__cover,
+.logo__ear-left, .logo__ear-right {
+  width: 0;
+  height: 0;
+  border-style: solid;
+}
+
+.logo__ear-left__cover, .logo__ear-right__cover {
+  top:17px;
+  z-index:1;
+}
+
+.logo__ear-left__cover {
+  left:13px;
+  border-width: 10px 0 0 10px;
+  border-color: transparent transparent transparent white;
+}
+
+.logo__ear-right__cover {
+  left:27px;
+  border-width: 0 0 10px 10px;
+  border-color: transparent transparent white transparent;
+}
+
+.logo__ear-left {
+  top:10px;
+  left:10px;
+  border-width: 13px 0 0 13px;
+  border-color: transparent transparent transparent #252525;
+}
+
+.logo__ear-right {
+  top:10px;
+  left:27px;
+  border-width: 0 0 13px 13px;
+  border-color: transparent transparent #252525 transparent;
+}
+
+.logo__eye-right, .logo__eye-left {
+  border-radius: 50%;
+  width: 3px;
+  height: 3px; 
+  top:30px;
+  background-color:#252525; 
+}
+
+.logo__eye-right {
+  left:30px;
+}
+
+.logo__eye-left {
+  left:17px;
+}
+
+.logo__mouth__cover, .logo__mouth {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 3px 8px 3px;
+  left:22px;
+}
+
+.logo__mouth__cover {
+  z-index:-2;
+  top:38px;
+  border-color: transparent transparent white transparent;
+}
+
+.logo__mouth {
+  top:33px;
+  z-index:-3;
+  border-color: transparent transparent #252525 transparent;
+}
+
+.logo__body {
+  width:30px;
+  height:30px;
+  border:3px solid #252525;
+  bottom:-50px;
+  left:10px;
+  z-index:-5;
+}
+
+.logo__body__cover {
+  z-index:-4;
+  background-color:white;
+  width:30px;
+  height:11px;
+  bottom:-50px;
+  left:10px;
+  transition: height .3s ease-out;
+}
+
+.logo__circle {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px; 
+  border:3px solid #252525;
+}
+
 .nav-logo a {
   font-size:24px;
 }
@@ -829,11 +957,11 @@
 #bootstrapoverride .container-work--overlay {
   padding:30px;
   background-color:rgba(0,0,0,0) ;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 #bootstrapoverride .container-work--cover:hover .container-work--overlay {
