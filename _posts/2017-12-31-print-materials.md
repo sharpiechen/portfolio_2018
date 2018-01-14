@@ -7,7 +7,7 @@ timeline: Summer 2014 - Spring 2015
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6, Axure RP, InVision
 client: Seelio
 
-cover: img-post-cover-6.jpg
+cover: img-post-cover-14.jpg
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
