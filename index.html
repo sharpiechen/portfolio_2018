@@ -180,7 +180,7 @@ title: About
 
 {% endfor %}
 
-{% for category in site.categories %}
+{% for category in site.categories limit:1 %}
   <li><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
     {% for posts in category %}
