@@ -12,7 +12,7 @@ cover: img-post-cover-6.jpg
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
-<h3 class="heading heading--fancy">Creating a platform for educators to easily interact with students.</h3>
+<!-- <h3 class="heading heading--fancy">Creating a platform for educators to easily interact with students.</h3>
 <p>
 	Seelio for Educators is an educational technology that helps teachers and administrators of our partner universities track portfolio-based assignments, easily interact with students, and showcase exemplary student work through custom-curated showcases. Created to complement a university's Learning Management System (LMS), Seelio's educational platform flexibly caters to each university’s unique hierarchical system while also maintaining a streamlined simplicity.
 </p>
@@ -56,5 +56,5 @@ cover: img-post-cover-6.jpg
 	The platform we created meets the hierarchical needs of our partner universities by allowing administrators to easily customize a network of groups that reflect the structure of schools, departments, and classes of the university. In assigning specific permissions to each user that parallel the real-world responsibilities of the educator, we allow educators to manage and access only the groups and tools specific to their role. Moreover, integrating with university LMS software allows us to streamline the interaction between educators and students while forgoing the clunkiness of grading and assignments.
 	<br>
 	Over the course of a few weeks, I designed a complete set of responsive, hi-fidelity mockups using Adobe Photoshop CS6. I communicated the designs and interactions to our development team using Trello, Google Docs, and Invision.
-</p>
+</p> -->
 
