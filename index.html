@@ -173,6 +173,11 @@ title: About
 
 {% for post in site.posts %}
     <p>{{ post.title }}</p>
+    
+    {% if post.featured == "false" %}
+    <p>Featured: {{ post.title }}</p>
+    {% endif %}
+
 {% endfor %}
 
 
