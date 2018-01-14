@@ -152,7 +152,6 @@ title: About
     <div class="row">
     {% for post in site.posts limit: 1 %}
         {% if post.categories == "UX" %}
-        
         <div class="col-sm-6 col-xs-12 container-work" >
             <div class="container-work--cover" style="background-image: url('/assets/{{ post.cover }}');">
                 <div class="container-work--overlay">
@@ -167,8 +166,14 @@ title: About
                 </div>
             </div>
         </div>
-        
         {% endif %}
     {% endfor %}
     </div>
 </div>
+
+{% for post in site.posts limit: 1 %}
+    <p>{{ post.title }}</p>
+{% endfor %}
+
+
+
