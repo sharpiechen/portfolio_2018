@@ -1,6 +1,7 @@
 // Your scripts go here.
 
 $( "#filterfeatured" ).click(function() {
+  $(".filter--featured--test").css("opacity", "1");
   $(".filter--featured").css("display", "block");
   $(".filter--all").css("display", "none");
 });

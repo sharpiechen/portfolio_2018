@@ -990,6 +990,10 @@
   display:none;
 }
 
+.filter--featured--test {
+  opacity:0;
+}
+
 /*.filter--ux-research {
   display:none;
 }
