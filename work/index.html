@@ -43,6 +43,7 @@ title: Works
 
 <div class="container-fluid filter--all">
 	<div class="row">
+	<p>Filter: All</p>
 	{% for post in site.posts %}
 		<div class="col-sm-6 col-xs-12 container-work" >
 			<div class="container-work--cover" style="background-image: url('../assets/{{ post.cover }}');">
@@ -64,6 +65,7 @@ title: Works
 
 <div class="container-fluid filter--ux-research">
 	<div class="row">
+	<p>Filter: UX Research</p>
 	{% for post in site.posts %}
 		{% if post.categories contains 'user experience design' %}
 		<div class="col-sm-6 col-xs-12 container-work" >
@@ -87,6 +89,7 @@ title: Works
 
 <div class="container-fluid filter--ux-design">
 	<div class="row">
+	<p>Filter: UX Design</p>
 	{% for post in site.posts %}
 		{% if post.categories contains 'user experience design' %}
 		<div class="col-sm-6 col-xs-12 container-work" >
