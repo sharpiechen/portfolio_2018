@@ -2,7 +2,7 @@
 layout: post
 
 title: Seelio for Educators
-categories: ['UX Research','UX Design','UI Design']
+categories: ['visual design', 'fine arts']
 timeline: Summer 2014 - Spring 2015
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6, Axure RP, InVision
 client: Seelio

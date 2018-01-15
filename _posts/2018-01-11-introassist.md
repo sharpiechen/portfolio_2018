@@ -2,7 +2,7 @@
 layout: post
 
 title: IntroAssist Help Tool
-categories: ['UX Design','UI Design','Featured']
+categories: ['User experience design','User interface design','featured']
 timeline: Summer 2017
 tools: Sketch, InVision
 client: Northwestern University Segal Design Institute
