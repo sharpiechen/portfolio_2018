@@ -2,7 +2,7 @@
 layout: post
 
 title: Narrative Creation Ontology Redesign
-categories: ['User experience design','User interface design','featured']
+categories: ['user experience design','user interface design','featured']
 timeline: Fall 2016 - Winter 2016
 tools: Sketch
 client: Narrative Science

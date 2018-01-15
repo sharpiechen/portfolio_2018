@@ -2,7 +2,7 @@
 layout: post
 
 title: Narrative Creation Sidebar Redesign and Code Refactor
-categories: ['User experience Design','User interface Design','Product Management','Featured']
+categories: ['user experience design','user interface design','product management','featured']
 timeline: Fall 2016 - Summer 2017
 tools: Sketch, InVision
 client: Narrative Science
