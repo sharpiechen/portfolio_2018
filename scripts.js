@@ -1,9 +1,10 @@
 // Your scripts go here.
 
 $( "#filterfeatured" ).click(function() {
-  $(".filter--featured--test").css("opacity", "1");
   $(".filter--featured").css("display", "block");
+  $("#filterfeatured").css("color", "red");
   $(".filter--all").css("display", "none");
+
 });
 
 // Select all links with hashes

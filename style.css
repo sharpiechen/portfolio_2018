@@ -990,10 +990,6 @@
   display:none;
 }
 
-.filter--featured--test {
-  opacity:0;
-}
-
 /*.filter--ux-research {
   display:none;
 }
@@ -1130,8 +1126,20 @@ hr + .container-work--hidden {
     right:-110px;
     padding:10px 20px;
     background-color:#eee;
+    transition:all .15s ease;
   }
 
+  .footer__link-top .heading--regular {
+    margin-bottom:0px;
+  }
+
+  .footer__link-top:hover {
+    background-color:#252525;
+  }
+
+  .footer__link-top:hover .heading--regular {
+    color:white;
+  }
 
 /*Post///////////////////////////////////////////////*/
 
