@@ -986,7 +986,11 @@
   display:block;
 }
 
-.filter--ux-research {
+.filter--featured {
+  display:none;
+}
+
+/*.filter--ux-research {
   display:none;
 }
 
@@ -1012,7 +1016,7 @@
 
 .filter--fine-arts {
   display:none;
-}
+}*/
 
 #bootstrapoverride .container-work--cover:hover .container-work--overlay {
   background-color:rgba(0,0,0,0.6) ;

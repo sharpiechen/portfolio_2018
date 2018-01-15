@@ -1,7 +1,9 @@
 // Your scripts go here.
 
-console.log('hello world!');
-
+$( "#filterfeatured" ).click(function() {
+  $(".filter--featured").css("display", "block");
+  $(".filter--all").css("display", "none");
+});
 
 // Select all links with hashes
 $('a[href*="#"]')
