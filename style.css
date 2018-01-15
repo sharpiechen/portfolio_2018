@@ -1083,6 +1083,14 @@ hr + .container-work--hidden {
     bottom:0px;
   }
 
+  .footer__link-top {
+    position:absolute;
+    top:-110px;
+    right:-110px;
+    padding:10px 20px;
+    background-color:#eee;
+  }
+
 /*Post///////////////////////////////////////////////*/
 
 .container-post-breadcrumb {
