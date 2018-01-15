@@ -46,12 +46,12 @@ cover: img-post-cover-6.jpg
 
 <div class="post__section">
 	<div class="marker marker-post">03</div>
-	<h4 class="heading heading--regular heading--emphasize">create & test</h4>
+	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">create & test</h4>
 	<h3 class="heading heading--fancy">Using innovative solutions to fill in the gaps</h3>
 	<p>
 		While journey mapping helped us define a vision of an overall redesign, creating a user task flow helped us interject the user into the system in a more concrete way.
 	</p>
-	</p>
+	<p>
 		To prioritize our design, we identified three main tasks we wanted users to complete:
 	</p>
 	<ul>
@@ -72,7 +72,7 @@ cover: img-post-cover-6.jpg
 
 <div class="post__section">
 	<div class="marker marker-post">04</div>
-	<h4 class="heading heading--regular heading--emphasize">outcome</h4>
+	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">outcome</h4>
 	<h3 class="heading heading--fancy">A streamlined and flexible web experience for educators</h3>
 	<p>
 		The platform we created meets the hierarchical needs of our partner universities by allowing administrators to easily customize a network of groups that reflect the structure of schools, departments, and classes of the university. In assigning specific permissions to each user that parallel the real-world responsibilities of the educator, we allow educators to manage and access only the groups and tools specific to their role. Moreover, integrating with university LMS software allows us to streamline the interaction between educators and students while forgoing the clunkiness of grading and assignments.
