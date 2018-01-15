@@ -151,7 +151,7 @@ title: About
     </div>
     <div class="row">
     {% for post in site.posts %}
-        {% if post.categories contains 'Featured' %}
+        {% if post.categories contains 'featured' %}
         <div class="col-sm-6 col-xs-12 container-work" >
             <div class="container-work--cover" style="background-image: url('./assets/{{ post.cover }}');">
                 <div class="container-work--overlay">
