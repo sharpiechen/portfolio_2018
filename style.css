@@ -10,6 +10,7 @@
 }
 
 #bootstrapoverride p,
+#bootstrapoverride ul,
 .list {
   color:#252525;
   font-family: 'Playfair Display', serif;
@@ -1102,6 +1103,7 @@ hr + .container-work--hidden {
 
 .container-post-cover {
   height:400px;
+  background-image: url("../img/img-post-cover-1.jpg");
   background-size:cover;
   background-position: 0% 65%;
 }
@@ -1116,8 +1118,7 @@ hr + .container-work--hidden {
 }
 
 .marker-post {
-  top:100;
-  left:-100;
+  right:-150;
 }
 
 .post__sidebar__header {
@@ -1127,3 +1128,20 @@ hr + .container-work--hidden {
 .post__sidebar__metadata {
   color:#ccc;
 }
+
+.post__heading--stacked {
+  margin-top:50px;
+}
+
+#bootstrapoverride .post__quote ul {
+  list-style:none;
+  padding-left:0; 
+  border-left:5px solid #eee; 
+  padding-left:15px;
+}
+
+#bootstrapoverride .post__quote ul li {
+  font-style:italic;
+  padding:10px;
+}
+
