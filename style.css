@@ -1091,6 +1091,7 @@ hr + .container-work--hidden {
     background-color:#eee;
   }
 
+
 /*Post///////////////////////////////////////////////*/
 
 .container-post-breadcrumb {
@@ -1119,3 +1120,10 @@ hr + .container-work--hidden {
   left:-100;
 }
 
+.post__sidebar__header {
+  margin-bottom:5px;
+}
+
+.post__sidebar__metadata {
+  color:#ccc;
+}
