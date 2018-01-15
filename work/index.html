@@ -20,17 +20,6 @@ title: Works
 			</div>
 			<div class="col-3">
 				<h4 class="heading heading--regular heading--emphasize heading--work-refine">filter</h4>
-<!-- 				<ul class="list">
-					<li><a href="#" class="refine--active">All</a><br></li>
-					<li><a href="#">UX research</a></li>
-					<li><a href="#">UX design</a></li>
-					<li><a href="#">UI design</a></li>
-					<li><a href="#">Front-end development</a></li>
-					<li><a href="#">Product management</a></li>
-					<li><a href="#">Visual design</a></li>
-					<li><a href="#">Fine arts</a></li>
-				</ul> -->
-				
 				<ul class="list">
 				{% assign tags_list = site.categories %}  
 				  {% if tags_list.first[0] == null %}
@@ -44,9 +33,6 @@ title: Works
 				  {% endif %}
 				{% assign tags_list = nil %}
 				</ul>
-
-				<p>yes?</p>
-
 			</div>
 			<div class="col-md-8 col-xs-10 summary__works">
 				<h1 class="heading heading--fancy heading--emphasize">Browse through a collection of projects I've completed over the past 6 years</h1>
@@ -66,7 +52,7 @@ title: Works
 					<a href="../{{ post.url }}">
 						<h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
 						<hr class="container-work--hidden">
-						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories | join: ', ' | remove: ', Featured' }}</h4>
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories | join: ', ' | remove: ', featured' }}</h4>
 						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.timeline }}</h4>
 						<h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
 						<span class="work--link"></span>
