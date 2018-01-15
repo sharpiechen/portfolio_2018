@@ -41,8 +41,13 @@ layout: works
 
 <div class="container-fluid container-post-breadcrumb">
     <div class="container">
-        <a href="#" class="heading heading--regular heading--emphasize">&larr;&nbsp;&nbsp;Previous Project</a>
+    {% if page.previous.url %}
+        <a href="{{page.previous.url}}" class="heading heading--regular heading--emphasize">&larr;&nbsp;&nbsp;Previous Project&nbsp;/&nbsp;{{page.previous.title}}</a>
+    {% endif %}
         <span class="heading heading--regular heading--emphasize">&nbsp;&nbsp;/&nbsp;&nbsp;</span>
-        <a href="#" class="heading heading--regular heading--emphasize">Next Project&nbsp;&nbsp;&rarr;</a>
+    {% if page.next.url %}
+        <a href="{{page.next.url}}" class="heading heading--regular heading--emphasize">Next Project&nbsp;/&nbsp;{{page.next.title}}&nbsp;&nbsp;&rarr;</a>
+    {% endif %}
     </div>
 </div>
+
