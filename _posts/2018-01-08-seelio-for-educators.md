@@ -66,7 +66,7 @@ cover: img-post-cover-6.jpg
 </div>
 
 <div class="post__section">
-	<div class="marker marker-post">03</div>
+	<div class="marker marker-post">04</div>
 	<h4 class="heading heading--regular heading--emphasize">outcome</h4>
 	<h3 class="heading heading--fancy">A streamlined and flexible web experience for educators</h3>
 	<p>
