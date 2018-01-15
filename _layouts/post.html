@@ -46,7 +46,7 @@ layout: works
     {% endif %}
         <span class="heading heading--regular heading--emphasize">&nbsp;&nbsp;/&nbsp;&nbsp;</span>
     {% if page.next.url %}
-        <a href=".../{{page.next.url}}" class="heading heading--regular heading--emphasize">{{page.next.title}}&nbsp;&nbsp;&rarr;</a>
+        <a href="{{ baseurl }}/{{page.next.url}}" class="heading heading--regular heading--emphasize">{{page.next.title}}&nbsp;&nbsp;&rarr;</a>
     {% endif %}
     </div>
 </div>
