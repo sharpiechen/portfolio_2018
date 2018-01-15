@@ -497,11 +497,28 @@
 
 .nav-menu {
   text-align:right;
+  padding-top:13px;
+  padding-right:0px;
 }
 
 .nav-menu a {
   margin-left:35px;
   padding-bottom:8px;
+}
+
+.nav-menu a + .nav__link-blog {
+  margin-left:20px;
+}
+
+.nav__link-contact--hidden, 
+.nav__link-blog--hidden {
+  opacity:0;
+  transition: all .15s ease-in;
+}
+
+#bootstrapoverride a + .nav__link-contact:hover .nav__link-contact--hidden,
+#bootstrapoverride a + .nav__link-blog:hover .nav__link-blog--hidden {
+  opacity:1;
 }
 
 #bootstrapoverride .nav-menu a:hover {
@@ -967,7 +984,6 @@
 #bootstrapoverride .container-work--cover:hover .container-work--overlay {
   background-color:rgba(0,0,0,0.6) ;
 }
-
 
 #bootstrapoverride .container-work--cover:hover h3 + .container-work--hidden, 
 #bootstrapoverride .container-work--cover:hover h4 + .container-work--hidden,
