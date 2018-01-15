@@ -50,17 +50,22 @@ cover: img-post-cover-6.jpg
 	<h3 class="heading heading--fancy">Using innovative solutions to fill in the gaps</h3>
 	<p>
 		While journey mapping helped us define a vision of an overall redesign, creating a user task flow helped us interject the user into the system in a more concrete way.
-		<br>
+	</p>
+	</p>
 		To prioritize our design, we identified three main tasks we wanted users to complete:
-		<ul>
-			<li>Track and sort student works</li>
-			<li>Give feedback to students on works</li>
-			<li>Curate works into a custom showcase</li>
-		</ul>
+	</p>
+	<ul>
+		<li>Track and sort student works</li>
+		<li>Give feedback to students on works</li>
+		<li>Curate works into a custom showcase</li>
+	</ul>
+	<p>
 		With these tasks in mind, we conducted several rounds of brainstorming and ideation, from which we were able to abstract key concepts and ideas and create paper prototypes. Following a few rounds of informal testing and qualitative data analysis, we were able to develop three sets of interactive prototypes.
-		<br>
+	</p>
+	<p>
 		Formal testing revealed that educators were used to more traditional web interfaces and preferred performing tedious tasks on familiar interfaces over learning to navigate new layouts. Although we did not intend for Seelio to become an LMS, we realized that it was imperative that we include familiar LMS keywords such as “Assignment” and “Grade.” 
-		<br>
+	</p>
+	<p>
 		Following several rounds of testing, debriefing, and design iteration, we were able to consolidate our prototypes to one final design.
 	</p>
 </div>
@@ -71,7 +76,8 @@ cover: img-post-cover-6.jpg
 	<h3 class="heading heading--fancy">A streamlined and flexible web experience for educators</h3>
 	<p>
 		The platform we created meets the hierarchical needs of our partner universities by allowing administrators to easily customize a network of groups that reflect the structure of schools, departments, and classes of the university. In assigning specific permissions to each user that parallel the real-world responsibilities of the educator, we allow educators to manage and access only the groups and tools specific to their role. Moreover, integrating with university LMS software allows us to streamline the interaction between educators and students while forgoing the clunkiness of grading and assignments.
-		<br>
+	</p>
+	<p>
 		Over the course of a few weeks, I designed a complete set of responsive, hi-fidelity mockups using Adobe Photoshop CS6. I communicated the designs and interactions to our development team using Trello, Google Docs, and Invision.
 	</p>
 </div>
