@@ -982,6 +982,14 @@
     height: 100%;
 }
 
+.filter--ux-research {
+  display:none;
+}
+
+.filter--all {
+  display:block;
+}
+
 #bootstrapoverride .container-work--cover:hover .container-work--overlay {
   background-color:rgba(0,0,0,0.6) ;
 }
@@ -1023,11 +1031,11 @@ hr + .container-work--hidden {
 .work--link {
   position:absolute; 
   width:100%;
-    height:100%;
-    top:0;
-    left: 0;
-    z-index: 1;
-    background-image: url('empty.gif');
+  height:100%;
+  top:0;
+  left: 0;
+  z-index: 1;
+  background-image: url('empty.gif');
 }
 
 /*LG*/
@@ -1142,5 +1150,6 @@ hr + .container-work--hidden {
 #bootstrapoverride .post__quote ul li {
   font-style:italic;
   padding:10px;
+  font-size:.9rem;
 }
 

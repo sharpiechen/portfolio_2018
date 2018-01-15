@@ -11,7 +11,7 @@ title: Works
 			<div class="col-1">
 				<h4 class="heading heading--regular heading--emphasize heading--work-refine">sort</h4>
 				<ul class="list">
-					<li><a href="#" class="refine--active">Priority</a></li>
+					<li><a href="#">Priority</a></li>
 					<li><a href="#">Newest</a></li>
 					<li><a href="#">Oldest</a></li>
 					<li><a href="#">A-Z</a></li>
@@ -19,6 +19,20 @@ title: Works
 				</ul>
 			</div>
 			<div class="col-3">
+				<h4 class="heading heading--regular heading--emphasize heading--work-refine">filter</h4>
+				<ul class="list">
+					<li><a href="#">All</a></li>
+					<li><a id="filteruxresearch" href="#">UX Research</a></li>
+					<li><a href="#">UX Design</a></li>
+					<li><a href="#">UI Design</a></li>
+					<li><a href="#">Front-End Design</a></li>
+					<li><a href="#">Product Management</a></li>
+					<li><a href="#">Visual Design</a></li>
+					<li><a href="#">Fine Arts</a></li>
+				</ul>
+			</div>
+
+<!-- 			<div class="col-3">
 				<h4 class="heading heading--regular heading--emphasize heading--work-refine">filter</h4>
 				<ul class="list">
 				{% assign tags_list = site.categories %}  
@@ -33,7 +47,8 @@ title: Works
 				  {% endif %}
 				{% assign tags_list = nil %}
 				</ul>
-			</div>
+			</div> -->
+
 			<div class="col-md-8 col-xs-10 summary__works">
 				<h1 class="heading heading--fancy heading--emphasize">Browse through a collection of projects I've completed over the past 6 years</h1>
 				<p class="summary-works__contact">Want to collaborate, have business inquiries, or just want to connect?<br>Contact me at <a href="#">hello@sharonchen.design</a>.</p>
@@ -43,7 +58,7 @@ title: Works
 </div>
 
 
-<div id="work" class="container-fluid">
+<div class="container-fluid filter--all">
 	<div class="row">
 	{% for post in site.posts %}
 		<div class="col-sm-6 col-xs-12 container-work" >
@@ -60,6 +75,29 @@ title: Works
 				</div>
 			</div>
 		</div>
+	{% endfor %}
+	</div>
+</div>
+
+<div class="container-fluid filter--ux-research">
+	<div class="row">
+	{% for post in site.posts %}
+		{% if post.categories contains 'user experience design' %}
+		<div class="col-sm-6 col-xs-12 container-work" >
+			<div class="container-work--cover" style="background-image: url('../assets/{{ post.cover }}');">
+				<div class="container-work--overlay">
+					<a href="{{site.baseurl}}{{ post.url }}">
+						<h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
+						<hr class="container-work--hidden">
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories | join: ', ' | remove: ', featured' }}</h4>
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.timeline }}</h4>
+						<h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+						<span class="work--link"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+		{% endif %}
 	{% endfor %}
 	</div>
 </div>

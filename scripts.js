@@ -2,11 +2,11 @@
 
 console.log('hello world!');
 
-// $("#backtotop").click(function() {
-//     $('html, body').animate({scrollTop: $("#thisistop").offset().top}, 4000);
-// });
+$("#filteruxresearch").click(function() {
+    $("filter--ux-research").css("display", "block");
+    $("filter--all").css("display", "none");
 
-
+});
 
 
 // Select all links with hashes
