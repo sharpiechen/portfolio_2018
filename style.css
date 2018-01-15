@@ -982,12 +982,36 @@
     height: 100%;
 }
 
+.filter--all {
+  display:block;
+}
+
 .filter--ux-research {
   display:none;
 }
 
-.filter--all {
-  display:block;
+.filter--ux-design {
+  display:none;
+}
+
+.filter--ui-design {
+  display:none;
+}
+
+.filter--front-end {
+  display:none;
+}
+
+.filter--product-management {
+  display:none;
+}
+
+.filter--visual-design {
+  display:none;
+}
+
+.filter--fine-arts {
+  display:none;
 }
 
 #bootstrapoverride .container-work--cover:hover .container-work--overlay {
