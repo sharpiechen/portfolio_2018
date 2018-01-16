@@ -34,6 +34,7 @@
 .list p a:active {
   border-bottom:1px solid #47D9E8;
   color:#47D9E8;
+  text-decoration:none;
 }
 
 #bootstrapoverride p a:visited,
@@ -989,7 +990,11 @@
 
 .filter--all {
   display:block;
-  transition:all .25s ease;
+  transition:all .5s ease;
+}
+
+.filter--featured {
+  transition:all .5s ease;
 }
 
 #bootstrapoverride a .filter__link--all {
