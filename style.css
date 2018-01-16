@@ -997,7 +997,7 @@
   transition:all .5s ease;
 }
 
-#bootstrapoverride a .filter__link--all {
+#filterfeatured {
   color:#47D9E8;
 }
 

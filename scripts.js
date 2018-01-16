@@ -3,7 +3,7 @@
 //Filters//////////////////////////////////////////////////////////////////////////////////
 $( "#filterall" ).click(function() {
   $(".filter--all").css("display", "block");
-  $("#bootstrapoverride a .filter__link--all").css("color", "#47D9E8");
+  $("#filterall").css("color", "#47D9E8");
 
   $(".filter--featured").css("display", "none");
   $("#bootstrapoverride a .filter__link--featured").css("color", "#252525");
@@ -11,7 +11,7 @@ $( "#filterall" ).click(function() {
 
 $( "#filterfeatured" ).click(function() {
   $(".filter--featured").css("display", "block");
-  $("#bootstrapoverride a .filter__link--featured").css("color", "#47D9E8");
+  $("#filterfeatured").css("color", "#47D9E8");
 
   $(".filter--all").css("display", "none");
   $("#bootstrapoverride a .filter__link--all").css("color", "#252525");
