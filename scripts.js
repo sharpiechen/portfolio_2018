@@ -1,20 +1,221 @@
 // Your scripts go here.
 
 //Filters//////////////////////////////////////////////////////////////////////////////////
+
+// All
 $( "#filterall" ).click(function() {
   $(".filter--all").css("display", "block");
-  $("#filterall").css("color", "#47D9E8");
+  $("#bootstrapoverride .filter__link--all a").css("color", "#47D9E8");
 
   $(".filter--featured").css("display", "none");
   $("#bootstrapoverride a .filter__link--featured").css("color", "#252525");
+
+  $(".filter--ux-research").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-research").css("color", "#252525");
+
+  $(".filter--ux-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-design").css("color", "#252525"); 
+
+  $(".filter--ui-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ui-design").css("color", "#252525"); 
+
+  $(".filter--front-end").css("display", "none");
+  $("#bootstrapoverride a .filter__link--front-end").css("color", "#252525"); 
+
+  $(".filter--product-management").css("display", "none");
+  $("#bootstrapoverride a .filter__link--product-management").css("color", "#252525"); 
+
+  $(".filter--visual-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--visual-design").css("color", "#252525"); 
 });
 
+// Featured
 $( "#filterfeatured" ).click(function() {
   $(".filter--featured").css("display", "block");
-  $("#filterfeatured").css("color", "#47D9E8");
+  $("#bootstrapoverride .filter__link--featured a ").css("color", "#47D9E8");
 
   $(".filter--all").css("display", "none");
   $("#bootstrapoverride a .filter__link--all").css("color", "#252525");
+
+  $(".filter--ux-research").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-research").css("color", "#252525");
+
+  $(".filter--ux-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-design").css("color", "#252525"); 
+
+  $(".filter--ui-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ui-design").css("color", "#252525"); 
+
+  $(".filter--front-end").css("display", "none");
+  $("#bootstrapoverride a .filter__link--front-end").css("color", "#252525"); 
+
+  $(".filter--product-management").css("display", "none");
+  $("#bootstrapoverride a .filter__link--product-management").css("color", "#252525"); 
+
+  $(".filter--visual-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--visual-design").css("color", "#252525"); 
+});
+
+// UX Research
+$( "#filteruxresearch" ).click(function() {
+  $(".filter--ux-research").css("display", "block");
+  $("#bootstrapoverride .filter__link--ux-research a ").css("color", "#47D9E8");
+
+  $(".filter--all").css("display", "none");
+  $("#bootstrapoverride a .filter__link--all").css("color", "#252525");
+
+  $(".filter--featured").css("display", "none");
+  $("#bootstrapoverride a .filter__link--featured").css("color", "#252525");
+
+  $(".filter--ux-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-design").css("color", "#252525");
+
+  $(".filter--ui-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ui-design").css("color", "#252525"); 
+
+  $(".filter--front-end").css("display", "none");
+  $("#bootstrapoverride a .filter__link--front-end").css("color", "#252525"); 
+
+  $(".filter--product-management").css("display", "none");
+  $("#bootstrapoverride a .filter__link--product-management").css("color", "#252525"); 
+
+  $(".filter--visual-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--visual-design").css("color", "#252525"); 
+});
+
+// UX Design
+$( "#filteruxdesign" ).click(function() {
+  $(".filter--ux-design").css("display", "block");
+  $("#bootstrapoverride .filter__link--ux-design a ").css("color", "#47D9E8");
+
+  $(".filter--all").css("display", "none");
+  $("#bootstrapoverride a .filter__link--all").css("color", "#252525");
+
+  $(".filter--featured").css("display", "none");
+  $("#bootstrapoverride a .filter__link--featured").css("color", "#252525");
+
+  $(".filter--ux-research").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-research").css("color", "#252525");
+
+  $(".filter--ui-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ui-design").css("color", "#252525"); 
+
+  $(".filter--front-end").css("display", "none");
+  $("#bootstrapoverride a .filter__link--front-end").css("color", "#252525"); 
+
+  $(".filter--product-management").css("display", "none");
+  $("#bootstrapoverride a .filter__link--product-management").css("color", "#252525"); 
+
+  $(".filter--visual-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--visual-design").css("color", "#252525"); 
+});
+
+// UI Design
+$( "#filteruidesign" ).click(function() {
+  $(".filter--ui-design").css("display", "block");
+  $("#bootstrapoverride .filter__link--ui-design a ").css("color", "#47D9E8");
+
+  $(".filter--all").css("display", "none");
+  $("#bootstrapoverride a .filter__link--all").css("color", "#252525");
+
+  $(".filter--featured").css("display", "none");
+  $("#bootstrapoverride a .filter__link--featured").css("color", "#252525");
+
+  $(".filter--ux-research").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-research").css("color", "#252525");
+
+  $(".filter--ux-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-design").css("color", "#252525");
+
+  $(".filter--front-end").css("display", "none");
+  $("#bootstrapoverride a .filter__link--front-end").css("color", "#252525"); 
+
+  $(".filter--product-management").css("display", "none");
+  $("#bootstrapoverride a .filter__link--product-management").css("color", "#252525"); 
+
+  $(".filter--visual-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--visual-design").css("color", "#252525"); 
+});
+
+// Front-End Development
+$( "#filterfrontend" ).click(function() {
+  $(".filter--front-end").css("display", "block");
+  $("#bootstrapoverride .filter__link--front-end a ").css("color", "#47D9E8");
+
+  $(".filter--all").css("display", "none");
+  $("#bootstrapoverride a .filter__link--all").css("color", "#252525");
+
+  $(".filter--featured").css("display", "none");
+  $("#bootstrapoverride a .filter__link--featured").css("color", "#252525");
+
+  $(".filter--ux-research").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-research").css("color", "#252525");
+
+  $(".filter--ux-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-design").css("color", "#252525");
+
+  $(".filter--ui-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ui-design").css("color", "#252525"); 
+
+  $(".filter--product-management").css("display", "none");
+  $("#bootstrapoverride a .filter__link--product-management").css("color", "#252525"); 
+
+  $(".filter--visual-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--visual-design").css("color", "#252525"); 
+});
+
+// Product Management
+$( "#filterproductmanagement" ).click(function() {
+  $(".filter--product-management").css("display", "block");
+  $("#bootstrapoverride .filter__link--product-management a ").css("color", "#47D9E8");
+
+  $(".filter--all").css("display", "none");
+  $("#bootstrapoverride a .filter__link--all").css("color", "#252525");
+
+  $(".filter--featured").css("display", "none");
+  $("#bootstrapoverride a .filter__link--featured").css("color", "#252525");
+
+  $(".filter--ux-research").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-research").css("color", "#252525");
+
+  $(".filter--ux-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-design").css("color", "#252525");
+
+  $(".filter--ui-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ui-design").css("color", "#252525"); 
+
+  $(".filter--front-end").css("display", "none");
+  $("#bootstrapoverride a .filter__link--front-end").css("color", "#252525"); 
+
+  $(".filter--visual-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--visual-design").css("color", "#252525"); 
+});
+
+// Visual Design
+$( "#filtervisualdesign" ).click(function() {
+  $(".filter--visual-design").css("display", "block");
+  $("#bootstrapoverride .filter__link--visual-design a ").css("color", "#47D9E8");
+
+  $(".filter--all").css("display", "none");
+  $("#bootstrapoverride a .filter__link--all").css("color", "#252525");
+
+  $(".filter--featured").css("display", "none");
+  $("#bootstrapoverride a .filter__link--featured").css("color", "#252525");
+
+  $(".filter--ux-research").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-research").css("color", "#252525");
+
+  $(".filter--ux-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ux-design").css("color", "#252525");
+
+  $(".filter--ui-design").css("display", "none");
+  $("#bootstrapoverride a .filter__link--ui-design").css("color", "#252525"); 
+
+  $(".filter--front-end").css("display", "none");
+  $("#bootstrapoverride a .filter__link--front-end").css("color", "#252525"); 
+
+  $(".filter--product-management").css("display", "none");
+  $("#bootstrapoverride a .filter__link--product-management").css("color", "#252525"); 
 });
 
 

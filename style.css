@@ -993,46 +993,16 @@
   transition:all .5s ease;
 }
 
-.filter--featured {
-  transition:all .5s ease;
-}
-
-#filterfeatured {
+#bootstrapoverride .filter__link--all a {
   color:#47D9E8;
 }
 
-.filter--featured {
+.filter--featured, .filter--ux-research, .filter--ux-design,
+.filter--ui-design, .filter--front-end, .filter--product-management,
+.filter--visual-design {
   display:none;
   transition:all .25s ease;
 }
-
-/*.filter--ux-research {
-  display:none;
-}
-
-.filter--ux-design {
-  display:none;
-}
-
-.filter--ui-design {
-  display:none;
-}
-
-.filter--front-end {
-  display:none;
-}
-
-.filter--product-management {
-  display:none;
-}
-
-.filter--visual-design {
-  display:none;
-}
-
-.filter--fine-arts {
-  display:none;
-}*/
 
 #bootstrapoverride .container-work--cover:hover .container-work--overlay {
   background-color:rgba(0,0,0,0.6) ;

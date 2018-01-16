@@ -2,7 +2,7 @@
 layout: post
 
 title: Quill 3 Zendesk Support Site
-categories: ['user experience design','user interface design','front-end Development','featured']
+categories: ['user experience design','user interface design','front-end development','featured']
 timeline: Winter 2017
 tools: Sketch, HTML, CSS, ZenDesk
 client: Narrative Science

@@ -20,12 +20,12 @@ title: Works
 				<ul class="list">
 					<li class="filter__link--all"><a id="filterall" href="#">All</a></li>
 					<li class="filter__link--featured"><a id="filterfeatured" href="#">Featured</a></li>
-					<li><a id="filteruxresearch" href="#">UX Research</a></li>
-					<li><a id="filteruxdesign" href="#">UX Design</a></li>
-					<li><a id="filteruidesign" href="#">UI Design</a></li>
-					<li><a id="filterfrontend" href="#">UI Engineering</a></li>
-					<li><a id="filterproductmanagement" href="#">Product Management</a></li>
-					<li><a id="filtervisualdesign" href="#">Visual Design</a></li>
+					<li class="filter__link--ux-research">><a id="filteruxresearch" href="#">UX Research</a></li>
+					<li class="filter__link--ux-design">><a id="filteruxdesign" href="#">UX Design</a></li>
+					<li class="filter__link--ui-design">><a id="filteruidesign" href="#">UI Design</a></li>
+					<li class="filter__link--ui-front-end">><a id="filterfrontend" href="#">Front-End Development</a></li>
+					<li class="filter__link--product-management">><a id="filterproductmanagement" href="#">Product Management</a></li>
+					<li class="filter__link--visual-design">><a id="filtervisualdesign" href="#">Visual Design</a></li>
 				</ul>
 			</div>
 
@@ -59,7 +59,7 @@ title: Works
 	</div>
 </div>
 
-<!-- //Featured Works - Newest//////////////////////////////////////////////////////////////////////////////////// -->
+<!-- //Featured Works//////////////////////////////////////////////////////////////////////////////////// -->
 <div class="container-fluid filter--featured">
 	<div class="row filter__indicator">
 		<h4 class="heading heading--regular heading--emphasize">Filter: Featured&nbsp;&nbsp;&#x2715;</h4>
@@ -85,3 +85,167 @@ title: Works
 	{% endfor %}
 	</div>
 </div>
+
+<!-- //UX Research//////////////////////////////////////////////////////////////////////////////////// -->
+<div class="container-fluid filter--ux-research">
+	<div class="row filter__indicator">
+		<h4 class="heading heading--regular heading--emphasize">Filter: UX Research&nbsp;&nbsp;&#x2715;</h4>
+	</div>
+	<div class="row">
+	{% for post in site.posts %}
+		{% if post.categories contains 'user experience research' %}
+		<div class="col-sm-6 col-xs-12 container-work" >
+			<div class="container-work--cover" style="background-image: url('../assets/{{ post.cover }}');">
+				<div class="container-work--overlay">
+					<a href="{{site.baseurl}}{{ post.url }}">
+						<h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
+						<hr class="container-work--hidden">
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories | join: ', ' | remove: ', featured' }}</h4>
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.timeline }}</h4>
+						<h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+						<span class="work--link"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+		{% endif %}
+	{% endfor %}
+	</div>
+</div>
+
+<!-- //UX Design//////////////////////////////////////////////////////////////////////////////////// -->
+<div class="container-fluid filter--ux-design">
+	<div class="row filter__indicator">
+		<h4 class="heading heading--regular heading--emphasize">Filter: UX Design&nbsp;&nbsp;&#x2715;</h4>
+	</div>
+	<div class="row">
+	{% for post in site.posts %}
+		{% if post.categories contains 'user experience design' %}
+		<div class="col-sm-6 col-xs-12 container-work" >
+			<div class="container-work--cover" style="background-image: url('../assets/{{ post.cover }}');">
+				<div class="container-work--overlay">
+					<a href="{{site.baseurl}}{{ post.url }}">
+						<h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
+						<hr class="container-work--hidden">
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories | join: ', ' | remove: ', featured' }}</h4>
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.timeline }}</h4>
+						<h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+						<span class="work--link"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+		{% endif %}
+	{% endfor %}
+	</div>
+</div>
+
+<!-- //UI Design//////////////////////////////////////////////////////////////////////////////////// -->
+<div class="container-fluid filter--ui-design">
+	<div class="row filter__indicator">
+		<h4 class="heading heading--regular heading--emphasize">Filter: UI Design&nbsp;&nbsp;&#x2715;</h4>
+	</div>
+	<div class="row">
+	{% for post in site.posts %}
+		{% if post.categories contains 'user interface design' %}
+		<div class="col-sm-6 col-xs-12 container-work" >
+			<div class="container-work--cover" style="background-image: url('../assets/{{ post.cover }}');">
+				<div class="container-work--overlay">
+					<a href="{{site.baseurl}}{{ post.url }}">
+						<h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
+						<hr class="container-work--hidden">
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories | join: ', ' | remove: ', featured' }}</h4>
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.timeline }}</h4>
+						<h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+						<span class="work--link"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+		{% endif %}
+	{% endfor %}
+	</div>
+</div>
+
+<!-- //Front-End Development//////////////////////////////////////////////////////////////////////////////////// -->
+<div class="container-fluid filter--front-end">
+	<div class="row filter__indicator">
+		<h4 class="heading heading--regular heading--emphasize">Filter: Front-End Development&nbsp;&nbsp;&#x2715;</h4>
+	</div>
+	<div class="row">
+	{% for post in site.posts %}
+		{% if post.categories contains 'front-end development' %}
+		<div class="col-sm-6 col-xs-12 container-work" >
+			<div class="container-work--cover" style="background-image: url('../assets/{{ post.cover }}');">
+				<div class="container-work--overlay">
+					<a href="{{site.baseurl}}{{ post.url }}">
+						<h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
+						<hr class="container-work--hidden">
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories | join: ', ' | remove: ', featured' }}</h4>
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.timeline }}</h4>
+						<h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+						<span class="work--link"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+		{% endif %}
+	{% endfor %}
+	</div>
+</div>
+
+<!-- //Product Management//////////////////////////////////////////////////////////////////////////////////// -->
+<div class="container-fluid filter--product-management">
+	<div class="row filter__indicator">
+		<h4 class="heading heading--regular heading--emphasize">Filter: Product Management&nbsp;&nbsp;&#x2715;</h4>
+	</div>
+	<div class="row">
+	{% for post in site.posts %}
+		{% if post.categories contains 'product management' %}
+		<div class="col-sm-6 col-xs-12 container-work" >
+			<div class="container-work--cover" style="background-image: url('../assets/{{ post.cover }}');">
+				<div class="container-work--overlay">
+					<a href="{{site.baseurl}}{{ post.url }}">
+						<h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
+						<hr class="container-work--hidden">
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories | join: ', ' | remove: ', featured' }}</h4>
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.timeline }}</h4>
+						<h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+						<span class="work--link"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+		{% endif %}
+	{% endfor %}
+	</div>
+</div>
+
+<!-- //Visual Design//////////////////////////////////////////////////////////////////////////////////// -->
+<div class="container-fluid filter--visual-design">
+	<div class="row filter__indicator">
+		<h4 class="heading heading--regular heading--emphasize">Filter: Visual Design&nbsp;&nbsp;&#x2715;</h4>
+	</div>
+	<div class="row">
+	{% for post in site.posts %}
+		{% if post.categories contains 'visual design' %}
+		<div class="col-sm-6 col-xs-12 container-work" >
+			<div class="container-work--cover" style="background-image: url('../assets/{{ post.cover }}');">
+				<div class="container-work--overlay">
+					<a href="{{site.baseurl}}{{ post.url }}">
+						<h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
+						<hr class="container-work--hidden">
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories | join: ', ' | remove: ', featured' }}</h4>
+						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.timeline }}</h4>
+						<h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
+						<span class="work--link"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+		{% endif %}
+	{% endfor %}
+	</div>
+</div>
+
+
