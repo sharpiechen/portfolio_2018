@@ -984,10 +984,16 @@
 
 .filter--all {
   display:block;
+  transition:all .25s ease;
+}
+
+#bootstrapoverride a .filter__link--all {
+  color:#47D9E8;
 }
 
 .filter--featured {
   display:none;
+  transition:all .25s ease;
 }
 
 /*.filter--ux-research {

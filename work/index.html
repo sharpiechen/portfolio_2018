@@ -18,8 +18,8 @@ title: Works
 			<div class="col-3">
 				<h4 class="heading heading--regular heading--emphasize heading--work-refine">filter</h4>
 				<ul class="list">
-					<li><a id="filterall" href="#">All</a></li>
-					<li><a id="filterfeatured" href="#">Featured</a></li>
+					<li class="filter__link--all"><a id="filterall" href="#">All</a></li>
+					<li class="filter__link--featured"><a id="filterfeatured" href="#">Featured</a></li>
 					<li><a id="filteruxresearch" href="#">UX Research</a></li>
 					<li><a id="filteruxdesign" href="#">UX Design</a></li>
 					<li><a id="filteruidesign" href="#">UI Design</a></li>
@@ -60,6 +60,9 @@ title: Works
 </div>
 
 <div class="container-fluid filter--featured">
+	<div class="row" style="background-color:white;padding:20px 20px 5px 30px">
+		<h4 class="heading heading--regular heading--emphasize">Filter: Featured</h4>
+	</div>
 	<div class="row">
 	{% for post in site.posts %}
 		{% if post.categories contains 'featured' %}

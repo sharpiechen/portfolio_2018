@@ -2,9 +2,10 @@
 
 $( "#filterfeatured" ).click(function() {
   $(".filter--featured").css("display", "block");
-  $("#filterfeatured").css("color", "red");
-  $(".filter--all").css("display", "none");
+  $("#bootstrapoverride a .filter__link--featured").css("color", "#47D9E8");
 
+  $(".filter--all").css("display", "none");
+  $("#bootstrapoverride a .filter__link--all").css("color", "#252525");
 });
 
 // Select all links with hashes
