@@ -982,6 +982,11 @@
     height: 100%;
 }
 
+.filter__indicator {
+  background-color:white;
+  padding:20px 20px 5px 30px;
+}
+
 .filter--all {
   display:block;
   transition:all .25s ease;

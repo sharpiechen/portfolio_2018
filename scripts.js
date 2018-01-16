@@ -1,5 +1,14 @@
 // Your scripts go here.
 
+//Filters//////////////////////////////////////////////////////////////////////////////////
+$( "#filterall" ).click(function() {
+  $(".filter--all").css("display", "block");
+  $("#bootstrapoverride a .filter__link--all").css("color", "#47D9E8");
+
+  $(".filter--featured").css("display", "none");
+  $("#bootstrapoverride a .filter__link--featured").css("color", "#252525");
+});
+
 $( "#filterfeatured" ).click(function() {
   $(".filter--featured").css("display", "block");
   $("#bootstrapoverride a .filter__link--featured").css("color", "#47D9E8");
@@ -8,6 +17,8 @@ $( "#filterfeatured" ).click(function() {
   $("#bootstrapoverride a .filter__link--all").css("color", "#252525");
 });
 
+
+// BACK TO TOP////////////////////////////////////////////////////////////////////////////////////
 // Select all links with hashes
 $('a[href*="#"]')
   // Remove links that don't actually link to anything
