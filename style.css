@@ -983,7 +983,7 @@
     height: 100%;
 }
 
-.container-filter-links {
+#bootstrapoverride .container-filter-links {
   padding-left:50px;
 }
 
