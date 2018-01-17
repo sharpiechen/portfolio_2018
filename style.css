@@ -983,6 +983,10 @@
     height: 100%;
 }
 
+.container-filter-links {
+  padding-left:50px;
+}
+
 .filter__indicator {
   background-color:white;
   padding:20px 20px 5px 30px;
