@@ -61,8 +61,8 @@ title: Works
 
 <!-- //Featured Works//////////////////////////////////////////////////////////////////////////////////// -->
 <div class="container-fluid filter--featured">
-	<div id="filterindicator" class="row">
-		<h4 class="heading heading--regular heading--emphasize">Filter: Featured&nbsp;&nbsp;&#x2715;</h4>
+	<div class="row filter__indicator">
+		<a href="#" id="filterindicator" class="heading heading--regular heading--emphasize">Filter: Featured&nbsp;&nbsp;&#x2715;</a>
 	</div>
 	<div class="row">
 	{% for post in site.posts %}
@@ -88,8 +88,8 @@ title: Works
 
 <!-- //UX Research//////////////////////////////////////////////////////////////////////////////////// -->
 <div class="container-fluid filter--ux-research">
-	<div id="filterindicator" class="row">
-		<h4 class="heading heading--regular heading--emphasize">Filter: UX Research&nbsp;&nbsp;&#x2715;</h4>
+	<div class="row filter__indicator">
+		<a href="#" id="filterindicator" class="heading heading--regular heading--emphasize">Filter: UX Research&nbsp;&nbsp;&#x2715;</a>
 	</div>
 	<div class="row">
 	{% for post in site.posts %}
@@ -115,8 +115,8 @@ title: Works
 
 <!-- //UX Design//////////////////////////////////////////////////////////////////////////////////// -->
 <div class="container-fluid filter--ux-design">
-	<div id="filterindicator" class="row">
-		<h4 class="heading heading--regular heading--emphasize">Filter: UX Design&nbsp;&nbsp;&#x2715;</h4>
+	<div class="row filter__indicator">
+		<a href="#" id="filterindicator" class="heading heading--regular heading--emphasize">Filter: UX Design&nbsp;&nbsp;&#x2715;</a>
 	</div>
 	<div class="row">
 	{% for post in site.posts %}
@@ -142,11 +142,9 @@ title: Works
 
 <!-- //UI Design//////////////////////////////////////////////////////////////////////////////////// -->
 <div class="container-fluid filter--ui-design">
-	<a href="#" id="filterindicator">
-		<div class="row filter__indicator">
-			<h4 class="heading heading--regular heading--emphasize">Filter: UI Design&nbsp;&nbsp;&#x2715;</h4>
-		</div>
-	</a>
+	<div class="row filter__indicator">
+		<a href="#" id="filterindicator" class="heading heading--regular heading--emphasize">Filter: UI Design&nbsp;&nbsp;&#x2715;</a>
+	</div>
 	<div class="row">
 	{% for post in site.posts %}
 		{% if post.categories contains 'user interface design' %}
@@ -171,11 +169,9 @@ title: Works
 
 <!-- //Front-End Development//////////////////////////////////////////////////////////////////////////////////// -->
 <div class="container-fluid filter--front-end">
-	<a href="#" id="filterindicator">
-		<div class="row filter__indicator">
-			<h4 class="heading heading--regular heading--emphasize">Filter: Front-End Development&nbsp;&nbsp;&#x2715;</h4>
-		</div>
-	</a>
+	<div class="row filter__indicator">
+		<a href="#" id="filterindicator" class="heading heading--regular heading--emphasize">Filter: Front-End Development&nbsp;&nbsp;&#x2715;</a>
+	</div>
 	<div class="row">
 	{% for post in site.posts %}
 		{% if post.categories contains 'front-end development' %}
@@ -200,11 +196,9 @@ title: Works
 
 <!-- //Product Management//////////////////////////////////////////////////////////////////////////////////// -->
 <div class="container-fluid filter--product-management">
-	<a href="#" id="filterindicator">
-		<div class="row filter__indicator">
-			<h4 class="heading heading--regular heading--emphasize">Filter: Product Management&nbsp;&nbsp;&#x2715;</h4>
-		</div>
-	</a>
+	<div class="row filter__indicator">
+		<a href="#" id="filterindicator" class="heading heading--regular heading--emphasize">Filter: Product Management&nbsp;&nbsp;&#x2715;</a>
+	</div>
 	<div class="row">
 	{% for post in site.posts %}
 		{% if post.categories contains 'product management' %}
@@ -229,11 +223,9 @@ title: Works
 
 <!-- //Visual Design//////////////////////////////////////////////////////////////////////////////////// -->
 <div class="container-fluid filter--visual-design">
-	<a href="#" id="filterindicator">
-		<div class="row filter__indicator">
-			<h4 class="heading heading--regular heading--emphasize">Filter: Visual Design&nbsp;&nbsp;&#x2715;</h4>
-		</div>
-	</a>
+	<div class="row filter__indicator">
+		<a href="#" id="filterindicator" class="heading heading--regular heading--emphasize">Filter: Visual Design&nbsp;&nbsp;&#x2715;</a>
+	</div>
 	<div class="row">
 	{% for post in site.posts %}
 		{% if post.categories contains 'visual design' %}

@@ -988,7 +988,7 @@
   padding:20px 20px 5px 30px;
 }
 
-#filterindicator:hover h4 {
+#bootstrapoverride .filter__indicator a:hover +  {
   color:#47D9E8;
 }
 
