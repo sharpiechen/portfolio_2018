@@ -988,6 +988,10 @@
   padding:20px 20px 5px 30px;
 }
 
+#filterindicator:hover h4 {
+  color:#47D9E8;
+}
+
 .filter--all {
   display:block;
   transition:all .5s ease;
