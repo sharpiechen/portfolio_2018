@@ -16,15 +16,17 @@ cover: img-post-cover-6.jpg
 	Seelio for Educators is an educational technology that helps teachers and administrators of our partner universities track portfolio-based assignments, easily interact with students, and showcase exemplary student work through custom-curated showcases. Created to complement a university's Learning Management System (LMS), Seelio's educational platform flexibly caters to each university’s unique hierarchical system while also maintaining a streamlined simplicity.
 </p>
 
-<h4 class="heading heading--regular heading--emphasize">understand</h4>
+<h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
 <h3 class="heading heading--fancy">Getting to know educator needs by mapping every touchpoint.</h3>
 <p>
 	We employed a service design approach to understanding exactly what educators wanted from an online educational tool like Seelio. After conducting interviews with new and existing users, we created primary, secondary, and tertiary educator personas and user scenarios.
 </p>
-<ul class="post__quote">
-	<li>“I expected the interface to have more back-end, admin-like features. I’m not really sure if what I’m looking at is what students are looking.” - User 4</li>
-	<li>“I use the showcase as a repository of works for current and prospective students, for the dean, and for advising appointments”  - User 3</li>
-</ul>
+<div class="post__quote">
+	<ul>
+		<li>“I expected the interface to have more back-end, admin-like features. I’m not really sure if what I’m looking at is what students are looking.” - User 4</li>
+		<li>“I use the showcase as a repository of works for current and prospective students, for the dean, and for advising appointments”  - User 3</li>
+	</ul>
+</div>
 <p>
 	We used our personas and scenarios to map out the educator journey across Seelio, to pinpoint areas of pain, and to identify service gaps that needed to be filled.
 </p>
