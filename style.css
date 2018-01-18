@@ -989,10 +989,11 @@
 
 .container-link-works {
   text-align:center;
+  padding:20px 20px 5px 30px;
+  background-color: #E7E8E2;
 }
 
-.filter__indicator,
-.container-link-works {
+.filter__indicator {
   background-color:white;
   padding:20px 20px 5px 30px;
 }
