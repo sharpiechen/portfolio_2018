@@ -30,9 +30,10 @@
 
 #bootstrapoverride p a:hover, 
 #bootstrapoverride p a:active,
+#bootstrapoverride p a:focus,
 .list p a:hover,
-.list p a:active {
-  /*border-bottom:1px solid #47D9E8;*/
+.list p a:active,
+.list p a:focus {
   color:#47D9E8;
   text-decoration:none;
 }
@@ -984,7 +985,7 @@
 }
 
 #bootstrapoverride .container-filter-links {
-  padding-left:50px;
+  padding-left:60px;
 }
 
 .filter__indicator {
