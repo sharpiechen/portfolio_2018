@@ -5,10 +5,6 @@
   transition: all .15s ease-in;
 }
 
-#bootstrapoverride a:hover {
-  color:#47D9E8;
-}
-
 #bootstrapoverride p,
 #bootstrapoverride ul,
 .list {
@@ -33,7 +29,10 @@
 #bootstrapoverride p a:focus,
 .list p a:hover,
 .list p a:active,
-.list p a:focus {
+.list p a:focus,
+#bootstrapoverride a:hover,
+#bootstrapoverride a:active,
+#bootstrapoverride a:focus {
   color:#47D9E8;
   text-decoration:none;
 }
