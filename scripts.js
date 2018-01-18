@@ -7,35 +7,8 @@ $( "#filterall, #filterindicator").click(function() {
   $(".filter--all").css("display", "block");
   $("#bootstrapoverride .filter__link--all a").css("color", "#47D9E8");
 
-  $(".filter--featured, .filter--ux-research, .filter--ux-design, .filter--ui-design, .filter--front-end, .filter--product-management, .filter--visual-design").css("display", "none");
+  $(".filter--ux-research, .filter--ux-design, .filter--ui-design, .filter--front-end, .filter--product-management, .filter--visual-design").css("display", "none");
   $("#bootstrapoverride .filter__link--featured a, #bootstrapoverride .filter__link--ux-research a, #bootstrapoverride .filter__link--ux-design a, #bootstrapoverride .filter__link--ui-design a, #bootstrapoverride .filter__link--front-end a, #bootstrapoverride .filter__link--product-management a, #bootstrapoverride .filter__link--visual-design a").css("color", "#252525");
-});
-
-// Featured
-$( "#filterfeatured" ).click(function() {
-  $(".filter--featured").css("display", "block");
-  $("#bootstrapoverride .filter__link--featured a ").css("color", "#47D9E8");
-
-  $(".filter--all").css("display", "none");
-  $("#bootstrapoverride .filter__link--all a").css("color", "#252525");
-
-  $(".filter--ux-research").css("display", "none");
-  $("#bootstrapoverride .filter__link--ux-research a").css("color", "#252525");
-
-  $(".filter--ux-design").css("display", "none");
-  $("#bootstrapoverride .filter__link--ux-design a").css("color", "#252525"); 
-
-  $(".filter--ui-design").css("display", "none");
-  $("#bootstrapoverride .filter__link--ui-design").css("color", "#252525"); 
-
-  $(".filter--front-end").css("display", "none");
-  $("#bootstrapoverride .filter__link--front-end a").css("color", "#252525"); 
-
-  $(".filter--product-management").css("display", "none");
-  $("#bootstrapoverride .filter__link--product-management a").css("color", "#252525"); 
-
-  $(".filter--visual-design").css("display", "none");
-  $("#bootstrapoverride .filter__link--visual-design a").css("color", "#252525"); 
 });
 
 // UX Research
@@ -45,9 +18,6 @@ $( "#filteruxresearch" ).click(function() {
 
   $(".filter--all").css("display", "none");
   $("#bootstrapoverride .filter__link--all a").css("color", "#252525");
-
-  $(".filter--featured").css("display", "none");
-  $("#bootstrapoverride .filter__link--featured a").css("color", "#252525");
 
   $(".filter--ux-design").css("display", "none");
   $("#bootstrapoverride .filter__link--ux-design a").css("color", "#252525");
@@ -73,9 +43,6 @@ $( "#filteruxdesign" ).click(function() {
   $(".filter--all").css("display", "none");
   $("#bootstrapoverride .filter__link--all a").css("color", "#252525");
 
-  $(".filter--featured").css("display", "none");
-  $("#bootstrapoverride .filter__link--featured a").css("color", "#252525");
-
   $(".filter--ux-research").css("display", "none");
   $("#bootstrapoverride .filter__link--ux-research a").css("color", "#252525");
 
@@ -99,9 +66,6 @@ $( "#filteruidesign" ).click(function() {
 
   $(".filter--all").css("display", "none");
   $("#bootstrapoverride .filter__link--all a").css("color", "#252525");
-
-  $(".filter--featured").css("display", "none");
-  $("#bootstrapoverride .filter__link--featured a").css("color", "#252525");
 
   $(".filter--ux-research").css("display", "none");
   $("#bootstrapoverride .filter__link--ux-research a").css("color", "#252525");
@@ -127,9 +91,6 @@ $( "#filterfrontend" ).click(function() {
   $(".filter--all").css("display", "none");
   $("#bootstrapoverride .filter__link--all a").css("color", "#252525");
 
-  $(".filter--featured").css("display", "none");
-  $("#bootstrapoverride .filter__link--featured a").css("color", "#252525");
-
   $(".filter--ux-research").css("display", "none");
   $("#bootstrapoverride .filter__link--ux-research a").css("color", "#252525");
 
@@ -154,9 +115,6 @@ $( "#filterproductmanagement" ).click(function() {
   $(".filter--all").css("display", "none");
   $("#bootstrapoverride .filter__link--all a").css("color", "#252525");
 
-  $(".filter--featured").css("display", "none");
-  $("#bootstrapoverride .filter__link--featured a").css("color", "#252525");
-
   $(".filter--ux-research").css("display", "none");
   $("#bootstrapoverride .filter__link--ux-research a").css("color", "#252525");
 
@@ -180,9 +138,6 @@ $( "#filtervisualdesign" ).click(function() {
 
   $(".filter--all").css("display", "none");
   $("#bootstrapoverride .filter__link--all a").css("color", "#252525");
-
-  $(".filter--featured").css("display", "none");
-  $("#bootstrapoverride .filter__link--featured a").css("color", "#252525");
 
   $(".filter--ux-research").css("display", "none");
   $("#bootstrapoverride .filter__link--ux-research a").css("color", "#252525");

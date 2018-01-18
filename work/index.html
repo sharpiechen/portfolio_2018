@@ -16,7 +16,6 @@ title: Works
 				<h4 class="heading heading--regular heading--emphasize heading--work-refine">filter</h4>
 				<ul class="list">
 					<li class="filter__link--all"><a id="filterall" href="#">All</a></li>
-					<li class="filter__link--featured"><a id="filterfeatured" href="#">Featured</a></li>
 					<li class="filter__link--ux-research"><a id="filteruxresearch" href="#">UX Research</a></li>
 					<li class="filter__link--ux-design"><a id="filteruxdesign" href="#">UX Design</a></li>
 					<li class="filter__link--ui-design"><a id="filteruidesign" href="#">UI Design</a></li>
@@ -47,33 +46,6 @@ title: Works
 				</div>
 			</div>
 		</div>
-	{% endfor %}
-	</div>
-</div>
-
-<!-- //Featured Works//////////////////////////////////////////////////////////////////////////////////// -->
-<div class="container-fluid filter--featured">
-	<div class="row filter__indicator">
-		<a href="#" id="filterindicator" class="heading heading--regular heading--emphasize">Filter: Featured&nbsp;&nbsp;&#x2715;</a>
-	</div>
-	<div class="row">
-	{% for post in site.posts %}
-		{% if post.categories contains 'featured' %}
-		<div class="col-sm-6 col-xs-12 container-work" >
-			<div class="container-work--cover" style="background-image: url('../assets/{{ post.cover }}');">
-				<div class="container-work--overlay">
-					<a href="{{site.baseurl}}{{ post.url }}">
-						<h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
-						<hr class="container-work--hidden">
-						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories | join: ', ' | remove: ', featured' }}</h4>
-						<h4 class="heading heading--regular heading--light container-work--hidden">{{ post.timeline }}</h4>
-						<h3 class="heading heading--fancy heading--light work__link-view hidden-xs-down container-work--hidden">View Project</h3>
-						<span class="work--link"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-		{% endif %}
 	{% endfor %}
 	</div>
 </div>

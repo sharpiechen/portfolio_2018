@@ -1005,7 +1005,7 @@
   color:#47D9E8;
 }
 
-.filter--featured, .filter--ux-research, .filter--ux-design,
+.filter--ux-research, .filter--ux-design,
 .filter--ui-design, .filter--front-end, .filter--product-management,
 .filter--visual-design {
   display:none;
