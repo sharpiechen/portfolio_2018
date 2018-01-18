@@ -976,15 +976,19 @@
 #bootstrapoverride .container-work--overlay {
   padding:30px;
   background-color:rgba(0,0,0,0) ;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 #bootstrapoverride .container-filter-links {
   padding-left:60px;
+}
+
+.container-link-works {
+  text-align:center;
 }
 
 .filter__indicator,
