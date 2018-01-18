@@ -989,7 +989,7 @@
 
 .container-link-works {
   text-align:center;
-  padding:20px 20px 5px 30px;
+  padding:20px;
   background-color: #E7E8E2;
 }
 
@@ -1106,7 +1106,7 @@ hr + .container-work--hidden {
 
 /*Footer///////////////////////////////////////////////*/
   .container-footer {
-    margin-bottom:100px;
+    margin-bottom:150px;
     margin-top:150px;
   }
 
