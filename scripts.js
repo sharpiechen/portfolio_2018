@@ -66,7 +66,6 @@ $( "#filtervisualdesign" ).click(function() {
   $(".filter--all, .filter--ux-research, .filter--ux-design, .filter--ui-design, .filter--front-end, .filter--product-management").css("display", "none");
   $("#bootstrapoverride .filter__link--all a, #bootstrapoverride .filter__link--ux-research a, #bootstrapoverride .filter__link--ux-design a, #bootstrapoverride .filter__link--ui-design a, #bootstrapoverride .filter__link--front-end a, #bootstrapoverride .filter__link--product-management a").css("color", "#252525");
 });
-});
 
 
 // BACK TO TOP////////////////////////////////////////////////////////////////////////////////////
