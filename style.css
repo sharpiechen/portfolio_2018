@@ -987,7 +987,8 @@
   padding-left:60px;
 }
 
-.filter__indicator {
+.filter__indicator,
+.container-link-works {
   background-color:white;
   padding:20px 20px 5px 30px;
 }

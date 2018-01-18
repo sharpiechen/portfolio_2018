@@ -144,7 +144,6 @@ title: About
     <div class="container-work-title">
         <div class="marker marker-5">05</div>
         <h2 class="heading heading--fancy">Featured Projects</h2>
-        <a href="{{site.baseurl}}/work" class="heading--regular heading--emphasize">All Projects &rarr;</a>
     </div>
     <div class="row">
     {% for post in site.posts %}
@@ -165,6 +164,9 @@ title: About
         </div>
         {% endif %}
     {% endfor %}
+        <div class="container-link-works">
+            <a href="{{site.baseurl}}/work" class="heading--regular heading--emphasize">All Projects &rarr;</a>
+        </div>
     </div>
 </div>
 
