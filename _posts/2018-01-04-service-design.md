@@ -13,13 +13,13 @@ cover: img-post-cover-11.jpg
 <div class="marker marker-post">01</div>
 <h3 class="heading heading--fancy">A natural transition to service design</h3>
 <p>
-	Seelio is an educational technology company that helps students understand the 21st century skills employers want, communicate how their education relates to those skills in a professional digital identity, and ultimately use that digital identity to connect with employers and find a job.
+	<a href="http://seelio.com" target="_blank">Seelio</a> is an educational technology company that helps students understand the 21st century skills employers want, communicate how their education relates to those skills in a professional digital identity, and ultimately use that digital identity to connect with employers and find a job.
 </p>
 <p>
-	As the lead in-house designer since Seelio’s beta launch in 2012, part of my job has involved performing continual user experience research to inform our company roadmap and design decisions.
+	As the lead in-house designer since Seelio’s <a href="https://techcrunch.com/2012/08/06/no-more-boring-resumes-seelio-lets-college-students-showcase-their-work-helps-employers-find-them/" target="_blank">beta launch in 2012</a>, part of my job has involved performing continual user experience research to inform our company roadmap and design decisions.
 </p>
 <p>
-	We had initially created our technology to be a free online tool for all college students. However, a few months after our beta launch, we noticed a void in the educational space and began partnering with universities keen on improving enrollment and retention through experiential learning. Universities were interested in incorporating Seelio into the classroom, in using data from Seelio to track student learning over time, and in showcasing student achievements using Seelio’s showcase feature.
+	We had initially created our technology to be a free online tool for all college students. However, a few months after our beta launch, we noticed a void in the educational space and began <a href="http://blog.seelio.com/2015/02/26/university-of-toledo-seelio-enterprise/" target="_blank">partnering with universities</a> keen on improving enrollment and retention through experiential learning. Universities were interested in incorporating Seelio into the classroom, in using data from Seelio to track student learning over time, and in showcasing student achievements using Seelio’s showcase feature.
 </p>
 <p>
 	With our new partnerships came a need for new types of services — including in-person support, online-training materials, and academic advising. To streamline our interaction with partner users at every touchpoint, both digital and non-digital, we began implementing a more service-oriented approach to our research: enter Service Design.

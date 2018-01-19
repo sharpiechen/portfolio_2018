@@ -543,6 +543,7 @@
 }
 
 /*Hero///////////////////////////////////////////////*/
+
 .container-hero-works {
   background-color:#E7E8E2;
 }
@@ -1192,5 +1193,10 @@ hr + .container-work--hidden {
   font-style:italic;
   padding:10px;
   font-size:.9rem;
+}
+
+.container-post-contents {
+  padding-left:50px;
+  padding-right:50px;
 }
 
