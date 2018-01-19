@@ -1194,15 +1194,16 @@ hr + .container-work--hidden {
   padding:10px;
 }
 
-.container-post-body {
+#bootstrapoveride .container-post-body {
   padding-left:50px;
   padding-right:50px;
 }
 
 .marker-post-heading {
   height:3px;
-  width:50px;
+  width:40px;
   background-color:#47D9E8;
+  margin-bottom:20px;
 }
 
 
