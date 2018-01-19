@@ -10,7 +10,10 @@ client: Seelio
 cover: img-post-cover-6.jpg
 ---
 
+<!-- status: needs images, role -->
+
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
+<div class="marker-post-heading"></div>
 <div class="marker marker-post">01</div>
 <h3 class="heading heading--fancy">Creating a platform for educators to easily interact with students</h3>
 <p>
@@ -18,6 +21,7 @@ cover: img-post-cover-6.jpg
 </p>
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
+<div class="marker-post-heading"></div>
 <div class="marker marker-post">02</div>
 <h3 class="heading heading--fancy">Getting to know educator needs by mapping every touchpoint</h3>
 <p>
@@ -37,6 +41,7 @@ cover: img-post-cover-6.jpg
 </p>
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">create & test</h4>
+<div class="marker-post-heading"></div>
 <div class="marker marker-post">03</div>
 <h3 class="heading heading--fancy">Using innovative solutions to fill in the gaps</h3>
 <p>
@@ -61,6 +66,7 @@ cover: img-post-cover-6.jpg
 </p>
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">outcome</h4>
+<div class="marker-post-heading"></div>
 <div class="marker marker-post">04</div>
 <h3 class="heading heading--fancy">A streamlined and flexible web experience for educators</h3>
 <p>
