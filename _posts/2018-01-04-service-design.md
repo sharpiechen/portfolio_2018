@@ -10,6 +10,7 @@ cover: img-post-cover-11.jpg
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
+<div class="marker marker-post">01</div>
 <h3 class="heading heading--fancy">A natural transition to service design</h3>
 <p>
 	Seelio is an educational technology company that helps students understand the 21st century skills employers want, communicate how their education relates to those skills in a professional digital identity, and ultimately use that digital identity to connect with employers and find a job.
