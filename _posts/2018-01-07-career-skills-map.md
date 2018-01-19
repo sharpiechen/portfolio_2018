@@ -11,11 +11,14 @@ cover: img-post-cover-7.jpg
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
+<div class="marker-post-heading"></div>
+<div class="marker marker-post">01</div>
 <h3 class="heading heading--fancy">Preparing millennials for the real world</h3>
 <p>
 	Universities are struggling to provide students with a return on investment (ROI) that can support enrollment and retention. Following interviews with career center advisors, recruiters, and students, we found that not only are students graduating unprepared for the real world, but are completely unaware of the Career Center resources available to them. Seelio’s Skills Map is a beta extension that helps students understand, build, and track the eight 21st century skills employers want but struggle to find in potential candidates.
 </p>
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
+<div class="marker-post-heading"></div>
 <div class="marker marker-post">02</div>
 <h3 class="heading heading--fancy">Using Seelio to bridge the educational gap</h3>
 <p>
@@ -37,6 +40,7 @@ cover: img-post-cover-7.jpg
 	</ul>
 </div>
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">create & test</h4>
+<div class="marker-post-heading"></div>
 <div class="marker marker-post">03</div>
 <h3 class="heading heading--fancy">Finding ways to motivate students</h3>
 <p>
@@ -54,6 +58,7 @@ cover: img-post-cover-7.jpg
 	</ul>
 </div>
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">outcome</h4>
+<div class="marker-post-heading"></div>
 <div class="marker marker-post">04</div>
 <h3 class="heading heading--fancy">Using our PoC to launch a beta-testing campaign</h3>
 <p>
@@ -66,6 +71,7 @@ cover: img-post-cover-7.jpg
 	Beta testing for the Skills Map will began in late April of 2016.
 </p>
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">role</h4>
+<div class="marker-post-heading"></div>
 <h3 class="heading heading--fancy">User Experience Design</h3>
 <ol>
 	<li>Using findings from user interviews, brainstormed and created concepts for interactive paper prototypes.</li>
