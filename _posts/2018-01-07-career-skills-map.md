@@ -65,31 +65,22 @@ cover: img-post-cover-7.jpg
 <p>
 	Beta testing for the Skills Map will began in late April of 2016.
 </p>
-<hr>
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">role</h4>
-<p>
-	<b>ux design</b>
-</p>
+<h3 class="heading heading--fancy">User Experience Design</h3>
 <ol>
 	<li>Using findings from user interviews, brainstormed and created concepts for interactive paper prototypes.</li>
 	<li>Performed informal user testing using paper prototypes and performed qualitative data analysis to inform design of final design.</li>
 </ol>
-<p>
-	<b>ui design</b>
-</p>
+<h3 class="heading heading--fancy">User Interface Design</h3>
 <ol>
 	<li>Established visual hierarchy and designed complete set of responsive, pixel-perfect mockups using Adobe Photoshop.</li>
 	<li>Communicated design interactions and language to development team using Trello and Google Documents.</li>
 </ol>
-<p>
-	<b>front-end development</b>
-</p>
+<h3 class="heading heading--fancy">Front-End Development</h3>
 <ol>
 	<li>Using a BEM methodology, developed a style guide to communicate design specifications to development team.</li>
 </ol>
-<p>
-	<b>other</b>
-</p>
+<h3 class="heading heading--fancy">Other</h3>
 <ol>
 	<li>Collaborated with marketing team to develop a plan for a limited beta launch. Created all designs for beta launch, printed collateral, help guides, and campaign emails.</li>
 </ol>
