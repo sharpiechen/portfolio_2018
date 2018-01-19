@@ -16,7 +16,7 @@ cover: img-post-cover-6.jpg
 <p>
 	Seelio for Educators is an educational technology that helps teachers and administrators of our partner universities track portfolio-based assignments, easily interact with students, and showcase exemplary student work through custom-curated showcases. Created to complement a university's Learning Management System (LMS), Seelio's educational platform flexibly caters to each university’s unique hierarchical system while also maintaining a streamlined simplicity.
 </p>
-<hr>
+
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
 <div class="marker marker-post">02</div>
 <h3 class="heading heading--fancy">Getting to know educator needs by mapping every touchpoint.</h3>
@@ -35,7 +35,7 @@ cover: img-post-cover-6.jpg
 <p>
 	From journey mapping, we discovered that most faculty were easily able to grasp the value of Seelio as an experiential learning tool. However, when it came to launching Seelio in the classroom, they felt unsure of how to incorporate the technology into their syllabi and preferred to rely on the Seelio staff for classroom introductions and technological support.
 </p>
-<hr>
+
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">create & test</h4>
 <div class="marker marker-post">03</div>
 <h3 class="heading heading--fancy">Using innovative solutions to fill in the gaps</h3>
@@ -59,7 +59,7 @@ cover: img-post-cover-6.jpg
 <p>
 	Following several rounds of testing, debriefing, and design iteration, we were able to consolidate our prototypes to one final design.
 </p>
-<hr>
+
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">outcome</h4>
 <div class="marker marker-post">04</div>
 <h3 class="heading heading--fancy">A streamlined and flexible web experience for educators</h3>
