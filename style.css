@@ -1194,7 +1194,7 @@ hr + .container-work--hidden {
   padding:10px;
 }
 
-#bootstrapoveride .container-post-body {
+#bootstrapoveride .container-post-contents .container-post-body {
   padding-left:50px;
   padding-right:50px;
 }
