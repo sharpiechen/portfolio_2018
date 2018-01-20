@@ -33,12 +33,7 @@ layout: works
                 <h1 class="heading heading--fancy heading--emphasize heading-post-title">{{ page.title }}</h1>
 
                 {{ content }}
-
-                {% for image in site.static_files %}
-                    {% if image.path contains 'assets/6' %}
-                        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" class="post__asset"/>
-                    {% endif %}
-                {% endfor %}
+                
             </div>
         </div>
     </div>
