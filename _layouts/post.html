@@ -36,6 +36,8 @@ layout: works
 
                 {{ content }}
 
+                <p>{{ post.id }}</p>
+
                 {% for image in site.static_files %}
                     {% if image.path contains 'assets/6' %}
                         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" class="post__asset"/>
