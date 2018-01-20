@@ -8,7 +8,6 @@ tools: Sketch, InVision
 client: Northwestern University Segal Design Institute
 
 cover: img-post-cover-4.jpg
-number:6
 
 ---
 
