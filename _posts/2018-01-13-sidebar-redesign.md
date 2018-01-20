@@ -8,7 +8,7 @@ tools: Sketch, InVision
 client: Narrative Science
 
 cover: img-post-cover-1.jpg
-id:6
+number:6
 
 ---
 

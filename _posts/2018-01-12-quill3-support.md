@@ -8,7 +8,7 @@ tools: Sketch, HTML, CSS, ZenDesk
 client: Narrative Science
 
 cover: img-post-cover-2.jpg
-id:6
+number:6
 
 ---
 

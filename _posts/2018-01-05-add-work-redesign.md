@@ -8,7 +8,8 @@ tools: Adobe Illustrator CS6, Adobe Photoshop CS6
 client: Seelio
 
 cover: img-post-cover-9.jpg
-id:6
+number:6
+
 
 ---
 

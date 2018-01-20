@@ -8,7 +8,7 @@ tools: Sketch
 client: Narrative Science
 
 cover: img-post-cover-5.jpg
-id:6
+number:6
 
 ---
 
