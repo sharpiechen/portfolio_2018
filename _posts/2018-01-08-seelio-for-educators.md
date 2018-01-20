@@ -1,11 +1,12 @@
 ---
 layout: post
-
+id:6
 title: Seelio for Educators
 categories: ['user experience research','user experience design','user interface design','featured']
 timeline: Summer 2014 - Spring 2015
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6, Axure RP, Justinmind, InVision
 client: Seelio
+
 
 cover: img-post-cover-6.jpg
 ---
