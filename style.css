@@ -1205,3 +1205,9 @@ hr + .container-work--hidden {
   background-color:#47D9E8;
   margin-bottom:20px;
 }
+
+.post__asset {
+  width:100%;
+  margin-top:10px;
+  margin-bottom:10px;
+}
