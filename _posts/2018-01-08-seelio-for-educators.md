@@ -14,7 +14,6 @@ cover: img-post-cover-6.jpg
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
 <div class="marker-post-heading"></div>
-<div class="marker marker-post">01</div>
 <h3 class="heading heading--fancy">Creating a platform for educators to easily interact with students</h3>
 <p>
 	Seelio for Educators is an educational technology that helps teachers and administrators of our partner universities track portfolio-based assignments, easily interact with students, and showcase exemplary student work through custom-curated showcases. Created to complement a university's Learning Management System (LMS), Seelio's educational platform flexibly caters to each university’s unique hierarchical system while also maintaining a streamlined simplicity.
@@ -22,7 +21,6 @@ cover: img-post-cover-6.jpg
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
 <div class="marker-post-heading"></div>
-<div class="marker marker-post">02</div>
 <h3 class="heading heading--fancy">Getting to know educator needs by mapping every touchpoint</h3>
 <p>
 	We employed a service design approach to understanding exactly what educators wanted from an online educational tool like Seelio. After conducting interviews with new and existing users, we created primary, secondary, and tertiary educator personas and user scenarios.
@@ -42,7 +40,6 @@ cover: img-post-cover-6.jpg
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">create & test</h4>
 <div class="marker-post-heading"></div>
-<div class="marker marker-post">03</div>
 <h3 class="heading heading--fancy">Using innovative solutions to fill in the gaps</h3>
 <p>
 	While journey mapping helped us define a vision of an overall redesign, creating a user task flow helped us interject the user into the system in a more concrete way.
@@ -67,10 +64,8 @@ cover: img-post-cover-6.jpg
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">outcome</h4>
 <div class="marker-post-heading"></div>
-<div class="marker marker-post">04</div>
 <h3 class="heading heading--fancy">A streamlined and flexible web experience for educators</h3>
 <p>
-	The platform we created meets the hierarchical needs of our partner universities by allowing administrators to easily customize a network of groups that reflect the structure of schools, departments, and classes of the university. In assigning specific permissions to each user that parallel the real-world responsibilities of the educator, we allow educators to manage and access only the groups and tools specific to their role. Moreover, integrating with university LMS software allows us to streamline the interaction between educators and students while forgoing the clunkiness of grading and assignments.
 </p>
 <p>
 	Over the course of a few weeks, I designed a complete set of responsive, hi-fidelity mockups using Adobe Photoshop CS6. I communicated the designs and interactions to our development team using Trello, Google Docs, and Invision.

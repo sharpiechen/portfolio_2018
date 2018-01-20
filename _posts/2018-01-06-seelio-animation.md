@@ -2,7 +2,7 @@
 layout: post
 
 title: Animation: Tell Your Story With Seelio
-categories: ['visual design']
+categories: visual design
 timeline: Summer - Fall 2014
 tools: Adobe Illustrator CS6
 client: Seelio
