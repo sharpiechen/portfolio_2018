@@ -1170,6 +1170,10 @@ hr + .container-work--hidden {
   right:-150;
 }
 
+.post__sidebar {
+  margin-top:8px;
+}
+
 .post__sidebar__header {
   margin-bottom:5px;
 }
