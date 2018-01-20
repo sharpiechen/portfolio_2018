@@ -1,13 +1,12 @@
 ---
 layout: post
-
 title: Animation: Tell Your Story With Seelio
-categories: visual design
+categories: ['visual design']
 timeline: Summer - Fall 2014
 tools: Adobe Illustrator CS6
 client: Seelio
-
 cover: img-post-cover-8.jpg
+id:6
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
