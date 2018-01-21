@@ -8,8 +8,11 @@ tools: Adobe Illustrator CS6, Adobe Photoshop CS6, InVision
 client: Seelio
 
 cover: img-post-cover-7.jpg
+splash: img-post-splash-6.jpg
+number: 7
 
 ---
+
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
 <div class="marker-post-heading"></div>
