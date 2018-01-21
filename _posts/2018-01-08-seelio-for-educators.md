@@ -8,6 +8,7 @@ tools: Adobe Illustrator CS6, Adobe Photoshop CS6, Axure RP, Justinmind, InVisio
 client: Seelio
 
 cover: img-post-cover-6.jpg
+splash: img-post-splash-6.jpg
 
 ---
 
