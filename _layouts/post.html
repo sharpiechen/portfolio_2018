@@ -37,9 +37,9 @@ layout: works
 
                 {{ content }}
 
-                {% for image in site.static_files %}
-                    {% if image.path contains 'assets/gallery/{{ page.number }}/' %}
-                        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" class="post__asset"></img>
+                {% for file in site.static_files %}
+                    {% if file.path contains 'assets/gallery/{{ page.number }}/' %}
+                        <img src="{{ site.baseurl }}{{ file.path }}" alt="image" class="post__asset"></img>
                     {% endif %}
                 {% endfor %}
 
