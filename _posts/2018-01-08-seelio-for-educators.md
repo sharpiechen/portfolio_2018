@@ -73,7 +73,12 @@ cover: img-post-cover-6.jpg
 </p>
 
 {% for image in site.static_files %}
-    {% if image.path contains 'assets/6' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" class="post__asset"/>
-    {% endif %}
+	{% if image.path contains 'assets/6' %}
+		![alt text]({{ site.baseurl }}{{ image.path }} "Logo Title Text 1")
+		<!-- <img src="{{ site.baseurl }}{{ image.path }}" alt="image" class="post__asset"></img> -->
+	{% endif %}
 {% endfor %}
+
+
+
+
