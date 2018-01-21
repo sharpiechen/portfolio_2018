@@ -72,12 +72,6 @@ cover: img-post-cover-6.jpg
 	Over the course of a few weeks, I designed a complete set of responsive, hi-fidelity mockups using Adobe Photoshop CS6. I communicated the designs and interactions to our development team using Trello, Google Docs, and Invision.
 </p>
 
-{% for image in site.static_files %}
-	{% if image.path contains 'assets/6' %}
-		![alt text]({{ site.baseurl }}{{ image.path }} "Logo Title Text 1")
-		<!-- <img src="{{ site.baseurl }}{{ image.path }}" alt="image" class="post__asset"></img> -->
-	{% endif %}
-{% endfor %}
 
 
 
