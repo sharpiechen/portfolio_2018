@@ -1244,17 +1244,22 @@ hr + .container-work--hidden {
   color:white;
 }
 
-#bootstrapoverride .button__case-study {
+#bootstrapoverride a + .button__case-study {
   padding:10px 20px;
   margin-top:25px;
   border:1px solid #252525;
 }
 
-#bootstrapoverride .button__case-study:hover {
+#bootstrapoverride a + .button__case-study:hover {
   background-color:#252525;
   color:white;
 }
 
 .post__casestudy {
   display:none;
+}
+
+.container__button {
+  margin-top:50px;
+  margin-bottom:50px;
 }

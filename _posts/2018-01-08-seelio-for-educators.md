@@ -88,7 +88,9 @@ number: 6
 	<li>Communicated design specifications and interactions to development team using Trello, Google Documents, and InVision.</li>
 </ul>
 
-<a id="showcasestudy" class="button__case-study heading heading--regular heading--emphasize" href="#">Show Case Study</a>
+<div class="container__button">
+	<a id="showcasestudy" class="button__case-study heading heading--regular heading--emphasize" href="#">Show Case Study</a>
+</div>
 
 
 
