@@ -1240,6 +1240,11 @@ hr + .container-work--hidden {
   display: block; 
 }
 
+#showcasestudy {
+  padding:10px 20px;
+  border:1px solid #252525;
+}
+
 .post__casestudy {
   display:none;
 }
