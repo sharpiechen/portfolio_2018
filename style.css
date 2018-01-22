@@ -21,32 +21,28 @@
 }
 
 #bootstrapoverride p a,
-.list a {
+#bootstrapoverride p a:visited,
+.list a,
+.list p a:visited,
+#bootstrapoverride a:visited {
   border-bottom:1px solid #47D9E8;
 }
 
 #bootstrapoverride p a:hover, 
+#bootstrapoverride p a:visited:hover,
 #bootstrapoverride p a:active,
 #bootstrapoverride p a:focus,
 .list p a:hover,
 .list p a:active,
 .list p a:focus,
+.list p a:visited:hover,
 #bootstrapoverride a:hover,
 #bootstrapoverride a:active,
-#bootstrapoverride a:focus {
+#bootstrapoverride a:focus,
+#bootstrapoverride a:visited:hover
+ {
   color:#47D9E8;
   text-decoration:none;
-}
-
-#bootstrapoverride p a:visited,
-.list p a:visited { 
-    border-bottom:1px solid #EE8BBC;
-}
-
-#bootstrapoverride p a:visited:hover
-.list p a:visited:hover { 
-    border-bottom:1px solid #EE8BBC;
-    color:#EE8BBC;
 }
 
 #bootstrapoverride a:hover {
@@ -1212,8 +1208,8 @@ hr + .container-work--hidden {
 
 .post__asset {
   width:100%;
-  margin-top:10px;
-  margin-bottom:10px;
+  margin-top:20px;
+  margin-bottom:20px;
   cursor: zoom-in;
 }
 
@@ -1240,13 +1236,21 @@ hr + .container-work--hidden {
   display: block; 
 }
 
-#bootstrapoverride a + .button__case-study {
+.post__lightbox__close {
+  position:absolute;
+  right:30px;
+  top:20px;
+  font-size:20px;
+  color:white;
+}
+
+#bootstrapoverride .button__case-study {
   padding:10px 20px;
   margin-top:25px;
   border:1px solid #252525;
 }
 
-#bootstrapoverride a + .button__case-study:hover {
+#bootstrapoverride .button__case-study:hover {
   background-color:#252525;
   color:white;
 }
