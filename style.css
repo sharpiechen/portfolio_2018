@@ -1122,7 +1122,7 @@ hr + .container-work--hidden {
     position:absolute;
     top:-110px;
     right:-110px;
-    padding:10px 20px;
+    padding:20px 30px;
     background-color:#eee;
     transition:all .15s ease;
   }
@@ -1252,7 +1252,8 @@ hr + .container-work--hidden {
 }
 
 #bootstrapoverride .container__button .button__case-study:hover {
-  background-color:#252525;
+  border:1px solid #47D9E8;
+  background-color:#47D9E8;
   color:white;
 }
 
