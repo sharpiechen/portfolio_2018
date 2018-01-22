@@ -37,11 +37,10 @@ layout: works
                 {% for image in site.static_files %}
                     {% if image.path contains post_number %}
                         {% assign asset_path = site.baseurl | append: image.path %}
-
-                        <a href="#img">
+                        <a href="#img{% increment counter %}">
                             <img src="{{ asset_path }}" alt="image" class="post__asset">
                         </a>
-                        <a href="#_" class="post__lightbox" id="img">
+                        <a href="#_" class="post__lightbox" id="img{% increment counter %}">
                             <img src="{{ asset_path }}">
                         </a>
                     {% endif %}
