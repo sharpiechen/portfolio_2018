@@ -1,13 +1,15 @@
 ---
 layout: post
 
-title: Add Work Redesign
+title: Animation: Tell Your Story With Seelio
 categories: ['user experience research','user experience design','user interface design']
 timeline: Spring 2014
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6
 client: Seelio
 
-cover: img-post-cover-9.jpg
+cover: img-post-cover-8.jpg
+number: 8
+
 ---
 
 
