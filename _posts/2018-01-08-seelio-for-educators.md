@@ -10,7 +10,6 @@ client: Seelio
 cover: img-post-cover-6.jpg
 splash: img-post-splash-6.jpg
 number: 6
-casestudy: true
 
 ---
 
@@ -23,6 +22,15 @@ casestudy: true
 </p>
 
 <div class="post__casestudy">
+
+    <a href="#img6i">
+        <img src="{{site.baseurl}}/assets/img-asset-6i.jpeg" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img6i">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-6i.jpeg">
+    </a>
+
 	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
 	<div class="marker-post-heading"></div>
 	<h3 class="heading heading--fancy">Mapping every user touchpoint</h3>

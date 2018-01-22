@@ -13,49 +13,131 @@ number: 12
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
-<h3 class="heading heading--fancy">Creating a platform for educators to easily interact with students.</h3>
+<div class="marker-post-heading"></div>
+<h3 class="heading heading--fancy">A tool for students to showcase experiences and accomplishments</h3>
 <p>
-	Seelio for Educators is an educational technology that helps teachers and administrators of our partner universities track portfolio-based assignments, easily interact with students, and showcase exemplary student work through custom-curated showcases. Created to complement a university's Learning Management System (LMS), Seelio's educational platform flexibly caters to each university’s unique hierarchical system while also maintaining a streamlined simplicity.
+	Seelio is a educational technology startup that offers college students a better way to showcase their work via online portfolios which employers and recruiters alike can browse through and search by keyword. Since Seelio’s <a href="https://techcrunch.com/2012/08/06/no-more-boring-resumes-seelio-lets-college-students-showcase-their-work-helps-employers-find-them/">beta launch in August of 2012</a>, the student profile had not been updated and was in need of a redesign. Following a complete rework, the student profile now offers a more professional and modern aesthetic, a flexible layout for works, and customizable fields for about information.
 </p>
 
-<h4 class="heading heading--regular heading--emphasize">understand</h4>
-<h3 class="heading heading--fancy">Getting to know educator needs by mapping every touchpoint.</h3>
-<p>
-	We employed a service design approach to understanding exactly what educators wanted from an online educational tool like Seelio. After conducting interviews with new and existing users, we created primary, secondary, and tertiary educator personas and user scenarios.
-	<br>
-	Quotes
+<div class="post__casestudy">
+
+    <a href="#img12a">
+        <img src="{{site.baseurl}}/assets/img-asset-12a.png" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img12a">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-12a.png">
+    </a>
+
+	<h4 class="heading heading--regular heading--emphasize">understand</h4>
+	<div class="marker-post-heading"></div>
+	<h3 class="heading heading--fancy">Facilitating a dialogue with our power users</h3>
+	<p>
+		Initial interviews with power users showed that three motivating factors for using Seelio were:
+	</p>
 	<ul>
-		<li>“I expected the interface to have more back-end, admin-like features. I’m not really sure if what I’m looking at is what students are looking.” - User 4</li>
-		<li>“I use the showcase as a repository of works for current and prospective students, for the dean, and for advising appointments”  - User 3</li>
+		<li>to track and show off their accomplishments</li>
+		<li>to avoid having to work with other cumbersome website tools that might require coding or design skills</li>
+		<li>to see what similar students from other campuses were doing</li>
 	</ul>
-	We used our personas and scenarios to map out the educator journey across Seelio, to pinpoint areas of pain, and to identify service gaps that needed to be filled. 
-	<br>
-	From journey mapping, we discovered that most faculty were easily able to grasp the value of Seelio as an experiential learning tool. However, when it came to launching Seelio in the classroom, they felt unsure of how to incorporate the technology into their syllabi and preferred to rely on the Seelio staff for classroom introductions and technological support.
-</p>
+    <a href="#img12b">
+        <img src="{{site.baseurl}}/assets/img-asset-12b.jpeg" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img12b">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-12b.jpeg">
+    </a>
+	<p>
+		Though students seemed to appreciate Seelio’s simplicity and ease-of-use, they expressed a consensual desire for added customization. 
+	</p>
+	<div class="post__quote">
+		<ul>
+			<li>“I’m only interested in seeing people in my network’s works — mechanical engineers, upperclassmen. The other day, I thought one person’s project was really cool and checked out which class he was taking” — Student 2</li>
+			<li>“I tend to apply to a wide array of jobs that they think they might be able to do, hoping that recruiters will be attracted to at least one of their skills sets. I have a wide range of skills and would like to be able to create multiple types of portfolios” — Student 6</li>
+		</ul>
+	</div>
+	<p>In addition to user interviews, we also collected a significant amount of design feedback from bug submissions, User Voice suggestions, and surveys. We compiled our findings to draw out common themes and created three student personas from which we could reference while creating our designs.
+	</p>
+    <a href="#img12c">
+        <img src="{{site.baseurl}}/assets/img-asset-12c.png" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img12c">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-12c.png">
+    </a>
+	<h4 class="heading heading--regular heading--emphasize">create & test</h4>
+	<h3 class="heading heading--fancy">Collecting feedback at all stages</h3>
+	<p>
+		With the findings from our various sources in mind, we developed three sets of paper prototypes to gauge reactions to different layouts and features such as a cover photo and timeline view.
+	</p>
+    <a href="#img12d">
+        <img src="{{site.baseurl}}/assets/img-asset-12d.jpeg" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img12d">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-12d.jpeg">
+    </a>
+    <p>While we wanted to maximize our redesign and account for all user suggestions and issues, we were determined not to lose sight of our overall vision. Many users were comparing us to website-building sites such as Squarespace, Weebly, and Wix and expressed a desire for similar themes and flexibility. However, we felt as though too much customization might compromise some of Seelio’s simplicity and ease-of-use.
+   	</p>
+	</p>
+    <a href="#img12e">
+        <img src="{{site.baseurl}}/assets/img-asset-12e.jpeg" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img12e">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-12e.jpeg">
+    </a>
+	</p>
+    <a href="#img12f">
+        <img src="{{site.baseurl}}/assets/img-asset-12f.jpeg" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img12f">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-12f.jpeg">
+    </a>
+	</p>
+    <a href="#img12g">
+        <img src="{{site.baseurl}}/assets/img-asset-12g.jpeg" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img12g">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-12g.jpeg">
+    </a>
+    <p>
+    	To test our paper prototypes, we sent out surveys, conducted one-on-one testing, informal card sorting, and focus group testing testing sessions. All user testing data was recorded in Google Docs. We created affinity walls for all data, rearranged, and regrouped sticky notes to identify common themes.
+    </p>
+	<div class="post__quote">
+		<ul>
+			<li>“I’d like some specific prompts for the About Me section. I don’t really know what to put in there — it’s just a big empty box.” I think every part of the profile should have placeholders so I have a starting point” — Student 1</li>
+			<li>“I don’t like the timeline. There is very little control over what is showing. I don’t think I could differentiate myself based on a timeline — it’s too hard to customize.” — Student 5</li>
+		</ul>
+	</div>
+	<p>
+		After consolidating our paper concepts to a single prototype, I designed a complete set of responsive, hi-fidelity mockups using Adobe Photoshop CS6. I communicated the designs specifications and interactions to our development team using Trello and Google Documents.
+	</p>
+	<p>
+		Before releasing our new design to all students, we initiated a soft release to power users who had given us feedback during our testing sessions. We set up a Google Group and over the course of two weeks, monitored forums, initiated dialogue, and compiled additional feedback. The Google Group was invaluable in helping us identify and tweak small details and bugs.
+	</p>
+	<h4 class="heading heading--regular heading--emphasize">outcome</h4>
+	<h3 class="heading heading--fancy">Digital customization within a professional context</h3>
+	<p>
+		The redesign of Seelio’s student profile offers users added customization within a professional space. Though we wanted to students to distinguish themselves using their profiles, we also wanted to keep profile layouts consistent so audiences could easily view information. Features such as a profile cover photo and work cover photos add fun visual elements without compromising the organization and flow of the design.
+	</p>
+	<p>
+		Keeping in line with the professional element of the profile, we expanded the about section to include common resume fields such as relevant classes and skills. Students also now have the option of linking their resume and various other social networks to create a holistic digital identity that showcases not only what they can do but who they are.
+	</p>
+</div>
 
-<h4 class="heading heading--regular heading--emphasize">create & test</h4>
-<h3 class="heading heading--fancy">Using innovative solutions to fill in the gaps</h3>
-<p>
-	While journey mapping helped us define a vision of an overall redesign, creating a user task flow helped us interject the user into the system in a more concrete way.
-	<br>
-	To prioritize our design, we identified three main tasks we wanted users to complete:
-	<ul>
-		<li>Track and sort student works</li>
-		<li>Give feedback to students on works</li>
-		<li>Curate works into a custom showcase</li>
-	</ul>
-	With these tasks in mind, we conducted several rounds of brainstorming and ideation, from which we were able to abstract key concepts and ideas and create paper prototypes. Following a few rounds of informal testing and qualitative data analysis, we were able to develop three sets of interactive prototypes.
-	<br>
-	Formal testing revealed that educators were used to more traditional web interfaces and preferred performing tedious tasks on familiar interfaces over learning to navigate new layouts. Although we did not intend for Seelio to become an LMS, we realized that it was imperative that we include familiar LMS keywords such as “Assignment” and “Grade.” 
-	<br>
-	Following several rounds of testing, debriefing, and design iteration, we were able to consolidate our prototypes to one final design.
-</p>
+<h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>
+<div class="marker-post-heading"></div>
+<ul>
+	<li>Conducted user interviews and compiled findings with feedback from various other sources to determine a general direction for redesign.</li>
+	<li>Compiled key concepts from initial research into low-fidelity prototypes. Sent out surveys and conducted formal formal one-on-on testing sessions, informal card sorting sessions, and focus group sessions to find common themes.</li>
+	<li>Organized and facilitated beta testing of completed designs in Google Groups for collect feedback for further reiteration of design.</li>
+	<li>Estabished visual hierarchy and designed complete set of responsive, pixel-perfect mockups using Adobe Photoshop.</li>
+	<li>Communicated design specifications and interactions to development team using Trello, Google Docs, and InVision.</li>
+</ul>
 
-<h4 class="heading heading--regular heading--emphasize">outcome</h4>
-<h3 class="heading heading--fancy">A streamlined and flexible web experience for educators</h3>
-<p>
-	The platform we created meets the hierarchical needs of our partner universities by allowing administrators to easily customize a network of groups that reflect the structure of schools, departments, and classes of the university. In assigning specific permissions to each user that parallel the real-world responsibilities of the educator, we allow educators to manage and access only the groups and tools specific to their role. Moreover, integrating with university LMS software allows us to streamline the interaction between educators and students while forgoing the clunkiness of grading and assignments.
-	<br>
-	Over the course of a few weeks, I designed a complete set of responsive, hi-fidelity mockups using Adobe Photoshop CS6. I communicated the designs and interactions to our development team using Trello, Google Docs, and Invision.
-</p>
-
+<div class="container__button">
+	<a id="showcasestudy" class="button__case-study heading heading--regular heading--emphasize" href="#">Show Case Study</a>
+</div>
