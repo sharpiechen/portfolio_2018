@@ -34,12 +34,30 @@ number: 6
 			<li>“I use the showcase as a repository of works for current and prospective students, for the dean, and for advising appointments”  - User 3</li>
 		</ul>
 	</div>
-	<img src="{{site.baseurl}}/assets/img-asset-6j.png" alt="image" class="post__asset">
+    <a href="#img6j">
+        <img src="{{site.baseurl}}/assets/img-asset-6j.png" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img6j">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-6j.png">
+    </a>
 	<p>
 		We used our personas and scenarios to map out the educator journey across Seelio, to pinpoint areas of pain, and to identify service gaps that needed to be filled.
 	</p>
-	<img src="{{site.baseurl}}/assets/img-asset-6k.jpeg" alt="image" class="post__asset">
-	<img src="{{site.baseurl}}/assets/img-asset-6l.jpeg" alt="image" class="post__asset">
+    <a href="#img6k">
+        <img src="{{site.baseurl}}/assets/img-asset-6k.jpeg" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img6k">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-6k.jpeg">
+    </a>
+    <a href="#img6l">
+        <img src="{{site.baseurl}}/assets/img-asset-6l.jpeg" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img6l">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-6l.jpeg">
+    </a>
 	<p>
 		From journey mapping, we discovered that most faculty were easily able to grasp the value of Seelio as an experiential learning tool. However, when it came to launching Seelio in the classroom, they felt unsure of how to incorporate the technology into their syllabi and preferred to rely on the Seelio staff for classroom introductions and technological support.
 	</p>
@@ -89,7 +107,7 @@ number: 6
 </ul>
 
 <div class="container__button">
-	<a id="showcasestudy" class="button__case-study heading heading--regular heading--emphasize" href="#">Show Case Study</a>
+	<a id="showcasestudy" class="button__case-study heading heading--regular heading--emphasize" href="#">View Case Study</a>
 </div>
 
 
