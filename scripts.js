@@ -69,11 +69,11 @@ $( "#filtervisualdesign" ).click(function() {
 
 
 // BACK TO TOP////////////////////////////////////////////////////////////////////////////////////
-$("a[href='#backtotop']").click(function() {
-  $('html,body').animate({
-   scrollTop: $("#bootstrapoverride").offset().top
-  });
-});
+// $("a[href='#backtotop']").click(function() {
+//   $('html,body').animate({
+//    scrollTop: $("#bootstrapoverride").offset().top
+//   });
+// });
 
 $("a[href='#scrolltocontact']").click(function() {
   $('html,body').animate({
