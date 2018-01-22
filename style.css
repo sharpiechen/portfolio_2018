@@ -1240,10 +1240,15 @@ hr + .container-work--hidden {
   display: block; 
 }
 
-#bootstrapoverride .button__case-study {
+#bootstrapoverride a + .button__case-study {
   padding:10px 20px;
   margin-top:15px;
   border:1px solid #252525;
+}
+
+#bootstrapoverride a + .button__case-study:hover {
+  background-color:#252525;
+  color:white;
 }
 
 .post__casestudy {
