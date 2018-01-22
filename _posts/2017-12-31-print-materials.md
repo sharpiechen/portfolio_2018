@@ -2,8 +2,7 @@
 layout: post
 
 title: Print Materials
-categories: ['user experience research','user experience design','user interface design']
-timeline: Summer 2014 - Spring 2015
+categories: ['visual design']
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6
 client: Seelio
 
