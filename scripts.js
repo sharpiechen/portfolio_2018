@@ -80,3 +80,20 @@ $("a[href='#scrolltocontact']").click(function() {
    scrollTop: $("#scrolltocontact").offset().top
   });
 });
+
+// Hide Show ////////////////////////////////////////////////////////////////////////////////////
+$(document).ready(function(){
+    $("#hidecasestudy").click(function(){
+        $("#casestudy").hide();
+    });
+    $("#showcasestudy").click(function(){
+        $("#casestudy").show();
+    });
+});
+
+
+
+
+
+
+
