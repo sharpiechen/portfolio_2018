@@ -18,6 +18,10 @@ number: 8
 	<a href="https://www.youtube.com/watch?v=rj9aCdghEGo">Tell Your Story with Seelio</a> is a short animation created to help viewers understand how Seelio can help students tell their stories to stand out in the modern job search. The video is shown to students of partner universities and can also be found in post-registration welcome emails to all users.
 </p>
 
+<div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;padding-bottom:70px;">
+	<iframe src="https://www.youtube.com/embed/rj9aCdghEGo" frameborder="0" allowfullscreen="allowfullscreen" class="work__page__attach--video" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
+</div>
+
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>
 <div class="marker-post-heading"></div>
 <ul>
