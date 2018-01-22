@@ -37,8 +37,17 @@ layout: works
 
                 {{ content }}
 
+                {% assign post_assets = 'assets/gallery/{{ page.number }}' %}
+
                 {% for image in site.static_files %}
+                    
                     {{ image.path }}
+                    <br>
+                    {{ post_assets }}
+                    <br>
+                    <p>end</p>
+
+
                     {% if image.path contains 'assets/gallery/{{ page.number }}' %}
                         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" class="post__asset"></img>
                     {% endif %}
