@@ -24,7 +24,8 @@
 #bootstrapoverride p a:visited,
 .list a,
 .list p a:visited,
-#bootstrapoverride a:visited {
+#bootstrapoverride a:visited,
+#bootstrapoverride p ul a {
   border-bottom:1px solid #47D9E8;
 }
 

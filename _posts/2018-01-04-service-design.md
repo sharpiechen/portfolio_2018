@@ -92,7 +92,6 @@ number: 10
 <p>
 	Following interviews, we began synthesized data from our research to identify patterns, common behaviors, and common goals amongst our service users. Using our findings, we created multiple faculty and student archetypical models — the unsure liberal arts professor, the small-town undecided undergrad, the e-portfolio advocate, etc. Next, we drafted two sets (faculty and student) of primary, secondary, and tertiary personas, which we shared with our educational services team for feedback.
 </p>
-</p>
 <a href="#img10g">
         <img src="{{site.baseurl}}/assets/gallery/14/img-asset-14f.jpg" alt="image" class="post__asset">
 </a>
@@ -107,7 +106,6 @@ number: 10
     <p class="post__lightbox__close">&#x2715;</p>
     <img src="{{site.baseurl}}/assets/img-asset-10h.jpeg">
 </a>
-</p>
 <a href="#img10i">
         <img src="{{site.baseurl}}/assets/gallery/14/img-asset-14g.jpg" alt="image" class="post__asset">
 </a>
