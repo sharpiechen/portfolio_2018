@@ -108,7 +108,7 @@ casestudy: true
 </ul>
 
 <div class="container__button">
-	<a id="showcasestudy" class="button__case-study heading heading--regular heading--emphasize" href="#">View Case Study</a>
+	<a id="showcasestudy" class="button__case-study heading heading--regular heading--emphasize" href="#">Show Case Study</a>
 </div>
 
 
