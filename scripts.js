@@ -75,6 +75,9 @@ $('a[href*="#"]')
   .not('[href="#"]')
   .not('[href="#0"]')
   .not('[href="#img26"]')
+  .not('[href="#img27"]')
+  .not('[href="#img28"]')
+
   .click(function(event) {
     // On-page links
     if (
