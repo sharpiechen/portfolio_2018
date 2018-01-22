@@ -1222,13 +1222,13 @@ hr + .container-work--hidden {
   text-align: center;
   top: 0;
   left: 0;
-  background: rgba(0,0,0,.8);
+  background: rgba(51,51,51,1);
+  overflow-x: scroll;
 }
 
 .post__lightbox img {
-  max-height: 90%;
-  margin-top: 3%;
-  box-shadow:0 0 20px rgba(0,0,0,0.9);
+  max-width: 90%;
+  margin-top: 5%;
 }
 
 .post__lightbox:target {
