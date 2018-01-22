@@ -38,17 +38,10 @@ layout: works
                 {{ content }}
 
                 {% assign post_number = page.number %}
-                {% capture post_assets_path %}
-                    assets/gallery/{{ post_number }}
-                {% endcapture %}
 
                 {% for image in site.static_files %}
-                    
-                    {{ post_assets_path }}
-                    <br>
-                    <p>end</p>
-
-                    {% if image.path contains post_assets_path %}
+                
+                    {% if image.path contains post_number %}
                         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" class="post__asset"></img>
                     {% endif %}
                 {% endfor %}
