@@ -38,12 +38,7 @@ layout: works
                 {{ content }}
 
                 {% assign post_number = page.number | prepend: 'assets/gallery/' %}
-
                 {% for image in site.static_files %}
-
-                    {{ post_number }}
-                    <br>
-                
                     {% if image.path contains post_number %}
                         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" class="post__asset"></img>
                     {% endif %}
