@@ -22,6 +22,15 @@ number: 7
 </p>
 
 <div class="post__casestudy">
+
+    <a href="#img7g">
+        <img src="{{site.baseurl}}/assets/img-asset-7g.png" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img7g">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-7g.png">
+    </a>
+
 	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
 	<div class="marker-post-heading"></div>
 	<div class="marker marker-post">02</div>
@@ -44,6 +53,15 @@ number: 7
 			<li>"During a phone call, I immediately asks students to give her an overview of their experience. It’s a bad sign when student say ‘I currently go to school for this’ and don’t share any other experiences. I want to hear about work experience and school involvement.” — Human Resources Coordinator</li>
 		</ul>
 	</div>
+
+    <a href="#img7h">
+        <img src="{{site.baseurl}}/assets/img-asset-7h.jpeg" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img7h">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-7h.jpeg">
+    </a>
+
 	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">create & test</h4>
 	<div class="marker-post-heading"></div>
 	<div class="marker marker-post">03</div>
@@ -54,6 +72,23 @@ number: 7
 	<p>
 		We worked with our VP of Academics to identify the top eight soft skills university recruiters look for in entry-level candidates. Following a quick session of brainstorming & ideation, we developed three concepts using low-fidelity prototypes that focused on motivating students through gamification.
 	</p>
+
+    <a href="#img7i">
+        <img src="{{site.baseurl}}/assets/img-asset-7i.jpeg" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img7i">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-7i.jpeg">
+    </a>
+
+    <a href="#img7j">
+        <img src="{{site.baseurl}}/assets/img-asset-7j.jpeg" alt="image" class="post__asset">
+    </a>
+	<a href="#_" class="post__lightbox" id="img7j">
+        <p class="post__lightbox__close">&#x2715;</p>
+        <img src="{{site.baseurl}}/assets/img-asset-7j.jpeg">
+    </a>
+
 	<p>
 		Informal testing on campus revealed that students were easily able to grasp the value of a portfolio-based career preparation tool. Moreover, the visual measure of the students’ skills mastery seemed to be directly related to how confident students felt about their job preparedness.
 	</p>
