@@ -71,7 +71,7 @@ $( "#filtervisualdesign" ).click(function() {
 // Scroll ////////////////////////////////////////////////////////////////////////////////////
 $("a[href='#backtotop']").click(function() {
   $('html,body').animate({
-   scrollTop: $("#bootstrapoverride").offset().top + 10
+   scrollTop: $("#bootstrapoverride").offset().top - 25
   });
 });
 
