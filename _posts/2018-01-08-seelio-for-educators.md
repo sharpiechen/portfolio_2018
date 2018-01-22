@@ -17,14 +17,13 @@ number: 6
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
 <div class="marker-post-heading"></div>
-<h3 class="heading heading--fancy">Creating a platform for educators to easily interact with students</h3>
 <p>
 	Seelio for Educators is an educational technology that helps teachers and administrators of our partner universities track portfolio-based assignments, easily interact with students, and showcase exemplary student work through custom-curated showcases. Created to complement a university's Learning Management System (LMS), Seelio's educational platform flexibly caters to each university’s unique hierarchical system while also maintaining a streamlined simplicity.
 </p>
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
 <div class="marker-post-heading"></div>
-<h3 class="heading heading--fancy">Getting to know educator needs by mapping every touchpoint</h3>
+<h3 class="heading heading--fancy">Mapping every user touchpoint</h3>
 <p>
 	We employed a service design approach to understanding exactly what educators wanted from an online educational tool like Seelio. After conducting interviews with new and existing users, we created primary, secondary, and tertiary educator personas and user scenarios.
 </p>
@@ -43,7 +42,7 @@ number: 6
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">create & test</h4>
 <div class="marker-post-heading"></div>
-<h3 class="heading heading--fancy">Using innovative solutions to fill in the gaps</h3>
+<h3 class="heading heading--fancy">Innovating to fill in the gaps</h3>
 <p>
 	While journey mapping helped us define a vision of an overall redesign, creating a user task flow helped us interject the user into the system in a more concrete way.
 </p>
@@ -67,7 +66,7 @@ number: 6
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">outcome</h4>
 <div class="marker-post-heading"></div>
-<h3 class="heading heading--fancy">A streamlined and flexible web experience for educators</h3>
+<h3 class="heading heading--fancy">A streamlined & flexible web experience</h3>
 <p>
 </p>
 <p>
