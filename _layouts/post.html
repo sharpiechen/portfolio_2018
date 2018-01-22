@@ -48,7 +48,7 @@ layout: works
                     <br>
                     <p>end</p>
 
-                    {% if image.path contains 'assets/gallery/{{ page.number }}' %}
+                    {% if image.path contains post_assets_path %}
                         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" class="post__asset"></img>
                     {% endif %}
                 {% endfor %}
