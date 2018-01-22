@@ -36,11 +36,13 @@ layout: works
                 {% assign post_number = page.number | prepend: 'assets/gallery/' %}
                 {% for image in site.static_files %}
                     {% if image.path contains post_number %}
+                        {% assign asset_path = site.baseurl | append: image.path %}
+
                         <a href="#img">
-                            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" class="post__asset">
+                            <img src="{{ asset_path }}" alt="image" class="post__asset">
                         </a>
                         <a href="#_" class="post__lightbox" id="img">
-                            <img src="{{ site.baseurl }}{{ image.path }}">
+                            <img src="{{ asset_path }}">
                         </a>
                     {% endif %}
                 {% endfor %}

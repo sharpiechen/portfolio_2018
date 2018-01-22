@@ -1230,9 +1230,9 @@ hr + .container-work--hidden {
 }
 
 .post__lightbox img {
-  max-height: 95%;
+  max-height: 90%;
   margin-top: 3%;
-  box-shadow:0 0 20px rgba(0,0,0,0.8);
+  box-shadow:0 0 20px rgba(0,0,0,0.9);
 }
 
 .post__lightbox:target {
