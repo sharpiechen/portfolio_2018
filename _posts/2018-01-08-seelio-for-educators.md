@@ -24,7 +24,7 @@ number: 6
 <a id="hidecasestudy" href="#">Hide Case Study</a>
 <a id="showcasestudy" href="#">Show Case Study</a>
 
-<div id="casestudy">
+<div class="post__casestudy">
 	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
 	<div class="marker-post-heading"></div>
 	<h3 class="heading heading--fancy">Mapping every user touchpoint</h3>

@@ -1239,3 +1239,7 @@ hr + .container-work--hidden {
   outline: none;
   display: block; 
 }
+
+.post__casestudy {
+  display:none;
+}

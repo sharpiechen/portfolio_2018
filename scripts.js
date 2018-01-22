@@ -81,15 +81,11 @@ $("a[href='#scrolltocontact']").click(function() {
   });
 });
 
-// Hide Show ////////////////////////////////////////////////////////////////////////////////////
-$(document).ready(function(){
-    $("#hidecasestudy").click(function(){
-        $("#casestudy").hide();
-    });
-    $("#showcasestudy").click(function(){
-        $("#casestudy").show();
-    });
+// Show ////////////////////////////////////////////////////////////////////////////////////
+$("#showcasestudy").click(function(){
+  $(".post__casestudy").css("display", "block");
 });
+
 
 
 
