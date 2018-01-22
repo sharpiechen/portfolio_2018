@@ -36,6 +36,7 @@ number: 6
 			<li>“I use the showcase as a repository of works for current and prospective students, for the dean, and for advising appointments”  - User 3</li>
 		</ul>
 	</div>
+	<img src="{{site.baseurl}}/assets/img-asset-6j.jpg" alt="image" class="post__asset">
 	<p>
 		We used our personas and scenarios to map out the educator journey across Seelio, to pinpoint areas of pain, and to identify service gaps that needed to be filled.
 	</p>
