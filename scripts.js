@@ -85,6 +85,7 @@ $("a[href='#scrolltocontact']").click(function() {
 $("#showcasestudy").click(function($e){
   $e.preventDefault();
   $(".post__casestudy").css("display", "block");
+  $(".button__case-study").css("display", "none");
   return false;
 });
 
