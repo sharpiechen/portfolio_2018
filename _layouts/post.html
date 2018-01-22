@@ -37,7 +37,7 @@ layout: works
 
                 {{ content }}
 
-                {% assign post_number = page.number %}
+                {% assign post_number = page.number | append: 'assets/gallery/' %}
 
                 {% for image in site.static_files %}
                 
