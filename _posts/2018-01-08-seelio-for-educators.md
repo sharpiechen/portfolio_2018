@@ -80,14 +80,10 @@ number: 6
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>
 <div class="marker-post-heading"></div>
-<p><b>UX Design</b></p>
 <ul>
 	<li>Ethnography of partner university faculty and administrators to understand classroom teaching practices and develop user personas, user scenarios, and customer journey map.</li>
 	<li>Compiled key concepts from research and ideation into low-fidelity paper wireframes and interactive prototypes.</li>
 	<li>Tested interactive prototypes on users using InVision and Axure RP and performed qualitative data analysis. Iteratively improved designs based on user findings.</li>
-</ul>
-<p><b>UI Design</b></p>
-<ul>
 	<li>Established visual hierarchy and designed complete set of responsive, pixpel-perfect mockups using Adobe Photoshop.</li>
 	<li>Communicated design specifications and interactions to development team using Trello, Google Documents, and InVision.</li>
 </ul>
