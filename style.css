@@ -1244,12 +1244,12 @@ hr + .container-work--hidden {
   color:white;
 }
 
-#bootstrapoverride #showcasestudy + .button__case-study {
+#bootstrapoverride .button__case-study {
   padding:20px 30px;
   border:1px solid #252525;
 }
 
-#bootstrapoverride #showcasestudy + .button__case-study:hover {
+#bootstrapoverride .button__case-study:hover {
   background-color:#252525;
   color:white;
 }
