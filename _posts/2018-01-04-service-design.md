@@ -12,7 +12,6 @@ number: 10
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
-<div class="marker marker-post">01</div>
 <h3 class="heading heading--fancy">A natural transition to service design</h3>
 <p>
 	<a href="http://seelio.com" target="_blank">Seelio</a> is an educational technology company that helps students understand the 21st century skills employers want, communicate how their education relates to those skills in a professional digital identity, and ultimately use that digital identity to connect with employers and find a job.
@@ -28,7 +27,6 @@ number: 10
 </p>
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
-<div class="marker marker-post">02</div>
 <h3 class="heading heading--fancy">Uniting to create a holistic user experience</h3>
 <p>
 	We focused our research on understanding what was and wasn’t working with our current process by interviewing both service users and service employees — our partner faculty and students and our educational services team members, respectively.
@@ -73,7 +71,6 @@ number: 10
 </p>
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">create</h4>
-<div class="marker marker-post">03</div>
 <h3 class="heading heading--fancy">Improving user experiences one initiative at a time</h3>
 <p>
 	Over the the course of the next few years, we launched multiple initiatives to alleviate service users’ pains and to fill in gaps we had identified from our research.
@@ -105,7 +102,6 @@ number: 10
 </ul>
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">outcome</h4>
-<div class="marker marker-post">04</div>
 <h3 class="heading heading--fancy">Continuing to revise and streamline</h3>
 <p>
 	The influence of service design on our user experience design process has been imperative in uniting all teams within our company under a shared vision.
