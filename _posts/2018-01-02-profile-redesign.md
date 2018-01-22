@@ -16,7 +16,10 @@ number: 12
 <div class="marker-post-heading"></div>
 <h3 class="heading heading--fancy">A tool for students to showcase experiences and accomplishments</h3>
 <p>
-	Seelio is a educational technology startup that offers college students a better way to showcase their work via online portfolios which employers and recruiters alike can browse through and search by keyword. Since Seelio’s <a href="https://techcrunch.com/2012/08/06/no-more-boring-resumes-seelio-lets-college-students-showcase-their-work-helps-employers-find-them/">beta launch in August of 2012</a>, the student profile had not been updated and was in need of a redesign. Following a complete rework, the student profile now offers a more professional and modern aesthetic, a flexible layout for works, and customizable fields for about information.
+	Seelio is a educational technology startup that offers college students a better way to showcase their work via online portfolios which employers and recruiters alike can browse through and search by keyword.
+</p>
+<p>
+	Since Seelio’s <a href="https://techcrunch.com/2012/08/06/no-more-boring-resumes-seelio-lets-college-students-showcase-their-work-helps-employers-find-them/">beta launch in August of 2012</a>, the student profile had not been updated and was in need of a redesign. Following a complete rework, the student profile now offers a more professional and modern aesthetic, a flexible layout for works, and customizable fields for about information.
 </p>
 
 <div class="post__casestudy">
@@ -65,7 +68,8 @@ number: 12
         <p class="post__lightbox__close">&#x2715;</p>
         <img src="{{site.baseurl}}/assets/img-asset-12c.png">
     </a>
-	<h4 class="heading heading--regular heading--emphasize">create & test</h4>
+	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">create & test</h4>
+	<div class="marker-post-heading"></div>
 	<h3 class="heading heading--fancy">Collecting feedback at all stages</h3>
 	<p>
 		With the findings from our various sources in mind, we developed three sets of paper prototypes to gauge reactions to different layouts and features such as a cover photo and timeline view.
@@ -78,7 +82,6 @@ number: 12
         <img src="{{site.baseurl}}/assets/img-asset-12d.jpeg">
     </a>
     <p>While we wanted to maximize our redesign and account for all user suggestions and issues, we were determined not to lose sight of our overall vision. Many users were comparing us to website-building sites such as Squarespace, Weebly, and Wix and expressed a desire for similar themes and flexibility. However, we felt as though too much customization might compromise some of Seelio’s simplicity and ease-of-use.
-   	</p>
 	</p>
     <a href="#img12e">
         <img src="{{site.baseurl}}/assets/img-asset-12e.jpeg" alt="image" class="post__asset">
@@ -87,7 +90,6 @@ number: 12
         <p class="post__lightbox__close">&#x2715;</p>
         <img src="{{site.baseurl}}/assets/img-asset-12e.jpeg">
     </a>
-	</p>
     <a href="#img12f">
         <img src="{{site.baseurl}}/assets/img-asset-12f.jpeg" alt="image" class="post__asset">
     </a>
@@ -95,7 +97,6 @@ number: 12
         <p class="post__lightbox__close">&#x2715;</p>
         <img src="{{site.baseurl}}/assets/img-asset-12f.jpeg">
     </a>
-	</p>
     <a href="#img12g">
         <img src="{{site.baseurl}}/assets/img-asset-12g.jpeg" alt="image" class="post__asset">
     </a>
@@ -118,7 +119,8 @@ number: 12
 	<p>
 		Before releasing our new design to all students, we initiated a soft release to power users who had given us feedback during our testing sessions. We set up a Google Group and over the course of two weeks, monitored forums, initiated dialogue, and compiled additional feedback. The Google Group was invaluable in helping us identify and tweak small details and bugs.
 	</p>
-	<h4 class="heading heading--regular heading--emphasize">outcome</h4>
+	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">outcome</h4>
+	<div class="marker-post-heading"></div>
 	<h3 class="heading heading--fancy">Digital customization within a professional context</h3>
 	<p>
 		The redesign of Seelio’s student profile offers users added customization within a professional space. Though we wanted to students to distinguish themselves using their profiles, we also wanted to keep profile layouts consistent so audiences could easily view information. Features such as a profile cover photo and work cover photos add fun visual elements without compromising the organization and flow of the design.
