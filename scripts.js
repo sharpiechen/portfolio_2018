@@ -74,7 +74,9 @@ $('a[href*="#"]')
   // Remove links that don't actually link to anything
   .not('[href="#"]')
   .not('[href="#0"]')
-  .not('[href="#img"]')
+  for (i = 0; i < 300; i++) { 
+    .not('[href="#img[i]"]')
+  }
   .click(function(event) {
     // On-page links
     if (
