@@ -82,9 +82,9 @@ $("a[href='#scrolltocontact']").click(function() {
 });
 
 // Show ////////////////////////////////////////////////////////////////////////////////////
-$("#showcasestudy").click(function(e){
-  e.preventDefault();
+$("#showcasestudy").click(function(){
   $(".post__casestudy").css("display", "block");
+  return false;
 });
 
 
