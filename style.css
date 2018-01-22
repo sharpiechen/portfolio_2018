@@ -1240,8 +1240,9 @@ hr + .container-work--hidden {
   display: block; 
 }
 
-#showcasestudy {
+#bootstrapoverride .button__case-study {
   padding:10px 20px;
+  margin-top:15px;
   border:1px solid #252525;
 }
 
