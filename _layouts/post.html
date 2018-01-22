@@ -38,7 +38,6 @@ layout: works
                     {% if image.path contains post_number %}
                         {% assign asset_path = site.baseurl | append: image.path %}
                         {% assign asset_index = forloop.index0 %}
-                        {{ asset_index }}
                         <a href="#img{{ asset_index }}">
                             <img src="{{ asset_path }}" alt="image" class="post__asset">
                         </a>
