@@ -1244,13 +1244,12 @@ hr + .container-work--hidden {
   color:white;
 }
 
-#bootstrapoverride a + .button__case-study {
-  padding:10px 20px;
-  margin-top:25px;
+#bootstrapoverride .button__case-study {
+  padding:20px 30px;
   border:1px solid #252525;
 }
 
-#bootstrapoverride a + .button__case-study:hover {
+#bootstrapoverride .button__case-study:hover {
   background-color:#252525;
   color:white;
 }
@@ -1260,6 +1259,5 @@ hr + .container-work--hidden {
 }
 
 .container__button {
-  margin-top:50px;
-  margin-bottom:50px;
+  margin: 70px 0px 50px 0px;
 }
