@@ -21,8 +21,6 @@ number: 6
 	Seelio for Educators is an educational technology that helps teachers and administrators of our partner universities track portfolio-based assignments, easily interact with students, and showcase exemplary student work through custom-curated showcases. Created to complement a university's Learning Management System (LMS), Seelio's educational platform flexibly caters to each university’s unique hierarchical system while also maintaining a streamlined simplicity.
 </p>
 
-<a id="showcasestudy" class="button__case-study heading heading--regular heading--emphasize" href="#">Show Case Study</a>
-
 <div class="post__casestudy">
 	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
 	<div class="marker-post-heading"></div>
@@ -80,7 +78,7 @@ number: 6
 	</p>
 </div>
 
-<h4 class="heading heading--regular heading--emphasize post__heading--stacked">role</h4>
+<h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>
 <div class="marker-post-heading"></div>
 <p><b>UX Design</b></p>
 <ul>
@@ -93,6 +91,9 @@ number: 6
 	<li>Established visual hierarchy and designed complete set of responsive, pixpel-perfect mockups using Adobe Photoshop.</li>
 	<li>Communicated design specifications and interactions to development team using Trello, Google Documents, and InVision.</li>
 </ul>
+
+<a id="showcasestudy" class="button__case-study heading heading--regular heading--emphasize" href="#">Show Case Study</a>
+
 
 
 
