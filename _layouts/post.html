@@ -16,17 +16,25 @@ layout: works
         <div class="row">
             <div class="col-2 post__sidebar">
                 <div class="affix">
-                    <h4 class="heading heading--regular heading--emphasize post__sidebar__header">Services</h4>
-                    <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.categories | join: ', ' | remove: ', featured' }}</h4>
-                    <hr>
-                    <h4 class="heading heading--regular heading--emphasize post__sidebar__header">timeline</h4>
-                    <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.timeline }}</h4>
-                    <hr>
-                    <h4 class="heading heading--regular heading--emphasize post__sidebar__header">tools</h4>
-                    <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.tools }}</h4>
-                    <hr>
-                    <h4 class="heading heading--regular heading--emphasize post__sidebar__header">company</h4>
-                    <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.client }}</h4>
+                    {% if page.categories != '' %}
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__header">Services</h4>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.categories | join: ', ' | remove: ', featured' }}</h4>
+                    {% endif %}
+                    {% if page.timeline != '' %}
+                        <hr>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__header">timeline</h4>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.timeline }}</h4>
+                    {% endif %}
+                    {% if page.tools != '' %}
+                        <hr>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__header">tools</h4>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.tools }}</h4>
+                    {% endif %}
+                    {% if page.client != '' %}
+                        <hr>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__header">company</h4>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.client }}</h4>
+                    {% endif %}
                 </div>
             </div>
             <div class="col-8 container-post-body">
