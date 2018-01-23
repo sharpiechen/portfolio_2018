@@ -7,7 +7,7 @@ tools: Adobe Photoshop CC, Adobe Illustrator CC, Git, HTML5, CSS3, Node.js, JQue
 client: Seelio
 timeline: none
 assets: yes
-
+casestudy: none
 cover: img-post-cover-10.jpg
 number: 11
 

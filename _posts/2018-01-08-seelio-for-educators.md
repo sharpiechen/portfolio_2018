@@ -7,7 +7,7 @@ timeline: Summer 2014 - Spring 2015
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6, Axure RP, Justinmind, InVision
 client: Seelio
 assets: yes
-
+casestudy: yes
 cover: img-post-cover-6.jpg
 splash: img-post-splash-6.jpg
 number: 6

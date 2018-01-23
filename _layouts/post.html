@@ -35,7 +35,11 @@ layout: works
                         <h4 class="heading heading--regular heading--emphasize post__sidebar__header">company</h4>
                         <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.client }}</h4>
                     {% endif %}
-                </div>s
+                    {% if page.casestudy != 'none' %}
+                        <hr>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__header">&#43;&nbsp;case study</h4>
+                    {% endif %}
+                </div>
             </div>
             <div class="col-8 container-post-body">
                 <h1 class="heading heading--fancy heading--emphasize heading-post-title">{{ page.title }}</h1>
@@ -48,7 +52,7 @@ layout: works
                 {% endif %}
 
                 {% assign post_number = page.number | prepend: 'assets/gallery/' %}
-                
+
                 {% for image in site.static_files %}
                     {% if image.path contains post_number %}
                         {% assign asset_path = site.baseurl | append: image.path %}

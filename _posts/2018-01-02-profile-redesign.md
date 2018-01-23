@@ -7,7 +7,7 @@ timeline: Summer 2014 - Spring 2015
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6, Axure RP, InVision
 client: Seelio
 assets: yes
-
+casestudy: yes
 cover: img-post-cover-12.jpg
 number: 12
 

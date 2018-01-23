@@ -7,7 +7,7 @@ timeline: Summer - Fall 2014
 tools: Adobe Illustrator CS6
 client: Seelio
 assets: yes
-
+casestudy: none
 cover: img-post-cover-8.jpg
 number: 8
 

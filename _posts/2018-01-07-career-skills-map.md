@@ -7,7 +7,7 @@ timeline: Winter 2015 - Spring 2016s
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6, InVision
 client: Seelio
 assets: yes
-
+casestudy: yes
 cover: img-post-cover-7.jpg
 splash: img-post-splash-7.jpg
 number: 7

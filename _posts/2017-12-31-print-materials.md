@@ -7,7 +7,7 @@ tools: Adobe Illustrator CS6, Adobe Photoshop CS6
 client: none
 timeline: none
 assets: yes
-
+casestudy: none
 cover: img-post-cover-14.jpg
 number: 14
 ---
