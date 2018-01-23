@@ -35,15 +35,20 @@ layout: works
                         <h4 class="heading heading--regular heading--emphasize post__sidebar__header">company</h4>
                         <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.client }}</h4>
                     {% endif %}
-                </div>
+                </div>s
             </div>
             <div class="col-8 container-post-body">
                 <h1 class="heading heading--fancy heading--emphasize heading-post-title">{{ page.title }}</h1>
 
                 {{ content }}
-                <h4 class="heading heading--regular heading--emphasize post__heading--stacked">deliverables</h4>
-                <div class="marker-post-heading"></div>
+
+                {% if page.assets != 'none' %}
+                    <h4 class="heading heading--regular heading--emphasize post__heading--stacked">deliverables</h4>
+                    <div class="marker-post-heading"></div>
+                {% endif %}
+
                 {% assign post_number = page.number | prepend: 'assets/gallery/' %}
+                
                 {% for image in site.static_files %}
                     {% if image.path contains post_number %}
                         {% assign asset_path = site.baseurl | append: image.path %}

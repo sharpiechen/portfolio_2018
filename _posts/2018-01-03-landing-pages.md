@@ -6,6 +6,7 @@ categories: ['user interface design','front-end development']
 tools: Adobe Photoshop CC, Adobe Illustrator CC, Git, HTML5, CSS3, Node.js, JQuery, Bootstrap 3
 client: Seelio
 timeline: none
+assets: yes
 
 cover: img-post-cover-10.jpg
 number: 11

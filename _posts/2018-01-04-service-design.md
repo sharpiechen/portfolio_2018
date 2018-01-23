@@ -6,6 +6,7 @@ categories: ['user experience research']
 timeline: Summer 2015 - Winter 2016
 tools: none
 client: Seelio
+assets: none
 
 cover: img-post-cover-11.jpg
 number: 10

@@ -6,6 +6,7 @@ categories: ['visual design']
 timeline: Summer - Fall 2014
 tools: Adobe Illustrator CS6
 client: Seelio
+assets: yes
 
 cover: img-post-cover-8.jpg
 number: 8

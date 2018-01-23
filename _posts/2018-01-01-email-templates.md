@@ -6,6 +6,7 @@ categories: ['user interface design','front-end development']
 timeline: Fall - Winter 2015
 tools: Adobe Photoshop CS6, Adobe Illustrator CS6, HTML, CSS, Customer.io, SendGrid
 client: Seelio
+assets: yes
 
 cover: img-post-cover-13.jpg
 number: 13

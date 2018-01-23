@@ -6,6 +6,7 @@ categories: ['visual design']
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6
 client: none
 timeline: none
+assets: yes
 
 cover: img-post-cover-14.jpg
 number: 14

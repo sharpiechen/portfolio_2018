@@ -6,6 +6,7 @@ categories: ['user experience research','user experience design','user interface
 timeline: Spring 2014
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6
 client: Seelio
+assets: yes
 
 cover: img-post-cover-9.jpg
 number: 9
@@ -17,7 +18,7 @@ number: 9
 <p>
 	<a href="http://seelio.com">Seelio</a> is an educational technology company that offers students a better way to showcase their work via online portfolios. It’s Add Work feature is a critical touchpoint in the student experience and was the next feature, following the student profile redesign, to be updated in a post-<a href="https://techcrunch.com/2012/08/06/no-more-boring-resumes-seelio-lets-college-students-showcase-their-work-helps-employers-find-them/">beta</a> improvement initiative. Following a complete redesign, Seelio’s Add Work now matches the aesthetic of the student profile, is far more streamlined, and offers students tangible examples to reference at every point of interaction.
 
-<div class="post__casestudy">
+<div class="post__casestudy">s
 
     <a href="#img9a">
         <img src="{{site.baseurl}}/assets/img-asset-9a.jpeg" alt="image" class="post__asset">
