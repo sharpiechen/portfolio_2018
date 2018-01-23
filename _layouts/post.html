@@ -54,7 +54,7 @@ layout: works
                         {% assign asset_path = site.baseurl | append: image.path %}
                         {% assign asset_index = forloop.index0 %}
                         <a href="#img{{ asset_index }}">
-                            <img src="{{ asset_path }}" alt="image" class="post__asset" style="border:1px solid #eee;box-shadow:0 0 20px rgba(0,0,0,0.1)">
+                            <img src="{{ asset_path }}" alt="image" class="post__asset">
                         </a>
                         <a href="#_" class="post__lightbox" id="img{{ asset_index }}">
                             <p class="post__lightbox__close">&#x2715;</p>
