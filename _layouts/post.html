@@ -16,21 +16,21 @@ layout: works
         <div class="row">
             <div class="col-2 post__sidebar">
                 <div class="affix">
-                    {% if page.categories != '' %}
+                    {% if page.categories != 'none' %}
                         <h4 class="heading heading--regular heading--emphasize post__sidebar__header">Services</h4>
                         <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.categories | join: ', ' | remove: ', featured' }}</h4>
                     {% endif %}
-                    {% if page.timeline != '' %}
+                    {% if page.timeline != 'none' %}
                         <hr>
                         <h4 class="heading heading--regular heading--emphasize post__sidebar__header">timeline</h4>
                         <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.timeline }}</h4>
                     {% endif %}
-                    {% if page.tools != '' %}
+                    {% if page.tools != 'none' %}
                         <hr>
                         <h4 class="heading heading--regular heading--emphasize post__sidebar__header">tools</h4>
                         <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.tools }}</h4>
                     {% endif %}
-                    {% if page.client != '' %}
+                    {% if page.client != 'none' %}
                         <hr>
                         <h4 class="heading heading--regular heading--emphasize post__sidebar__header">company</h4>
                         <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.client }}</h4>

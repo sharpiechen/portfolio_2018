@@ -5,7 +5,7 @@ title: Marketing Landing Pages
 categories: ['user interface design','front-end development']
 tools: Adobe Photoshop CC, Adobe Illustrator CC, Git, HTML5, CSS3, Node.js, JQuery, Bootstrap 3
 client: Seelio
-timeline:
+timeline: none
 
 cover: img-post-cover-10.jpg
 number: 11
@@ -19,5 +19,4 @@ number: 11
 	<li>Established visual hierarchy and maintained consistent messaging and branding to improve site conversion rates.</li>
 	<li>Built responsive landing page interfaces using Node.js and Bootstrap 3.</li>
 	<li>Using JQuery, created simple interactions to optimize landing page interfaces.</li>
-</li>
 </ul>
