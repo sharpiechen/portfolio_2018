@@ -4,6 +4,7 @@ layout: post
 title: Service Design at Seelio
 categories: ['user experience research']
 timeline: Summer 2015 - Winter 2016
+tools:
 client: Seelio
 
 cover: img-post-cover-11.jpg
