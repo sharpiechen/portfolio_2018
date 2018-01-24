@@ -22,7 +22,7 @@ splash: img-post-splash-4.jpg
 	<div class="post__quote">
 		<ul>
 			<li>
-				“Sharon exceeded expectations in designing the education tool for university students here at Northwestern. We hired her as a freelance UX designer after being impressed with her strong online portfolio. She not only developed beautiful and functional designs, but was excellent in communicating her process and progress. She outlined all the designs and functionalities in a shared document, in which we could provide each other feedback. This consistent communication helped us reach a product design that we were very pleased with. I would highly recommend Sharon for future projects.” - Dr. Julie Hui
+				“Sharon exceeded expectations in designing the education tool for university students here at Northwestern. We hired her as a freelance UX designer after being impressed with her strong online portfolio. She not only developed beautiful and functional designs, but was excellent in communicating her process and progress. She outlined all the designs and functionalities in a shared document, in which we could provide each other feedback. This consistent communication helped us reach a product design that we were very pleased with. I would highly recommend Sharon for future projects.” - Dr. Julie Hui, Ph.D.
 			</li>
 		</ul>
 	</div>
@@ -31,7 +31,7 @@ splash: img-post-splash-4.jpg
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>
 <div class="marker-post-heading"></div>
 <ul>
-	<li>Worked with Dr. Hui to synthesize dissertation research, findings, and initial wireframes into a cohesive set of user requirements for end-to-end designs.</li>
+	<li>Worked with Dr. Hui to synthesize her dissertation research, findings, and initial wireframes into a cohesive set of user requirements for end-to-end designs.</li>
 	<li>Using a shared document, communicated design visuals and functionality to Dr. Hui throughout multiple rounds of iteration following user testing and feedback.</li>
 	<li>Designed high-fidelity, end-to-end designs for both the student and teacher user-type using Sketch and communicated design specifications to engineers using Google Docs and Zeplin.</li>
 </ul>
