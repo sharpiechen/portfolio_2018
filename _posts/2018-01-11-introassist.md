@@ -30,7 +30,6 @@ splash: img-post-splash-4.jpg
 		</li>
 	</ul>
 </div>
-</p>
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>
 <div class="marker-post-heading"></div>
