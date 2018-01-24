@@ -23,13 +23,13 @@ splash: img-post-splash-4.jpg
 <p>
 	It is geared towards helping undergraduate students applying for jobs write better cover letters with the aid of examples from fellow students and mentor feedback. It answers the research question, “How can we design a system that supports community relationship development through introductory help requests?”
 </p>
-	<div class="post__quote">
-		<ul>
-			<li>
-				“Sharon exceeded expectations in designing the education tool for university students here at Northwestern. We hired her as a freelance UX designer after being impressed with her strong online portfolio. She not only developed beautiful and functional designs, but was excellent in communicating her process and progress. She outlined all the designs and functionalities in a shared document, in which we could provide each other feedback. This consistent communication helped us reach a product design that we were very pleased with. I would highly recommend Sharon for future projects.” - Dr. Julie Hui, Ph.D.
-			</li>
-		</ul>
-	</div>
+<div class="post__quote">
+	<ul>
+		<li>
+			“Sharon exceeded expectations in designing the education tool for university students here at Northwestern. We hired her as a freelance UX designer after being impressed with her strong online portfolio. She not only developed beautiful and functional designs, but was excellent in communicating her process and progress. She outlined all the designs and functionalities in a shared document, in which we could provide each other feedback. This consistent communication helped us reach a product design that we were very pleased with. I would highly recommend Sharon for future projects.” - Dr. Julie Hui, Ph.D.
+		</li>
+	</ul>
+</div>
 </p>
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>
