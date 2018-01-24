@@ -7,11 +7,12 @@ timeline: Fall 2017
 tools: Sketch, Zeplin
 client: Northwestern University Segal Design Institute
 
-assets: yes
+assets: no
 casestudy: no
 
 cover: img-post-cover-4.jpg
 splash: img-post-splash-4.jpg
+number:4
 
 ---
 
@@ -21,7 +22,7 @@ splash: img-post-splash-4.jpg
 	<a href="#">IntroAssist</a> is an educational tool invented by <a href="http://juliehui.com/">Dr. Julie Hui, Ph.D.</a> of Northwestern University’s Segel Institute of Design as part of her dissertation studying how socio-technical systems are changing the nature of professional development in informal workplace contexts.
 </p>
 <p>
-	It is geared towards helping undergraduate students applying for jobs write better cover letters with the aid of examples from fellow students and mentor feedback. It answers the research question, “How can we design a system that supports community relationship development through introductory help requests?”
+	IntroAssist helps undergraduate students applying for jobs write better cover letters with the aid of help prompts, examples from fellow students, and mentor feedback; it answers the research question, “How can we design a system that supports community relationship development through introductory help requests?”  
 </p>
 <div class="post__quote">
 	<ul>

@@ -4,11 +4,38 @@ layout: post
 title: Quill 3 Zendesk Support Site
 categories: ['user experience design','user interface design','front-end development','featured']
 timeline: Winter 2017
-tools: Sketch, HTML, CSS, ZenDesk
+tools: HTML, CSS, Bootstrap 4, ZenDesk, Curlybars
 client: Narrative Science
 
+assets: no
+casestudy: no
+
 cover: img-post-cover-2.jpg
+splash: img-post-splash-2.jpg
+number:2
 
 ---
 
-<p>Strategy, design and development work hand in hand on the web to create an educational, engaging and empowering experience. Clean linework, derived from the streamlined logomark, reappear as a structural element and visual cue, inviting visitors to read between the lines and make progress at their own pace. Thoughtfully structured copy and strategic pathways—marked by simple animations and delightful interactions—gently guide users toward one final, low-pressure call to action, encouraging them to take the first step toward financial security, just by getting in touch. Financial planning never looked so friendly.</p>
+<h4 class="heading heading--regular heading--emphasize">overview</h4>
+<div class="marker-post-heading"></div>
+<p>
+	<a href="#">IntroAssist</a> is an educational tool invented by <a href="http://juliehui.com/">Dr. Julie Hui, Ph.D.</a> of Northwestern University’s Segel Institute of Design as part of her dissertation studying how socio-technical systems are changing the nature of professional development in informal workplace contexts.
+</p>
+<p>
+	IntroAssist helps undergraduate students applying for jobs write better cover letters with the aid of help prompts, examples from fellow students, and mentor feedback; it answers the research question, “How can we design a system that supports community relationship development through introductory help requests?”  
+</p>
+<div class="post__quote">
+	<ul>
+		<li>
+			“Sharon exceeded expectations in designing the education tool for university students here at Northwestern. We hired her as a freelance UX designer after being impressed with her strong online portfolio. She not only developed beautiful and functional designs, but was excellent in communicating her process and progress. She outlined all the designs and functionalities in a shared document, in which we could provide each other feedback. This consistent communication helped us reach a product design that we were very pleased with. I would highly recommend Sharon for future projects.” - Dr. Julie Hui, Ph.D.
+		</li>
+	</ul>
+</div>
+
+<h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>
+<div class="marker-post-heading"></div>
+<ul>
+	<li>Worked with Dr. Hui to synthesize her dissertation research, findings, and initial wireframes into a cohesive set of user requirements for end-to-end designs.</li>
+	<li>Using a shared document, communicated design visuals and functionality to Dr. Hui throughout multiple rounds of iteration following user testing and feedback.</li>
+	<li>Designed high-fidelity, end-to-end designs for both the student and teacher user-type using Sketch and communicated design specifications to engineers using Google Docs and Zeplin.</li>
+</ul>
