@@ -6,11 +6,12 @@ categories: ['user interface design','featured']
 timeline: Fall 2017
 tools: Sketch, Zeplin
 client: Northwestern University Segal Design Institute
+
 assets: yes
 casestudy: no
+
 cover: img-post-cover-4.jpg
 splash: img-post-splash-4.jpg
-number:4
 
 ---
 
@@ -34,7 +35,3 @@ number:4
 	<li>Using a shared document, communicated design visuals and functionality to Dr. Hui throughout multiple rounds of iteration following user testing and feedback.</li>
 	<li>Designed high-fidelity, end-to-end designs for both the student and teacher user-type using Sketch and communicated design specifications to engineers using Google Docs and Zeplin.</li>
 </ul>
-
-<div class="container__button">
-	<a id="showcasestudy" class="button__case-study heading heading--regular heading--emphasize" href="#">Show Case Study</a>
-</div>
