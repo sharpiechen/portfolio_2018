@@ -12,7 +12,6 @@ casestudy: no
 
 cover: img-post-cover-2.jpg
 splash: img-post-splash-2.jpg
-number:2
 
 ---
 
