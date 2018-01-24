@@ -12,6 +12,7 @@ casestudy: no
 
 cover: img-post-cover-4.jpg
 splash: img-post-splash-4.jpg
+number: 4
 
 ---
 
