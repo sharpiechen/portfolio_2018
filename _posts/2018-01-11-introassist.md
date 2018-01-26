@@ -19,7 +19,7 @@ number: 4
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
 <div class="marker-post-heading"></div>
 <p>
-	<a href="#">IntroAssist</a> is an educational tool invented by <a href="http://juliehui.com/">Dr. Julie Hui, Ph.D.</a> of Northwestern University’s Segel Institute of Design as part of her dissertation studying how socio-technical systems are changing the nature of professional development in informal workplace contexts.
+	<a href="#">IntroAssist</a> is an educational tool created by <a href="http://juliehui.com/">Dr. Julie Hui, Ph.D.</a> of Northwestern University’s Segal Design Institute in the <a href="http://delta.northwestern.edu/">Delta Lab</a> as part of her dissertation studying how socio-technical systems are changing the nature of professional development in informal workplace contexts.
 </p>
 <p>
 	IntroAssist helps undergraduate students applying for jobs write better cover letters with the aid of help prompts, examples from fellow students, and mentor feedback; it answers the research question, “How can we design a system that supports community relationship development through introductory help requests?”  
