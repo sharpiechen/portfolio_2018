@@ -1,19 +1,18 @@
 ---
-layout: post
-
 title: IntroAssist Help Tool
-categories: ['user interface design','featured']
+date: 2018-01-11 00:00:00 Z
+categories:
+- user interface design
+- featured
+layout: post
 timeline: Fall 2017
 tools: Sketch, Zeplin
 client: Northwestern University Segal Design Institute
-
-assets: no
-casestudy: no
-
+assets: false
+casestudy: false
 cover: img-post-cover-4.jpg
 splash: img-post-splash-4.jpg
 number: 4
-
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

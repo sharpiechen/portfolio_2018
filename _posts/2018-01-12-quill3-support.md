@@ -1,18 +1,19 @@
 ---
-layout: post
-
 title: Narrative Sciencen Help Center
-categories: ['user experience design','user interface design','front-end development','featured']
+date: 2018-01-12 00:00:00 Z
+categories:
+- user experience design
+- user interface design
+- front-end development
+- featured
+layout: post
 timeline: Winter 2017
 tools: HTML, CSS, Bootstrap 4, ZenDesk, Curlybars
 client: Narrative Science
-
-assets: no
-casestudy: no
-
+assets: false
+casestudy: false
 cover: img-post-cover-2.jpg
 splash: img-post-splash-2.jpg
-
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

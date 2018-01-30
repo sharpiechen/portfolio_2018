@@ -1,16 +1,17 @@
 ---
-layout: post
-
 title: Email Templates
-categories: ['user interface design','front-end development']
+date: 2018-01-01 00:00:00 Z
+categories:
+- user interface design
+- front-end development
+layout: post
 timeline: Fall - Winter 2015
 tools: Adobe Photoshop CS6, Adobe Illustrator CS6, HTML, CSS, Customer.io, SendGrid
 client: Seelio
-assets: yes
+assets: true
 casestudy: none
 cover: img-post-cover-13.jpg
 number: 13
-
 ---
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">overview</h4>

@@ -1,13 +1,16 @@
 ---
-layout: post
-
 title: Add Work Redesign
-categories: ['user experience research','user experience design','user interface design']
+date: 2018-01-05 00:00:00 Z
+categories:
+- user experience research
+- user experience design
+- user interface design
+layout: post
 timeline: Spring 2014
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6
 client: Seelio
-assets: yes
-casestudy: yes
+assets: true
+casestudy: true
 cover: img-post-cover-9.jpg
 number: 9
 ---

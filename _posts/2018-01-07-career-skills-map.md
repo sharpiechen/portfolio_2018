@@ -1,18 +1,21 @@
 ---
-layout: post
-
 title: Career Skills Map
-categories: ['user experience research','user experience design','user interface design','front-end development']
+date: 2018-01-07 00:00:00 Z
+categories:
+- user experience research
+- user experience design
+- user interface design
+- front-end development
+layout: post
 timeline: Winter 2015 - Spring 2016s
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6, InVision
 client: Seelio
-assets: yes
-casestudy: yes
+assets: true
+casestudy: true
 cover: img-post-cover-7.jpg
 splash: img-post-splash-7.jpg
 number: 7
 ---
-
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
 <div class="marker-post-heading"></div>

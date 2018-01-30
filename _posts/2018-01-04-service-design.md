@@ -1,16 +1,16 @@
 ---
-layout: post
-
 title: Service Design at Seelio
-categories: ['user experience research']
+date: 2018-01-04 00:00:00 Z
+categories:
+- user experience research
+layout: post
 timeline: Summer 2015 - Winter 2016
 tools: none
 client: Seelio
 assets: none
-casestudy: yes
+casestudy: true
 cover: img-post-cover-11.jpg
 number: 10
-
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

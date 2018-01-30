@@ -1,12 +1,13 @@
 ---
-layout: post
-
 title: Print Materials
-categories: ['visual design']
+date: 2017-12-31 00:00:00 Z
+categories:
+- visual design
+layout: post
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6
 client: none
 timeline: none
-assets: yes
+assets: true
 casestudy: none
 cover: img-post-cover-14.jpg
 number: 14

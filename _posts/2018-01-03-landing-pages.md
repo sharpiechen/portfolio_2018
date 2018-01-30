@@ -1,16 +1,18 @@
 ---
-layout: post
-
 title: Marketing Landing Pages
-categories: ['user interface design','front-end development']
-tools: Adobe Photoshop CC, Adobe Illustrator CC, Git, HTML5, CSS3, Node.js, JQuery, Bootstrap 3
+date: 2018-01-03 00:00:00 Z
+categories:
+- user interface design
+- front-end development
+layout: post
+tools: Adobe Photoshop CC, Adobe Illustrator CC, Git, HTML5, CSS3, Node.js, JQuery,
+  Bootstrap 3
 client: Seelio
 timeline: none
-assets: yes
+assets: true
 casestudy: none
 cover: img-post-cover-10.jpg
 number: 11
-
 ---
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>
