@@ -1,20 +1,5 @@
 ---
-title: Custom Zendesk Support Site
-date: 2018-01-12 00:00:00 Z
-categories:
-- user experience design
-- user interface design
-- front-end development
-- featured
-layout: post
-timeline: Winter 2017
-tools: HTML, CSS, Bootstrap 4, ZenDesk, Curlybars
-client: Narrative Science
-assets: true
-casestudy: false
-cover: img-post-cover-2.jpg
-splash: img-post-splash-2.jpg
-number:2
+title: 2018 01 12 Quill3 Support
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
