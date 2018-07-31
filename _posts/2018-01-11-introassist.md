@@ -8,7 +8,7 @@ layout: post
 timeline: Fall 2017
 tools: Sketch, Zeplin
 client: Northwestern University Segal Design Institute
-assets: false
+assets: true
 casestudy: false
 cover: img-post-cover-4.jpg
 splash: img-post-splash-4.jpg
