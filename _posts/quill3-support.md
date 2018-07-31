@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD:_posts/2018-01-12-quill3-support.md
 title: Custom Zendesk Support Site
 date: 2018-01-12 00:00:00 Z
 categories:
@@ -14,6 +15,9 @@ assets: true
 casestudy: false
 cover: img-post-cover-2.jpg
 splash: img-post-splash-2.jpg
+=======
+title: 2018 01 12 Quill3 Support
+>>>>>>> origin/master:_posts/quill3-support.md
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
