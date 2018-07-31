@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD:_posts/2018-01-10-talos-pdi.md
 title: Talos
 date: 2018-01-10 00:00:00 Z
 categories:
@@ -14,6 +15,9 @@ assets: true
 casestudy: true
 cover: img-post-cover-3.jpg
 number: 3
+=======
+title: 2018 01 10 Talos Pdi
+>>>>>>> origin/master:_posts/talos-pdi.md
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
