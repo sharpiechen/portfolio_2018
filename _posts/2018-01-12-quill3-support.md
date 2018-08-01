@@ -26,7 +26,7 @@ number: 2
 	As the design point person for this initiative, I combined my past experience building a custom-themed support site on top of my CMS and my technical understanding of our products to develop a scalable theme structure and design. Finally, I developed the theme in ZenDesk and delivered it to the professional services and marketing teams. The ZenDesk theme has since been copied and used across various Narrative Science products. 
 	<br>
 	<br>
-	My contribution to this initiative not only made customer support more scalable and reliable across our enterprise partners, but reduced friction between our professional services team and our customers. 
+	My contribution to this initiative not only made customer support more scalable and reliable across our enterprise partners, but increased customer satisfaction across Narrative Science’s products while minimizing the cost of in-person support. 
 </p>
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>
