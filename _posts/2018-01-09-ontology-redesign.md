@@ -5,7 +5,7 @@ categories:
 - user experience design
 - featured
 layout: post
-timeline: none
+timeline: Present
 tools: none
 client: none
 assets: none
