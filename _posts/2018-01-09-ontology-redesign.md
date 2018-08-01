@@ -1,5 +1,5 @@
 ---
-title: Narrative Creation Ontology Redesign
+title: UX Design Thought Leadership
 date: 2018-01-09 00:00:00 Z
 categories:
 - user experience design
