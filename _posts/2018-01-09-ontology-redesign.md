@@ -26,6 +26,7 @@ cover: img-post-cover-5.jpg
 	<br><br>
 	In addition to leading design hackathons, I’ve also given multiple presentations to the product team about how design works and best practices for working with designers.
 </p>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLXzombZVrYa7H2qhwWp3NVzwO6SrYezedCjvTvFUO_gMoj8vG1ycgP-js9T5AbjSwnfKF8ztrJoXq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
