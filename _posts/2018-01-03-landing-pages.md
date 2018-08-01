@@ -12,7 +12,7 @@ timeline: none
 assets: true
 casestudy: none
 cover: img-post-cover-10.jpg
-number: 11
+number: 10
 ---
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>
