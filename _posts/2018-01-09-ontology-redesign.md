@@ -25,11 +25,11 @@ cover: img-post-cover-5.jpg
 	At Narrative Science, I’ve organized and led two product team design hackathons. During the hackathons, I taught product team members rapid brainstorming techniques and encouraged members to think beyond the features they focus on daily. The goal of these design hackathons was not necessarily to generate concrete ideas to incorporate into our product roadmap, but to prove that anyone can be designer and that even a low-fidelity prototype can act as a proof of concept.
 </p>
 
-<div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
+<div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:20px;">
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK_UGHvMx3DCkl2ve0arYZOhAt1vkUmnGVa5uvMw8e3wmDmlMsDybno6d5ypoPQKTYVnU4rewVuIbQ/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="work__page__attach--video" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
 </div>
 
-<div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
+<div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:20px;">
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlEAT-wYcBsP9IZ2jOsi1GD8-2ZNcZm2anfQzmx3wmLUFJRABgbb-oOmoHyg8JTZMPXpDGqS-6UZ8Z/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="work__page__attach--video" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
 </div>
 
@@ -37,7 +37,7 @@ cover: img-post-cover-5.jpg
 	In addition to leading design hackathons, I’ve also given multiple presentations to the product team about how design works and best practices for working with designers. The goal of these presentations was to help product team members understand that making something look visually appealing is just the tip of the iceberg of what product designer are good at doing. It helped shift the mindset of members away from specific features and solutions, but back to the larger problem at hand. 
 </p>
 
-<div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
+<div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:20px;">
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLXzombZVrYa7H2qhwWp3NVzwO6SrYezedCjvTvFUO_gMoj8vG1ycgP-js9T5AbjSwnfKF8ztrJoXq/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="work__page__attach--video" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
 </div>
 
