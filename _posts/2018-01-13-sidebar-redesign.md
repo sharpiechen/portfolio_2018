@@ -32,5 +32,7 @@ The sidebar refactor was successfully completed and delivered at the end of Q1, 
 	<li>Presented team progress upon completion of each sprint to entire Narrative Science organization. </li>
 </ul>
 
-<p>Due to NDA agreements, I am unable to share the specifics of my design process</p>
+<div class="container__button">
+	<a class="button__case-study heading heading--regular heading--emphasize" href="https://www.dropbox.com/s/87qifz9dykivqy9/img-asset-3b.png?dl=0" target="_blank">View Assets</a>
+</div>
 
