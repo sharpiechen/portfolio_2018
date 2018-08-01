@@ -3,12 +3,12 @@ title: Design Thought Leadership
 date: 2018-01-09 00:00:00 Z
 categories:
 - user experience design
-- user interface design
 - featured
 layout: post
-timeline: Fall 2016 - Winter 2016
-tools: None
-client: Narrative Science
+timeline: none
+tools: none
+client: none
+assets: none
 cover: img-post-cover-5.jpg
 ---
 
