@@ -11,6 +11,8 @@ timeline: Fall 2016 - Summer 2017
 tools: Sketch, InVision
 client: Narrative Science
 cover: img-post-cover-1.jpg
+assets: none
+number: 1
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
