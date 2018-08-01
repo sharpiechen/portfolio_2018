@@ -13,6 +13,7 @@ client: Narrative Science
 assets: none
 casestudy: false
 cover: img-post-cover-1.jpg
+splash: img-post-splash-1.jpg
 number: 1
 ---
 

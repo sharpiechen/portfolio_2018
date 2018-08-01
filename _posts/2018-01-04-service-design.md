@@ -10,6 +10,7 @@ client: Seelio
 assets: none
 casestudy: true
 cover: img-post-cover-11.jpg
+splash: img-post-splash-11.jpg
 number: 11
 ---
 

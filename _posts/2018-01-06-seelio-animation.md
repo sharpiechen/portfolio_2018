@@ -10,6 +10,7 @@ client: Seelio
 assets: true
 casestudy: none
 cover: img-post-cover-8.jpg
+splash: img-post-splash-8.jpg
 number: 8
 ---
 

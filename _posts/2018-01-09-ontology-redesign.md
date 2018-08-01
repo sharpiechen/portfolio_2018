@@ -10,6 +10,7 @@ tools: none
 client: none
 assets: none
 cover: img-post-cover-5.jpg
+splash: img-post-splash-5.jpg
 number: 5
 ---
 

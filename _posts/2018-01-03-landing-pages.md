@@ -12,6 +12,7 @@ timeline: none
 assets: true
 casestudy: none
 cover: img-post-cover-10.jpg
+splash: img-post-splash-10.jpg
 number: 10
 ---
 
