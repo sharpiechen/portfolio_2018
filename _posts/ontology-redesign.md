@@ -1,16 +1,5 @@
 ---
-title: Design Thought Leadership
-date: 2018-01-09 00:00:00 Z
-categories:
-- user experience design
-- featured
-layout: post
-timeline: 2015 - Present
-tools: none
-client: none
-assets: none
-cover: img-post-cover-5.jpg
-number:5
+title: 2018 01 09 Ontology Redesign
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
