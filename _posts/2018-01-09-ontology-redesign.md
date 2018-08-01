@@ -10,7 +10,6 @@ tools: none
 client: none
 assets: none
 cover: img-post-cover-5.jpg
-number: 5
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
