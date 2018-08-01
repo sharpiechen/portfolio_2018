@@ -13,6 +13,7 @@ client: Narrative Science
 assets: none
 casestudy: false
 cover: img-post-cover-1.jpg
+number:1
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
