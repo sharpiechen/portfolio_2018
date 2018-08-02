@@ -13,8 +13,8 @@ description: Sharon Chen Design Portfolio
 author: Sharon Chen
 author_email: sharonch3n@gmail.com
 category_dir: "/"
-baseurl: "/portfolio_2018"
-url: http://yourdomain.com/
+baseurl: "sharonchen.design"
+url: http://sharonchen.design
 markdown: kramdown
 permalink: pretty
 paginate: 8
