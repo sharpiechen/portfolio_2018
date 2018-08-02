@@ -33,10 +33,10 @@ number: 5
     <img src="{{site.url}}/assets/img-asset-5a.jpg">
 </a>
 <p>
-	At Narrative Science, I’ve organized and led two product team design hackathons. During the hackathons, I taught product team members rapid brainstorming techniques and encouraged members to think beyond the features they focus on daily. The goal of these design hackathons was not necessarily to generate concrete ideas to incorporate into our product roadmap, but to prove that anyone can be designer and that even a low-fidelity prototype can act as a proof of concept.
+	At Narrative Science, I’ve organized and led two product team design hackathons. During the hackathons, I taught product team members rapid brainstorming techniques and encouraged members to think beyond the features they focus on daily. The goal of these design hackathons was not necessarily to generate concrete ideas to incorporate into our product roadmap, but rather to prove that anyone can be a designer and that even a low-fidelity prototype can act as a proof of concept.
 </p>
 
-<div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:20px;">
+<div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:30px;">
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK_UGHvMx3DCkl2ve0arYZOhAt1vkUmnGVa5uvMw8e3wmDmlMsDybno6d5ypoPQKTYVnU4rewVuIbQ/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="work__page__attach--video" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
 </div>
 <a href="#img5a">
@@ -47,7 +47,7 @@ number: 5
     <img src="{{site.url}}/assets/img-asset-5b.jpg">
 </a>
 <p>
-	I’ve also given multiple presentations to the product team about how design works and best practices for working with designers. The goal of these presentations was to help product team members understand that making something look visually appealing is just the tip of the iceberg of what product designer are good at doing. It helped shift the mindset of members away from specific features and solutions, but back to the larger problem at hand. 
+	I’ve also given multiple presentations to the product team about how design works and best practices for working with designers. The goal of these presentations was to help product team members understand that making something look visually appealing is just the tip of the iceberg of what product designer are good at doing. It helped shift the mindset of members away from specific features and solutions, and back to the larger problem at hand. 
 </p>
 
 <div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:20px;">
