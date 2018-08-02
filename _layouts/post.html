@@ -4,12 +4,12 @@ layout: works
 
 <div class="container-fluid container-post-breadcrumb">
     <div class="container">
-        <a href="{{site.baseurl}}/work" class="heading heading--regular heading--emphasize">Work</a>
+        <a href="{{site.url}}/work" class="heading heading--regular heading--emphasize">Work</a>
         <span class="heading heading--regular heading--emphasize">&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;{{ page.title }}</span>
     </div>
 </div>
 
-<div class="container-fluid container-post-cover" style="background-image: url('{{site.baseurl}}/assets/{{ page.splash }}');"></div>
+<div class="container-fluid container-post-cover" style="background-image: url('{{site.url}}/assets/{{ page.splash }}');"></div>
 
 <div class="container-fluid container-post-contents">
     <div class="container">
@@ -52,7 +52,7 @@ layout: works
                 {% if page.assets != 'none' %}
                     {% for image in site.static_files %}
                         {% if image.path contains post_number %}
-                            {% assign asset_path = site.baseurl | append: image.path %}
+                            {% assign asset_path = site.url | append: image.path %}
                             {% assign asset_index = forloop.index0 %}
                             <a href="#img{{ asset_index }}">
                                 <img src="{{ asset_path }}" alt="image" class="post__asset">
@@ -73,7 +73,7 @@ layout: works
 
 <div class="container-fluid container-post-breadcrumb">
     <div class="container">
-        <a href="{{site.baseurl}}/work" class="heading heading--regular heading--emphasize">Work</a>
+        <a href="{{site.url}}/work" class="heading heading--regular heading--emphasize">Work</a>
         <span class="heading heading--regular heading--emphasize">&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;{{ page.title }}</span>
     </div>
 </div>
