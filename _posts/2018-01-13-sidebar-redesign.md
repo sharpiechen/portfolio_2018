@@ -20,7 +20,7 @@ number: 1
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
 <div class="marker-post-heading"></div>
-<p>Quill 3 is a Natural Language Generation (NLG) software that ingests user data and, through user configuration, generates intuitive insights in plain language. The first iteration of the product was completed in early 2016. 
+<p><a href="http://narrativescience.com" target="_blank">Narrative Science</a>'s narrative generation software ingests user data and, through Natural Language Generation (NLG), generates intuitive insights in plain language. The first iteration of the product was completed in early 2016. 
 <br><br>
 Following synthesis of feedback from multiple focus groups and requests to add more robust features and capabilities to the system, the product team identified the need to completely redesign the narrative configuration sidebar. With further engineering input, the team also identified the need to refactor the sidebar code to ensure full scalability across all features. 
 <br><br>
