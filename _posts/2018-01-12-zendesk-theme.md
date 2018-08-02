@@ -1,6 +1,7 @@
 ---
 title: Custom Zendesk Support Site
 date: 2018-01-12 00:00:00 Z
+permalink: "/customzendesktheme/"
 categories:
 - user experience design
 - user interface design
@@ -15,8 +16,6 @@ casestudy: false
 cover: img-post-cover-2.jpg
 splash: img-post-splash-2.jpg
 number: 2
-permalink: /customzendesktheme/
-
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
