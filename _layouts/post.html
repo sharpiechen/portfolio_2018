@@ -49,19 +49,21 @@ layout: works
 
                 {% assign post_number = page.number | prepend: 'assets/gallery/' %}
 
-                {% for image in site.static_files %}
-                    {% if image.path contains post_number %}
-                        {% assign asset_path = site.baseurl | append: image.path %}
-                        {% assign asset_index = forloop.index0 %}
-                        <a href="#img{{ asset_index }}">
-                            <img src="{{ asset_path }}" alt="image" class="post__asset">
-                        </a>
-                        <a href="#_" class="post__lightbox" id="img{{ asset_index }}">
-                            <p class="post__lightbox__close">&#x2715;</p>
-                            <img src="{{ asset_path }}">
-                        </a>
-                    {% endif %}
-                {% endfor %}
+                {% if page.assets != 'none' %}
+                    {% for image in site.static_files %}
+                        {% if image.path contains post_number %}
+                            {% assign asset_path = site.baseurl | append: image.path %}
+                            {% assign asset_index = forloop.index0 %}
+                            <a href="#img{{ asset_index }}">
+                                <img src="{{ asset_path }}" alt="image" class="post__asset">
+                            </a>
+                            <a href="#_" class="post__lightbox" id="img{{ asset_index }}">
+                                <p class="post__lightbox__close">&#x2715;</p>
+                                <img src="{{ asset_path }}">
+                            </a>
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
                 </div>
 
             </div>
