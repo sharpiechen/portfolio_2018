@@ -581,10 +581,10 @@
   width:1200px;
   z-index:-1;
   top:0px;
-  /*background-color:#E7E8E2;*/
   background-size:cover;
   background-position:left;
   left:-150px;
+  opacity:.8;
 }
 
 .accent {
