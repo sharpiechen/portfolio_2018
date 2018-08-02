@@ -24,7 +24,7 @@ number: 1
 <br><br>
 Following synthesis of feedback from multiple focus groups and requests to add more robust features and capabilities to the system, the product team identified the need to completely redesign the narrative configuration sidebar. With further engineering input, the team also identified the need to refactor the sidebar code to ensure full scalability across all features. 
 <br><br>
-As the design point person for this project, I established a new user experience and visual aesthetic for the sidebar by prototyping designs and conducting user tests. In Q1 of 2017, I assumed the role of Technical Product Manager and, along with my day-to-day design responsibilities, led a scrum team of four front-end engineers to ensure the successful delivery of the refactored narrative configuration sidebar. 
+As the design lead for this project, I established a new user experience and visual aesthetic for the sidebar by prototyping designs and conducting user tests. In Q1 of 2017, I assumed the role of Technical Product Manager and, along with my day-to-day design responsibilities, led a scrum team of four front-end engineers to ensure the successful delivery of the refactored narrative configuration sidebar. 
 <br><br>
 The sidebar refactor was successfully completed and delivered at the end of Q1, 2017.</p>
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>
