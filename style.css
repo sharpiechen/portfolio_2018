@@ -1107,7 +1107,7 @@ hr + .container-work--hidden {
 /*Footer///////////////////////////////////////////////*/
   .container-footer {
     margin-bottom:150px;
-    margin-top:150px;
+    margin-top:60px;
   }
 
   .footer__link-email {
@@ -1121,9 +1121,10 @@ hr + .container-work--hidden {
   }
 
   .footer__link-top {
-    position:absolute;
+/*    position:absolute;
     top:-110px;
-    right:-110px;
+    right:-110px;*/
+    margin-bottom:60px;
     padding:20px 30px;
     background-color:#eee;
     transition:all .15s ease;
