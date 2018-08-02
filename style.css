@@ -597,9 +597,11 @@
 }
 
 .gallery__img {
-  background-color:#252525;
+/*  background-color:#252525;*/
   height:150px;
   margin-left:10px;
+  background-size:cover;
+  background-position:left;
 }
 
 /*LG*/
