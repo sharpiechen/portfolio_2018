@@ -28,11 +28,11 @@ number: 6
 <div class="post__casestudy">
 
     <a href="#img6i">
-        <img src="{{site.baseurl}}/assets/img-asset-6i.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-6i.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img6i">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-6i.jpeg">
+        <img src="{{site.url}}/assets/img-asset-6i.jpeg">
     </a>
 
 	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
@@ -48,28 +48,28 @@ number: 6
 		</ul>
 	</div>
     <a href="#img6j">
-        <img src="{{site.baseurl}}/assets/img-asset-6j.png" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-6j.png" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img6j">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-6j.png">
+        <img src="{{site.url}}/assets/img-asset-6j.png">
     </a>
 	<p>
 		We used our personas and scenarios to map out the educator journey across Seelio, to pinpoint areas of pain, and to identify service gaps that needed to be filled.
 	</p>
     <a href="#img6k">
-        <img src="{{site.baseurl}}/assets/img-asset-6k.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-6k.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img6k">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-6k.jpeg">
+        <img src="{{site.url}}/assets/img-asset-6k.jpeg">
     </a>
     <a href="#img6l">
-        <img src="{{site.baseurl}}/assets/img-asset-6l.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-6l.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img6l">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-6l.jpeg">
+        <img src="{{site.url}}/assets/img-asset-6l.jpeg">
     </a>
 	<p>
 		From journey mapping, we discovered that most faculty were easily able to grasp the value of Seelio as an experiential learning tool. However, when it came to launching Seelio in the classroom, they felt unsure of how to incorporate the technology into their syllabi and preferred to rely on the Seelio staff for classroom introductions and technological support.

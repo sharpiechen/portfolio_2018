@@ -29,11 +29,11 @@ number: 12
 <div class="post__casestudy">
 
     <a href="#img12a">
-        <img src="{{site.baseurl}}/assets/img-asset-12a.png" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-12a.png" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12a">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-12a.png">
+        <img src="{{site.url}}/assets/img-asset-12a.png">
     </a>
 
 	<h4 class="heading heading--regular heading--emphasize">understand</h4>
@@ -48,11 +48,11 @@ number: 12
 		<li>to see what similar students from other campuses were doing</li>
 	</ul>
     <a href="#img12b">
-        <img src="{{site.baseurl}}/assets/img-asset-12b.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-12b.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12b">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-12b.jpeg">
+        <img src="{{site.url}}/assets/img-asset-12b.jpeg">
     </a>
 	<p>
 		Though students seemed to appreciate Seelio’s simplicity and ease-of-use, they expressed a consensual desire for added customization. 
@@ -66,11 +66,11 @@ number: 12
 	<p>In addition to user interviews, we also collected a significant amount of design feedback from bug submissions, User Voice suggestions, and surveys. We compiled our findings to draw out common themes and created three student personas from which we could reference while creating our designs.
 	</p>
     <a href="#img12c">
-        <img src="{{site.baseurl}}/assets/img-asset-12c.png" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-12c.png" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12c">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-12c.png">
+        <img src="{{site.url}}/assets/img-asset-12c.png">
     </a>
 	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">create & test</h4>
 	<div class="marker-post-heading"></div>
@@ -79,34 +79,34 @@ number: 12
 		With the findings from our various sources in mind, we developed three sets of paper prototypes to gauge reactions to different layouts and features such as a cover photo and timeline view.
 	</p>
     <a href="#img12d">
-        <img src="{{site.baseurl}}/assets/img-asset-12d.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-12d.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12d">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-12d.jpeg">
+        <img src="{{site.url}}/assets/img-asset-12d.jpeg">
     </a>
     <p>While we wanted to maximize our redesign and account for all user suggestions and issues, we were determined not to lose sight of our overall vision. Many users were comparing us to website-building sites such as Squarespace, Weebly, and Wix and expressed a desire for similar themes and flexibility. However, we felt as though too much customization might compromise some of Seelio’s simplicity and ease-of-use.
 	</p>
     <a href="#img12e">
-        <img src="{{site.baseurl}}/assets/img-asset-12e.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-12e.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12e">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-12e.jpeg">
+        <img src="{{site.url}}/assets/img-asset-12e.jpeg">
     </a>
     <a href="#img12f">
-        <img src="{{site.baseurl}}/assets/img-asset-12f.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-12f.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12f">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-12f.jpeg">
+        <img src="{{site.url}}/assets/img-asset-12f.jpeg">
     </a>
     <a href="#img12g">
-        <img src="{{site.baseurl}}/assets/img-asset-12g.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-12g.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12g">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-12g.jpeg">
+        <img src="{{site.url}}/assets/img-asset-12g.jpeg">
     </a>
     <p>
     	To test our paper prototypes, we sent out surveys, conducted one-on-one testing, informal card sorting, and focus group testing testing sessions. All user testing data was recorded in Google Docs. We created affinity walls for all data, rearranged, and regrouped sticky notes to identify common themes.

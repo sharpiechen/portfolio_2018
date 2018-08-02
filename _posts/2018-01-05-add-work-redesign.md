@@ -20,16 +20,16 @@ number: 9
 <div class="marker-post-heading"></div>
 <h3 class="heading heading--fancy">A streamlined way to build your digital identity</h3>
 <p>
-	<a href="http://seelio.com">Seelio</a> is an educational technology company that offers students a better way to showcase their work via online portfolios. It’s Add Work feature is a critical touchpoint in the student experience and was the next feature, following the student profile redesign, to be updated in a post-<a href="https://techcrunch.com/2012/08/06/no-more-boring-resumes-seelio-lets-college-students-showcase-their-work-helps-employers-find-them/">beta</a> improvement initiative. Following a complete redesign, Seelio’s Add Work now matches the aesthetic of the student profile, is far more streamlined, and offers students tangible examples to reference at every point of interaction.
+	<a href="http://seelio.com">Seelio</a> is an educational technology company that offers students a better way to showcase their work via online portfolios. It’s Add Work feature is a critical touchpoint in the student experience and was the next feature, following the student profile redesign, to be updated in a post-<a href="https://techcrunch.com/2012/08/06/no-more-boring-resumes-seelio-lets-college-students-showcase-their-work-helps-employers-find-them/" target="_blank">beta</a> improvement initiative. Following a complete redesign, Seelio’s Add Work now matches the aesthetic of the student profile, is far more streamlined, and offers students tangible examples to reference at every point of interaction.
 
 <div class="post__casestudy">s
 
     <a href="#img9a">
-        <img src="{{site.baseurl}}/assets/img-asset-9a.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-9a.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img9a">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-9a.jpeg">
+        <img src="{{site.url}}/assets/img-asset-9a.jpeg">
     </a>
 
 	<h4 class="heading heading--regular heading--emphasize">understand</h4>
@@ -39,11 +39,11 @@ number: 9
 		In understanding how students were already adding works on Seelio, we both analyzed insights from the profile redesign, and performed user testing on the current system.
 	</p>
     <a href="#img9b">
-        <img src="{{site.baseurl}}/assets/img-asset-9b.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-9b.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img9b">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-9b.jpeg">
+        <img src="{{site.url}}/assets/img-asset-9b.jpeg">
     </a>
 	<p>
 		From previous research, we understood that students were acutely aware of the audience to which they were sharing their portfolios and were keen on putting their best foot forward. While expressing a desire to customize their digital identities, students were also looking to peers of similar concentrations for examples on what to add and how to present themselves.
@@ -58,11 +58,11 @@ number: 9
 	</ul>
 	
     <a href="#img9c">
-        <img src="{{site.baseurl}}/assets/img-asset-9c.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-9c.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img9c">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-9c.jpeg">
+        <img src="{{site.url}}/assets/img-asset-9c.jpeg">
     </a>
 	
 	<div class="post__quote">
@@ -87,25 +87,25 @@ number: 9
 		We ideated over 80 concepts around these problem statements, of which we consolidated to three sets of paper prototypes.
 	</p>
     <a href="#img9d">
-        <img src="{{site.baseurl}}/assets/img-asset-9d.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-9d.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img9d">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-9d.jpeg">
+        <img src="{{site.url}}/assets/img-asset-9d.jpeg">
     </a>
     <a href="#img9e">
-        <img src="{{site.baseurl}}/assets/img-asset-9e.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-9e.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img9e">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-9e.jpeg">
+        <img src="{{site.url}}/assets/img-asset-9e.jpeg">
     </a>
     <a href="#img9f">
-        <img src="{{site.baseurl}}/assets/img-asset-9f.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-9f.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img9f">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-9f.jpeg">
+        <img src="{{site.url}}/assets/img-asset-9f.jpeg">
     </a>
 
     <p>

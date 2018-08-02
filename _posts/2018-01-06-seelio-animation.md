@@ -17,7 +17,7 @@ number: 8
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
 <div class="marker-post-heading"></div>
 <p>
-	<a href="https://www.youtube.com/watch?v=rj9aCdghEGo">Tell Your Story with Seelio</a> is a short animation created to help viewers understand how <a href="http://seelio.com">Seelio</a> can help students tell their stories to stand out in the modern job search. The video is shown to students of partner universities and can also be found in post-registration welcome emails to all users.
+	<a href="https://www.youtube.com/watch?v=rj9aCdghEGo">Tell Your Story with Seelio</a> is a short animation created to help viewers understand how <a href="http://seelio.com" target="_blank">Seelio</a> can help students tell their stories to stand out in the modern job search. The video is shown to students of partner universities and can also be found in post-registration welcome emails to all users.
 </p>
 
 <div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;">

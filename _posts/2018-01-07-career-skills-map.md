@@ -27,11 +27,11 @@ number: 7
 <div class="post__casestudy">
 
     <a href="#img7g">
-        <img src="{{site.baseurl}}/assets/img-asset-7g.png" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-7g.png" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img7g">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-7g.png">
+        <img src="{{site.url}}/assets/img-asset-7g.png">
     </a>
 
 	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
@@ -57,11 +57,11 @@ number: 7
 	</div>
 
     <a href="#img7h">
-        <img src="{{site.baseurl}}/assets/img-asset-7h.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-7h.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img7h">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-7h.jpeg">
+        <img src="{{site.url}}/assets/img-asset-7h.jpeg">
     </a>
 
 	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">create & test</h4>
@@ -75,19 +75,19 @@ number: 7
 	</p>
 
     <a href="#img7i">
-        <img src="{{site.baseurl}}/assets/img-asset-7i.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-7i.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img7i">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-7i.jpeg">
+        <img src="{{site.url}}/assets/img-asset-7i.jpeg">
     </a>
 
     <a href="#img7j">
-        <img src="{{site.baseurl}}/assets/img-asset-7j.jpeg" alt="image" class="post__asset">
+        <img src="{{site.url}}/assets/img-asset-7j.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img7j">
         <p class="post__lightbox__close">&#x2715;</p>
-        <img src="{{site.baseurl}}/assets/img-asset-7j.jpeg">
+        <img src="{{site.url}}/assets/img-asset-7j.jpeg">
     </a>
 
 	<p>
