@@ -1,6 +1,7 @@
 ---
 title: Add Work Redesign
 date: 2018-01-05 00:00:00 Z
+permalink: "/addworkredesign/"
 categories:
 - user experience research
 - user experience design
@@ -14,8 +15,6 @@ casestudy: true
 cover: img-post-cover-9.jpg
 splash: img-post-splash-9.jpg
 number: 9
-permalink: /addworkredesign/
-
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

@@ -1,6 +1,7 @@
 ---
 title: Career Skills Map
 date: 2018-01-07 00:00:00 Z
+permalink: "/careerskillsmap/"
 categories:
 - user experience research
 - user experience design
@@ -15,8 +16,6 @@ casestudy: true
 cover: img-post-cover-7.jpg
 splash: img-post-splash-7.jpg
 number: 7
-permalink: /careerskillsmap/
-
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

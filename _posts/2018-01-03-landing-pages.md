@@ -1,6 +1,7 @@
 ---
 title: Marketing Landing Pages
 date: 2018-01-03 00:00:00 Z
+permalink: "/landingpages/"
 categories:
 - user interface design
 - front-end development
@@ -14,8 +15,6 @@ casestudy: none
 cover: img-post-cover-10.jpg
 splash: img-post-splash-10.jpg
 number: 10
-permalink: /landingpages/
-
 ---
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>

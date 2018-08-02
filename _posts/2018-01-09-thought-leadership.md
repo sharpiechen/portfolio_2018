@@ -1,6 +1,7 @@
 ---
 title: Design Thought Leadership
 date: 2018-01-09 00:00:00 Z
+permalink: "/designthoughtleadership/"
 categories:
 - user experience design
 - featured
@@ -12,8 +13,6 @@ assets: none
 cover: img-post-cover-5.jpg
 splash: img-post-splash-5.jpg
 number: 5
-permalink: /designthoughtleadership/
-
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

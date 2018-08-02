@@ -1,6 +1,7 @@
 ---
 title: Seelio Profile Redesign
 date: 2018-01-02 00:00:00 Z
+permalink: "/profileredesign/"
 categories:
 - user experience research
 - user experience design
@@ -14,8 +15,6 @@ casestudy: true
 cover: img-post-cover-12.jpg
 splash: img-post-splash-12.jpg
 number: 12
-permalink: /profileredesign/
-
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

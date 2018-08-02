@@ -1,6 +1,7 @@
 ---
 title: IntroAssist Help Tool
 date: 2018-01-11 00:00:00 Z
+permalink: "/introassist/"
 categories:
 - user interface design
 - featured
@@ -13,8 +14,6 @@ casestudy: false
 cover: img-post-cover-4.jpg
 splash: img-post-splash-4.jpg
 number: 4
-permalink: /introassist/
-
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

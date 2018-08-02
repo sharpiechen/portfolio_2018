@@ -1,6 +1,7 @@
 ---
 title: Narrative Configuration Sidebar Redesign and Code Refactor
 date: 2018-01-13 00:00:00 Z
+permalink: "/sidebarredesign/"
 categories:
 - user experience design
 - user interface design
@@ -15,7 +16,6 @@ casestudy: false
 cover: img-post-cover-1.jpg
 splash: img-post-splash-1.jpg
 number: 1
-permalink: /sidebarredesign/
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

@@ -1,6 +1,7 @@
 ---
 title: Seelio for Educators
 date: 2018-01-08 00:00:00 Z
+permalink: "/seelioforeducators/"
 categories:
 - user experience research
 - user experience design
@@ -15,8 +16,6 @@ casestudy: true
 cover: img-post-cover-6.jpg
 splash: img-post-splash-6.jpg
 number: 6
-permalink: /seelioforeducators/
-
 ---
 
 <!-- status: needs images, role -->

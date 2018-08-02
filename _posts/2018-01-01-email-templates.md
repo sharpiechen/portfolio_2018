@@ -1,6 +1,7 @@
 ---
 title: Email Templates
 date: 2018-01-01 00:00:00 Z
+permalink: "/emailtemplates/"
 categories:
 - user interface design
 - front-end development
@@ -13,8 +14,6 @@ casestudy: none
 cover: img-post-cover-13.jpg
 splash: img-post-splash-13.jpg
 number: 13
-permalink: /emailtemplates/
-
 ---
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">overview</h4>
