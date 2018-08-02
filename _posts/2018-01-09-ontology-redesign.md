@@ -25,11 +25,11 @@ number: 5
 	For over six years, I’ve been educating myself on and applying design thinking strategies to agile product development. I’ve learned that while it’s impossible to apply a comprehensive design approach to agile product development, it’s always possible to incorporate some level of design thinking to move the project forward. As I’ve shifted my mindset towards problem solving and learned to quickly adapt to new scenarios, I’ve begun to share my experiences with co-workers and other members of the design community. 
 </p>
 <a href="#img5a">
-        <img src="{{site.baseurl}}/assets/img-asset-5a.png" alt="image" class="post__asset">
+        <img src="{{site.baseurl}}/assets/img-asset-5a.jpg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img5a">
     <p class="post__lightbox__close">&#x2715;</p>
-    <img src="{{site.baseurl}}/assets/img-asset-5a.png">
+    <img src="{{site.baseurl}}/assets/img-asset-5a.jpg">
 </a>
 <p>
 	At Narrative Science, I’ve organized and led two product team design hackathons. During the hackathons, I taught product team members rapid brainstorming techniques and encouraged members to think beyond the features they focus on daily. The goal of these design hackathons was not necessarily to generate concrete ideas to incorporate into our product roadmap, but to prove that anyone can be designer and that even a low-fidelity prototype can act as a proof of concept.
@@ -58,7 +58,7 @@ number: 5
 </div>
 
 <p>
-	Outside of Narrative Science, I’ve also given various talks and about design, such as at <a href="http://2015.worldiaday.org/locations/ann-arbor-mi-united-states/">World IA Day</a> and at <a href="https://creativemornings.com/cities/chi">Creative Mornings</a> in Chicago. I have written <a href="https://medium.com/@sharingchen">several blog posts</a> about my experience with UI & UX design and have shared my volunteered to share my experiences at <a href="https://www.braveinitiatives.com/">Brave Initiative</a>a>'s 1-day workshop to help young girls understand the importance of design thinking and coding. 
+	Outside of Narrative Science, I’ve also given various talks and about design, such as at <a href="http://2015.worldiaday.org/locations/ann-arbor-mi-united-states/">World IA Day</a> and at <a href="https://creativemornings.com/cities/chi">Creative Mornings</a> in Chicago. I have written <a href="https://medium.com/@sharingchen">several blog posts</a> about my experience with UI & UX design and have volunteered to share my experiences at <a href="https://www.braveinitiatives.com/">Brave Initiative</a>'s 1-day workshop to help young girls understand the importance of design thinking and coding. 
 </p>
 
 <a href="#img5c">
