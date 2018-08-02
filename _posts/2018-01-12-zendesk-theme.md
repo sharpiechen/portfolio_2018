@@ -15,6 +15,7 @@ casestudy: false
 cover: img-post-cover-2.jpg
 splash: img-post-splash-2.jpg
 number: 2
+permalink: /zendeskcustomtheme/
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
