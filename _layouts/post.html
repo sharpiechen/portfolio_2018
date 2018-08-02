@@ -71,13 +71,8 @@ layout: works
 
 <div class="container-fluid container-post-breadcrumb">
     <div class="container">
-    {% if page.previous.url %}
-        <a href="/../..{{page.previous.url}}" class="heading heading--regular heading--emphasize">&larr;&nbsp;&nbsp;{{page.previous.title}}</a>
-    {% endif %}
-        <span class="heading heading--regular heading--emphasize">&nbsp;&nbsp;/&nbsp;&nbsp;</span>
-    {% if page.next.url %}
-        <a href="..{{page.next.url}}" class="heading heading--regular heading--emphasize">{{page.next.title}}&nbsp;&nbsp;&rarr;</a>
-    {% endif %}
+        <a href="{{site.baseurl}}/work" class="heading heading--regular heading--emphasize">Work</a>
+        <span class="heading heading--regular heading--emphasize">&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;{{ page.title }}</span>
     </div>
 </div>
 
