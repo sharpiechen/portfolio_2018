@@ -19,7 +19,7 @@ number: 5
 <div class="marker-post-heading"></div>
 
 <p>
-	Design thinking is a key component to the success of all companies and extends far beyond the design team. All components of the methodology, from identifying the solution and ideation, to creating hypotheses and prototyping an idea, ensure that a product or service is created for the intended end-user.
+	Design thinking is a key component to the success of all companies and extends far beyond the design team. All components of the methodology, from identifying the problem, to creating hypotheses and prototyping an idea, ensure that a product or service is created for the intended end-user.
  	<br><br>
 	Design thinking helps companies understand that no design will be “right” the first time, but that following this solutions-based approach will ensure that with each incremental iteration, the design will become closer to being what the user expects. Above all, it helps companies gain an empathetic understanding of the people who are using their products and services.
 	<br><br>
