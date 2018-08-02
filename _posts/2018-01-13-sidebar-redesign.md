@@ -37,6 +37,6 @@ The sidebar refactor was successfully completed and delivered at the end of Q1, 
 </ul>
 
 <div class="container__button">
-	<a class="button__case-study heading heading--regular heading--emphasize" href="https://www.dropbox.com/s/87qifz9dykivqy9/img-asset-3b.png?dl=0" target="_blank">View Assets</a>
+	<a class="button__case-study heading heading--regular heading--emphasize" href="https://www.dropbox.com/s/oe92t38cpt20mza/Sidebar-Refactor_Assets.pdf?dl=0" target="_blank">View Assets</a>
 </div>
 
