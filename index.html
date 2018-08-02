@@ -153,7 +153,7 @@ layout: about
         <div class="col-sm-6 col-xs-12 container-work" >
             <div class="container-work--cover" style="background-image: url('./assets/{{ post.cover }}');">
                 <div class="container-work--overlay">
-                    <a href=".{{ post.url }}">
+                    <a href="{{post.url}}">
                         <h4 class="heading heading--regular heading--light">{{ post.title }}</h4>
                         <hr class="container-work--hidden">
                         <h4 class="heading heading--regular heading--light container-work--hidden">{{ post.categories | join: ', ' | remove: ', featured' }}</h4>
