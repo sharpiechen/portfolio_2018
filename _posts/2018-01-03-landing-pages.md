@@ -14,6 +14,8 @@ casestudy: none
 cover: img-post-cover-10.jpg
 splash: img-post-splash-10.jpg
 number: 10
+permalink: /landingpages/
+
 ---
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>

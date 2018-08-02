@@ -12,6 +12,8 @@ casestudy: none
 cover: img-post-cover-14.jpg
 splash: img-post-splash-14.jpg
 number: 14
+permalink: /printmaterials/
+
 ---
 
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>

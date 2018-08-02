@@ -12,6 +12,8 @@ casestudy: true
 cover: img-post-cover-11.jpg
 splash: img-post-splash-11.jpg
 number: 11
+permalink: /seelioservicedesign/
+
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

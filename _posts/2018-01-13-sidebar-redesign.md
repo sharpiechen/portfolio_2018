@@ -15,6 +15,7 @@ casestudy: false
 cover: img-post-cover-1.jpg
 splash: img-post-splash-1.jpg
 number: 1
+permalink: /sidebarredesign/
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

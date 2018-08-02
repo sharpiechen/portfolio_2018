@@ -14,6 +14,8 @@ casestudy: true
 cover: img-post-cover-9.jpg
 splash: img-post-splash-9.jpg
 number: 9
+permalink: /addworkredesign/
+
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

@@ -12,6 +12,8 @@ assets: none
 cover: img-post-cover-5.jpg
 splash: img-post-splash-5.jpg
 number: 5
+permalink: /designthoughtleadership/
+
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

@@ -13,6 +13,8 @@ casestudy: false
 cover: img-post-cover-4.jpg
 splash: img-post-splash-4.jpg
 number: 4
+permalink: /introassist/
+
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

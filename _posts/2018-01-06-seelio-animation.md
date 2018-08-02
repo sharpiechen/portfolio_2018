@@ -12,6 +12,8 @@ casestudy: none
 cover: img-post-cover-8.jpg
 splash: img-post-splash-8.jpg
 number: 8
+permalink: /tellyourstory/
+
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>

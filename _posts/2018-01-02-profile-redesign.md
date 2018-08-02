@@ -14,6 +14,8 @@ casestudy: true
 cover: img-post-cover-12.jpg
 splash: img-post-splash-12.jpg
 number: 12
+permalink: /profileredesign/
+
 ---
 
 <h4 class="heading heading--regular heading--emphasize">overview</h4>
