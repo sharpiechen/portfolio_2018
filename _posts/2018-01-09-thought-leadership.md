@@ -33,7 +33,7 @@ number: 5
     <img src="{{site.url}}/assets/img-asset-5a.jpg">
 </a>
 <p>
-	At Narrative Science, I’ve organized and led two product team design hackathons. During the hackathons, I taught product team members rapid brainstorming techniques and encouraged members to think beyond the features they focus on daily. The goal of these design hackathons was not only to generate concrete ideas to incorporate into our product roadmap, but rather to prove that anyone can be a designer and that even a low-fidelity prototype can act as a proof of concept.
+	At <a href="http://narrativescience.com" target="_blank">Narrative Science</a>, I’ve organized and led two product team design hackathons. During the hackathons, I taught product team members rapid brainstorming techniques and encouraged members to think beyond the features they focus on daily. The goal of these design hackathons was not only to generate concrete ideas to incorporate into our product roadmap, but rather to prove that anyone can be a designer and that even a low-fidelity prototype can act as a proof of concept.
 </p>
 
 <div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:30px;">
@@ -47,7 +47,7 @@ number: 5
     <img src="{{site.url}}/assets/img-asset-5b.jpg">
 </a>
 <p>
-	I’ve also given multiple presentations to the product team about how design works and best practices for working with designers. The goal of these presentations was to help product team members understand that UX design is more than just crafting a pretty design. UX design is about engaging users through delightful exeriences and using design to solve complex problems. It helped shift the mindset of members away from specific features and solutions, and back to the larger problem at hand. 
+	I’ve also given multiple presentations to the product team about how design processes and best practices for working with designers. The goal of these presentations was to help product team members understand that UX design is more than just crafting a pretty design. UX design is about engaging users through delightful exeriences and using design to solve complex problems. It helped shift the mindset of members away from specific features and solutions, and back to the larger problem at hand. 
 </p>
 
 <div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:20px;">
@@ -78,8 +78,7 @@ number: 5
     <img src="{{site.url}}/assets/img-asset-5d.jpg">
 </a>
 <p>
-	The transition from individual contributor to leader can undoubtly feel intimidating and filled with unknowns. However, I've found that mentoring new designers and sharing knowledge about my design experiences with colleagues and others in the community has helped me become more confident in my knowledge. 
-</p>
+	The transition from individual contributor to leader can undoubtly feel intimidating and filled with unknowns. However, I've found that mentoring new designers and sharing knowledge about my design experiences with colleagues and others in the community has helped me become more confident in what I know and can achieve. 
 
 
 
