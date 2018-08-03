@@ -1,7 +1,7 @@
 ---
-title: Design Thought Leadership
+title: Design Leadership
 date: 2018-01-09 00:00:00 Z
-permalink: "/designthoughtleadership/"
+permalink: "/designleadership/"
 categories:
 - user experience design
 - featured
