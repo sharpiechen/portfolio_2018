@@ -23,7 +23,7 @@ number: 5
  	<br><br>
 	Design thinking helps companies understand that no design will be “right” the first time, but that following this solutions-based approach will ensure that with each incremental iteration, the design will become closer to being what the user expects. Above all, it helps companies gain an empathetic understanding of the people who are using their products and services.
 	<br><br>
-	For over six years, I’ve been educating myself on and applying design thinking strategies to agile product development. I've learned that although it's challenging to apply a comprehensive design approach while remaining lean, it's always possiblet to incorporate some level of design thinking to move the project forward. As I’ve shifted my mindset towards problem solving and learned to quickly adapt to different constraints, I’ve begun to share my experiences with co-workers and other members of the design community. 
+	For over six years, I’ve been educating myself on and applying design thinking strategies to agile product development. I've learned that although it's challenging to apply a comprehensive design approach to agile, it's always possible to incorporate some level of design thinking to move the project forward. As I’ve shifted my mindset towards problem solving and learned to quickly adapt to different constraints, I’ve begun to share my experiences with co-workers and other members of the design community. 
 </p>
 <a href="#img5a">
         <img src="{{site.url}}/assets/img-asset-5a.jpg" alt="image" class="post__asset">
