@@ -23,7 +23,7 @@ number: 5
  	<br><br>
 	Design thinking helps companies understand that no design will be “right” the first time, but that following this solutions-based approach will ensure that with each incremental iteration, the design will become closer to being what the user expects. Above all, it helps companies gain an empathetic understanding of the people who are using their products and services.
 	<br><br>
-	For over six years, I’ve been educating myself on and applying design thinking strategies to agile product development. I’ve learned that while it’s impossible to apply a comprehensive design approach to a lean approach, it’s always possible to incorporate some level of design thinking to move the project forward. As I’ve shifted my mindset towards problem solving and learned to quickly adapt to different constraints, I’ve begun to share my experiences with co-workers and other members of the design community. 
+	For over six years, I’ve been educating myself on and applying design thinking strategies to agile product development. I've learned that although it's challenging to apply a comprehensive design approach while remaining lean, it's always possiblet to incorporate some level of design thinking to move the project forward. As I’ve shifted my mindset towards problem solving and learned to quickly adapt to different constraints, I’ve begun to share my experiences with co-workers and other members of the design community. 
 </p>
 <a href="#img5a">
         <img src="{{site.url}}/assets/img-asset-5a.jpg" alt="image" class="post__asset">
@@ -33,7 +33,7 @@ number: 5
     <img src="{{site.url}}/assets/img-asset-5a.jpg">
 </a>
 <p>
-	At Narrative Science, I’ve organized and led two product team design hackathons. During the hackathons, I taught product team members rapid brainstorming techniques and encouraged members to think beyond the features they focus on daily. The goal of these design hackathons was not necessarily to generate concrete ideas to incorporate into our product roadmap, but rather to prove that anyone can be a designer and that even a low-fidelity prototype can act as a proof of concept.
+	At Narrative Science, I’ve organized and led two product team design hackathons. During the hackathons, I taught product team members rapid brainstorming techniques and encouraged members to think beyond the features they focus on daily. The goal of these design hackathons was not only to generate concrete ideas to incorporate into our product roadmap, but rather to prove that anyone can be a designer and that even a low-fidelity prototype can act as a proof of concept.
 </p>
 
 <div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:30px;">
@@ -47,7 +47,7 @@ number: 5
     <img src="{{site.url}}/assets/img-asset-5b.jpg">
 </a>
 <p>
-	I’ve also given multiple presentations to the product team about how design works and best practices for working with designers. The goal of these presentations was to help product team members understand that making something look visually appealing is just the tip of the iceberg of what product designer are good at doing. It helped shift the mindset of members away from specific features and solutions, and back to the larger problem at hand. 
+	I’ve also given multiple presentations to the product team about how design works and best practices for working with designers. The goal of these presentations was to help product team members understand that UX design is more than just crafting a pretty design. UX design is about engaging users through delightful exeriences and using design to solve complex problems. It helped shift the mindset of members away from specific features and solutions, and back to the larger problem at hand. 
 </p>
 
 <div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:20px;">
@@ -59,7 +59,7 @@ number: 5
 </div>
 
 <p>
-	Outside of Narrative Science, I’ve also given various talks and about design, such as at <a href="http://2015.worldiaday.org/locations/ann-arbor-mi-united-states/" target="_blank">World IA Day</a> and at <a href="https://creativemornings.com/cities/chi" target="_blank">Creative Mornings</a> in Chicago. I have written <a href="https://medium.com/@sharingchen" target="_blank">several blog posts</a> about my experience with UI & UX design and have volunteered to share my experiences at <a href="https://www.braveinitiatives.com/" target="_blank">Brave Initiative</a>'s 1-day workshop to help young girls understand the importance of design thinking and coding. 
+	Outside of Narrative Science, I’ve also given various talks and about design, such as at <a href="http://2015.worldiaday.org/locations/ann-arbor-mi-united-states/" target="_blank">World IA Day</a> and at <a href="https://creativemornings.com/cities/chi" target="_blank">Creative Mornings</a> in Chicago. I have written <a href="https://medium.com/@sharingchen" target="_blank">several blog posts</a> about my experience with UI & UX design and have volunteered to share my experiences at <a href="https://www.braveinitiatives.com/" target="_blank">Brave Initiative</a>'s 1-day workshop to help young girls understand the importance of design thinking and coding.
 </p>
 
 <a href="#img5c">
@@ -77,6 +77,9 @@ number: 5
     <p class="post__lightbox__close">&#x2715;</p>
     <img src="{{site.url}}/assets/img-asset-5d.jpg">
 </a>
+<p>
+	The transition from individual contributor to leader can undoubtly feel intimidating and filled with unknowns. However, I've found that mentoring new designers and sharing knowledge about my design experiences with colleagues and others in the community has helped me become more confident in my knowledge. 
+</p>
 
 
 
