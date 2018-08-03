@@ -725,7 +725,9 @@
   position:absolute;
   top:150px;
   height:400px;
-  background-color:#47D9E8;
+  background-size:cover;
+  background-position:left;
+  /*background-color:#47D9E8;*/
 }
 
 .specialties__img-2 {
