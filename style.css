@@ -720,25 +720,30 @@
   height:600px;
   margin-bottom:250px
 }
+.specialties__img-1,
+.specialties__img-2,
+.specialties__img-3 {
+  background-size:cover;
+  background-position:left; 
+} 
 
 .specialties__img-1 {
   position:absolute;
   top:150px;
   height:400px;
-  background-size:cover;
-  background-position:left;
+
   /*background-color:#47D9E8;*/
 }
 
 .specialties__img-2 {
   height:400px;
-  background-color:#3E6D84;
+  /*background-color:#3E6D84;*/
 }
 
 .specialties__img-3 {
   height:350px;
   margin-top:80px;
-  background-color:#D1E4E4;
+  /*background-color:#D1E4E4;*/
 }
 
 /*MD*/
