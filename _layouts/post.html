@@ -43,6 +43,28 @@ layout: works
 
                 {{ content }}
 
+                <div class="hidden-sm-up">
+                    {% if page.categories != 'none' %}
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__header">Services</h4>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.categories | join: ', ' | remove: ', featured' }}</h4>
+                    {% endif %}
+                    {% if page.timeline != 'none' %}
+                        <hr>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__header">timeline</h4>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.timeline }}</h4>
+                    {% endif %}
+                    {% if page.tools != 'none' %}
+                        <hr>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__header">tools</h4>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.tools }}</h4>
+                    {% endif %}
+                    {% if page.client != 'none' %}
+                        <hr>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__header">company</h4>
+                        <h4 class="heading heading--regular heading--emphasize post__sidebar__metadata">{{ page.client }}</h4>
+                    {% endif %}
+                </div>
+
                 {% if page.assets != 'none' %}
                     <h4 class="heading heading--regular heading--emphasize post__heading--stacked">deliverables</h4>
                     <div class="marker-post-heading"></div>
