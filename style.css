@@ -840,8 +840,7 @@
 
 .experience__img-2,
 .experience__img-3, 
-.experience__img-4, 
-.experience__img-5 {
+.experience__img-4 {
   background-position:left;
   background-size:cover;
   filter:gray;
@@ -851,8 +850,7 @@
 
 .experience__img-2:hover,
 .experience__img-3:hover, 
-.experience__img-4:hover, 
-.experience__img-5:hover {
+.experience__img-4:hover {
   filter: none;
   -webkit-filter: grayscale(0);
 }
@@ -881,7 +879,7 @@
   height:400px;
   width:340px;
   z-index:-1;
-  /*background-color:#98CED9;*/
+  background-color:#98CED9;
   top:0;
   left:-341px;
 }
