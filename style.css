@@ -136,7 +136,7 @@
 
 /*Global///////////////////////////////////////////////*/
 
-.container-body--intro {
+#bootstrapoverride .container-body--intro {
   margin-top:200px;
 }
 
