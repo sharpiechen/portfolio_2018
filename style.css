@@ -830,10 +830,10 @@
 }
 
 .experience__img-1 {
-  height:85%;
+  height:95%;
   width:105%;
   left:-32%;
-  background-color:#E7E8E2;
+  background-color:#EE8BBC;
   position:absolute;
   z-index:-1;
 }
@@ -848,8 +848,7 @@
   width:115%;
   left:0px;
   top:20%;
-/*  background-color:#252525;
-*/  position:absolute;
+  position:absolute;
 }
 
 .experience__img-3 {
