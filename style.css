@@ -1171,6 +1171,14 @@ hr + .container-work--hidden {
     color:white;
   }
 
+  /*XS*/
+  @media (max-width: 575px) {
+    .footer__disclaimer {
+      position:relative;
+    }
+  }
+
+
 /*Post///////////////////////////////////////////////*/
 
 .container-post-breadcrumb {
