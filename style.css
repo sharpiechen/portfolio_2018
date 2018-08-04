@@ -1152,9 +1152,7 @@ hr + .container-work--hidden {
   }
 
   .footer__link-top {
-/*    position:absolute;
-    top:-110px;
-    right:-110px;*/
+    text-align:center;
     margin-bottom:60px;
     padding:20px 30px;
     background-color:#eee;
