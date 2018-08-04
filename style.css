@@ -1171,7 +1171,7 @@ hr + .container-work--hidden {
     color:white;
   }
 
-  /*XS*/
+  /*SM*/
   @media (max-width: 767px) {
     .footer__disclaimer {
       position:relative;
