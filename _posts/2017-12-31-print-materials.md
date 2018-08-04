@@ -4,7 +4,7 @@ date: 2017-12-31 00:00:00 Z
 permalink: "/printmaterials/"
 categories:
 - visual design
-position: 0
+position: Visual Designer
 layout: post
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6
 client: none

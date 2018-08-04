@@ -5,7 +5,7 @@ permalink: "/landingpages/"
 categories:
 - user interface design
 - front-end development
-position: 0
+position: Lead UI & UX Designer, Front-End Engineer
 layout: post
 tools: Adobe Photoshop CC, Adobe Illustrator CC, Git, HTML5, CSS3, Node.js, JQuery,
   Bootstrap 3

@@ -7,7 +7,7 @@ categories:
 - user experience design
 - user interface design
 - front-end development
-position: 0
+position: Lead UI & UX Designer
 layout: post
 timeline: Winter 2015 - Spring 2016s
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6, InVision

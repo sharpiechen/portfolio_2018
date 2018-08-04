@@ -7,7 +7,7 @@ categories:
 - user experience design
 - user interface design
 - featured
-position: 0
+position: Lead UI & UX Designer
 layout: post
 timeline: Summer 2014 - Spring 2015
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6, Axure RP, Justinmind, InVision
