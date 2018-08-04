@@ -1175,6 +1175,7 @@ hr + .container-work--hidden {
   @media (max-width: 575px) {
     .footer__disclaimer {
       position:relative;
+      padding: 15px 0px 20px 0px;
     }
   }
 
