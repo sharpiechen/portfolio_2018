@@ -1,6 +1,6 @@
 ---
 title: Custom Zendesk Support Site
-date: 2018-01-12 00:00:00 Z
+date: 2018-01-09 00:00:00 Z
 permalink: "/zendeskcustomtheme/"
 categories:
 - user experience design

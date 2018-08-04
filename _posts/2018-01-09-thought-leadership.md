@@ -1,6 +1,6 @@
 ---
 title: Design Leadership
-date: 2018-01-09 00:00:00 Z
+date: 2018-01-12 00:00:00 Z
 permalink: "/designleadership/"
 categories:
 - user experience design

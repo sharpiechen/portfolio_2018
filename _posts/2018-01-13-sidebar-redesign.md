@@ -1,6 +1,6 @@
 ---
 title: Narrative Configuration Sidebar Redesign and Code Refactor
-date: 2018-01-13 00:00:00 Z
+date: 2018-01-19 00:00:00 Z
 permalink: "/sidebarredesign/"
 categories:
 - user experience design
