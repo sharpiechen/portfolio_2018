@@ -7,11 +7,11 @@ categories:
 - user interface design
 - product management
 - featured
+position: 0
 layout: post
 timeline: Fall 2016 - Summer 2017
 tools: Sketch, InVision
 client: Narrative Science
-position: Technical Product Manager, Lead UI & UX Designer
 assets: none
 casestudy: false
 cover: img-post-cover-1.jpg

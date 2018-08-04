@@ -4,13 +4,13 @@ date: 2018-01-06 00:00:00 Z
 permalink: "/tellyourstory/"
 categories:
 - visual design
+position: 0
 layout: post
 timeline: Summer - Fall 2014
 tools: Adobe Illustrator CS6
 client: Seelio
 assets: true
 casestudy: none
-position: Graphic Designer, Project Manager
 cover: img-post-cover-8.jpg
 splash: img-post-splash-8.jpg
 number: 8

@@ -7,13 +7,13 @@ categories:
 - user experience design
 - user interface design
 - front-end development
+position: 0
 layout: post
 timeline: Winter 2015 - Spring 2016s
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6, InVision
 client: Seelio
 assets: true
 casestudy: true
-position: Lead UI & UX Designer
 cover: img-post-cover-7.jpg
 splash: img-post-splash-7.jpg
 number: 7

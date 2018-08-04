@@ -5,13 +5,13 @@ permalink: "/introassist/"
 categories:
 - user interface design
 - featured
+position: 0
 layout: post
 timeline: Fall 2017
 tools: Sketch, Zeplin
 client: Northwestern University Segal Design Institute
 assets: true
 casestudy: false
-position: Lead UI & UX Designer
 cover: img-post-cover-4.jpg
 splash: img-post-splash-4.jpg
 number: 4

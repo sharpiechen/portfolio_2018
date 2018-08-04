@@ -4,13 +4,13 @@ date: 2018-01-04 00:00:00 Z
 permalink: "/seelioservicedesign/"
 categories:
 - user experience research
+position: 0
 layout: post
 timeline: Summer 2015 - Winter 2016
 tools: none
 client: Seelio
 assets: none
 casestudy: true
-position: UX Designer & Researcher
 cover: img-post-cover-11.jpg
 splash: img-post-splash-11.jpg
 number: 11

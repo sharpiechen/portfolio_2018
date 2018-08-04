@@ -5,11 +5,11 @@ permalink: "/emailtemplates/"
 categories:
 - user interface design
 - front-end development
+position: 0
 layout: post
 timeline: Fall - Winter 2015
 tools: Adobe Photoshop CS6, Adobe Illustrator CS6, HTML, CSS, Customer.io, SendGrid
 client: Seelio
-position: Lead UI & UX Designer
 assets: true
 casestudy: none
 cover: img-post-cover-13.jpg

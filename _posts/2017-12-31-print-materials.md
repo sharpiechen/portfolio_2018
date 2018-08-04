@@ -4,13 +4,13 @@ date: 2017-12-31 00:00:00 Z
 permalink: "/printmaterials/"
 categories:
 - visual design
+position: 0
 layout: post
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6
 client: none
 timeline: none
 assets: true
 casestudy: none
-position: none
 cover: img-post-cover-14.jpg
 splash: img-post-splash-14.jpg
 number: 14
