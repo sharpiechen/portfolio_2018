@@ -126,7 +126,10 @@
     font-size:1.2rem;
   }
 
-  #bootstrapoverride p {
+  #bootstrapoverride p,
+  #bootstrapoverride ul,
+  #bootstrapoverride ol,
+  .list {
     font-size:0.8rem;
   }
 }
@@ -1308,3 +1311,14 @@ hr + .container-work--hidden {
 .container__button {
   margin: 70px 0px 50px 0px;
 }
+
+/*XS*/
+@media (max-width: 575px) {
+  #bootstrapoverride .container-post-body {
+    padding-left:20px;
+    padding-right:20px;
+  }
+}
+
+
+
