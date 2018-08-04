@@ -136,7 +136,7 @@
 
 /*Global///////////////////////////////////////////////*/
 
-.container-body--intro .container-body {
+.container-body--intro {
   margin-top:200px;
 }
 
@@ -314,9 +314,11 @@
 
 /*XS*/
 @media (max-width: 575px) {
-  .container-body {
+  .container-body,
+  .container-body--intro {
     margin-top:40px;
   }
+  
   .marker {
     font-size:12rem;
     z-index:-2;
