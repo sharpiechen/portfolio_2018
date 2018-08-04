@@ -247,6 +247,10 @@
 
 /*MD*/
 @media (max-width: 991px) {
+  #bootstrapoverride .container-body--intro {
+    margin-top:50px;
+  }
+  
   .frame {
     width:40px;
   }
@@ -315,7 +319,7 @@
 /*XS*/
 @media (max-width: 575px) {
   .container-body,
-  .container-body--intro {
+  #bootstrapoverride .container-body--intro {
     margin-top:40px;
   }
   
