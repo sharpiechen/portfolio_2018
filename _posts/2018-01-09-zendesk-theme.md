@@ -11,6 +11,7 @@ layout: post
 timeline: Winter 2017
 tools: HTML, CSS, Bootstrap 4, ZenDesk, Curlybars
 client: Narrative Science
+position: Lead UI & UX Designer, Front-End Engineer
 assets: true
 casestudy: false
 cover: img-post-cover-2.jpg

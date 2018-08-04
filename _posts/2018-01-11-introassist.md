@@ -11,6 +11,7 @@ tools: Sketch, Zeplin
 client: Northwestern University Segal Design Institute
 assets: true
 casestudy: false
+position: Lead UI & UX Designer
 cover: img-post-cover-4.jpg
 splash: img-post-splash-4.jpg
 number: 4

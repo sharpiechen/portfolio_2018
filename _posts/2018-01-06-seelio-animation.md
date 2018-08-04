@@ -10,6 +10,7 @@ tools: Adobe Illustrator CS6
 client: Seelio
 assets: true
 casestudy: none
+position: Graphic Designer, Project Manager
 cover: img-post-cover-8.jpg
 splash: img-post-splash-8.jpg
 number: 8

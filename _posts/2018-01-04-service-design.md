@@ -10,6 +10,7 @@ tools: none
 client: Seelio
 assets: none
 casestudy: true
+position: UX Designer & Researcher
 cover: img-post-cover-11.jpg
 splash: img-post-splash-11.jpg
 number: 11

@@ -10,6 +10,7 @@ client: none
 timeline: none
 assets: true
 casestudy: none
+position: none
 cover: img-post-cover-14.jpg
 splash: img-post-splash-14.jpg
 number: 14
