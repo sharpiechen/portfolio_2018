@@ -25,7 +25,7 @@ number: 5
     "Design thinking is a <a href="https://www.ideou.com/pages/design-thinking" target="_blank">human-centered approach to innovation</a> that draws from the designer's toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success." - Tim Brown, CEO if IDEO
 </div>
 <p>
-	Design thinking helps companies understand that no design will be “right” the first time, but that following this solutions-based approach will ensure that with each incremental iteration, the design will become closer to being what the user expects. Above all, it helps companies gain an empathetic understanding of the people who are using their products and services.
+    Design thinking is the path from good to great and the tried and true approach to product market fit. Above all, it helps companies understand their users and their needs by gaining an empathetic understanding of the people who are using their products and services -- the first step to providing real value to people in the real world. 
 	<br><br>
 	For over six years, I’ve been educating myself on and applying design thinking strategies to agile product development. I've learned that although it's challenging to apply a comprehensive design approach to agile, it's always possible to incorporate some level of design thinking to move the project forward. As I’ve shifted my mindset towards problem solving and learned to quickly adapt to different constraints, I’ve begun to share my experiences with co-workers and other members of the design community. 
 </p>
@@ -37,9 +37,19 @@ number: 5
     <img src="{{site.url}}/assets/img-asset-5a.jpg">
 </a>
 <p>
-	At <a href="http://narrativescience.com" target="_blank">Narrative Science</a>, I’ve organized and led two product team design hackathons. During the hackathons, I taught product team members rapid brainstorming techniques and encouraged members to think beyond the features they focus on daily. The goal of these design hackathons was not only to generate concrete ideas to incorporate into our product roadmap, but rather to prove that anyone can be a designer and that even a low-fidelity prototype can act as a proof of concept.
+    At <a href="http://narrativescience.com" target="_blank">Narrative Science</a>, I’ve given multiple presentations to the product team about how design processes and best practices for working with designers. The goal of these presentations was to help product team members understand that UX design is more than just crafting a pretty design. UX design is about engaging users through delightful exeriences and using design to solve complex problems. It helped shift the mindset of members away from specific features and solutions, and back to the larger problem at hand. 
 </p>
 
+<div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:20px;">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLXzombZVrYa7H2qhwWp3NVzwO6SrYezedCjvTvFUO_gMoj8vG1ycgP-js9T5AbjSwnfKF8ztrJoXq/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="work__page__attach--video" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
+</div>
+
+<div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:20px;">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlEAT-wYcBsP9IZ2jOsi1GD8-2ZNcZm2anfQzmx3wmLUFJRABgbb-oOmoHyg8JTZMPXpDGqS-6UZ8Z/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="work__page__attach--video" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
+</div>
+<p>
+	I’ve also organized and led two product team design hackathons. During the hackathons, I taught product team members rapid brainstorming techniques and encouraged members to think beyond the features they focus on daily. The goal of these design hackathons was not only to generate concrete ideas to incorporate into our product roadmap, but rather to prove that anyone can be a designer and that even a low-fidelity prototype can act as a proof of concept.
+</p>
 <div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:30px;">
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK_UGHvMx3DCkl2ve0arYZOhAt1vkUmnGVa5uvMw8e3wmDmlMsDybno6d5ypoPQKTYVnU4rewVuIbQ/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="work__page__attach--video" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
 </div>
@@ -50,17 +60,7 @@ number: 5
     <p class="post__lightbox__close">&#x2715;</p>
     <img src="{{site.url}}/assets/img-asset-5b.jpg">
 </a>
-<p>
-	I’ve also given multiple presentations to the product team about how design processes and best practices for working with designers. The goal of these presentations was to help product team members understand that UX design is more than just crafting a pretty design. UX design is about engaging users through delightful exeriences and using design to solve complex problems. It helped shift the mindset of members away from specific features and solutions, and back to the larger problem at hand. 
-</p>
 
-<div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:20px;">
-	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLXzombZVrYa7H2qhwWp3NVzwO6SrYezedCjvTvFUO_gMoj8vG1ycgP-js9T5AbjSwnfKF8ztrJoXq/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="work__page__attach--video" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
-</div>
-
-<div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:20px;">
-	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlEAT-wYcBsP9IZ2jOsi1GD8-2ZNcZm2anfQzmx3wmLUFJRABgbb-oOmoHyg8JTZMPXpDGqS-6UZ8Z/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="work__page__attach--video" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
-</div>
 
 <p>
 	Outside of Narrative Science, I’ve also given various talks and about design, such as at <a href="http://2015.worldiaday.org/locations/ann-arbor-mi-united-states/" target="_blank">World IA Day</a> and at <a href="https://creativemornings.com/cities/chi" target="_blank">Creative Mornings</a> in Chicago. I have written <a href="https://medium.com/@sharingchen" target="_blank">several blog posts</a> about my experience with UI & UX design and have volunteered to share my experiences at <a href="https://www.braveinitiatives.com/" target="_blank">Brave Initiative</a>'s 1-day workshop to help young girls understand the importance of design thinking and coding.
