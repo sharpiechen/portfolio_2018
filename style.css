@@ -838,10 +838,22 @@
   z-index:-1;
 }
 
-.experience__img-2 {
+.experience__img-2,
+.experience__img-3, 
+.experience__img-4, 
+.experience__img-5 {
   background-position:left;
   background-size:cover;
 }
+
+.experience__img-2:hover,
+.experience__img-3:hover, 
+.experience__img-4:hover, 
+.experience__img-5:hover {
+  filter: none;
+  -webkit-filter: grayscale(0);
+}
+
 
 .experience__img-2 {
   height:95%;
@@ -854,19 +866,14 @@
   transition: all .25s ease-in-out;
 }
 
-.experience__img-2:hover {
-  filter: none;
-  -webkit-filter: grayscale(0);
-}
-
 .experience__img-3 {
   height:400px;
-  background-color:#FCE7D4;
+  /*background-color:#FCE7D4;*/
 }
 
 .experience__img-4{
   height:400px;
-  background-color:#D1E4E4;
+  /*background-color:#D1E4E4;*/
 }
 
 .experience__img-5{
@@ -874,7 +881,7 @@
   height:400px;
   width:340px;
   z-index:-1;
-  background-color:#98CED9;
+  /*background-color:#98CED9;*/
   top:0;
   left:-341px;
 }
