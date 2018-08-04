@@ -136,10 +136,13 @@
 
 /*Global///////////////////////////////////////////////*/
 
+.container-body .container-body--intro {
+  margin-top:200px;
+}
 .container-body {
   /*Save for later - three images
   /*margin-top:50px;*/
-  margin-top:200px;
+  margin-top:50px;
 }
 
 .heading {
