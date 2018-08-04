@@ -5,7 +5,7 @@ permalink: "/introassist/"
 categories:
 - user interface design
 - featured
-position: Lead UI & UX Designer
+position: 0
 layout: post
 timeline: Fall 2017
 tools: Sketch, Zeplin

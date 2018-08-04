@@ -5,7 +5,7 @@ permalink: "/designleadership/"
 categories:
 - user experience design
 - featured
-position: none
+position: 0
 layout: post
 timeline: 2015 - Present
 tools: none

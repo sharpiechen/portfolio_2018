@@ -4,7 +4,7 @@ date: 2018-01-06 00:00:00 Z
 permalink: "/tellyourstory/"
 categories:
 - visual design
-position: Visual Designer, Project Manager
+position: 0
 layout: post
 timeline: Summer - Fall 2014
 tools: Adobe Illustrator CS6

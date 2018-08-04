@@ -4,7 +4,7 @@ date: 2018-01-04 00:00:00 Z
 permalink: "/seelioservicedesign/"
 categories:
 - user experience research
-position: UX Researcher
+position: 0
 layout: post
 timeline: Summer 2015 - Winter 2016
 tools: none
