@@ -56,7 +56,8 @@
         {{ content }}
         
         <div id="scrolltocontact" class="container container-footer">
-            <p class="visible-sm-down">Small</p>
+            <p class="hidden-lg-up">Medium - tablet</p>
+
             <div class="row justify-content-end">
                 <div class="col-2">
                     <a href="#backtotop" id="#backtotop">
@@ -75,8 +76,8 @@
                     <p class="footer__disclaimer">This website was designed and built by Sharon Chen. 2018. Chicago, IL.</p>
                 </div>
 
-                <!-- SM and up -->
-                <div class="col-2">
+                <!-- MD and up -->
+                <div class="col-2 hidden-sm-down">
                     <h4 class="heading heading--regular heading--emphasize">social</h4>
                     <ul class="list">
                         <li><a href="https://www.linkedin.com/in/sharonch3n/" target="_blank">LinkedIn</a></li>
@@ -86,7 +87,7 @@
                         <li><a href="https://dribbble.com/sharingchen" target="_blank">Dribbble</a></li>
                     </ul>
                 </div>
-                <div class="col-2">
+                <div class="col-2 hidden-sm-down">
                     <h4 class="heading heading--regular heading--emphasize">for fun</h4>
                     <ul class="list">
                         <li><a href="http://instagram.com/seesharunforit" target="_blank">Photography</a></li>
@@ -95,9 +96,30 @@
                         <li><a href="https://soundcloud.com/sharonius" target="_blank">Music Inspo</a></li>
                     </ul>
                 </div>
-
-                SM 
             </div>
+            <!-- SM -->
+            <div class="row hidden-md-up">
+                <div class="col-6">
+                    <h4 class="heading heading--regular heading--emphasize">social</h4>
+                    <ul class="list">
+                        <li><a href="https://www.linkedin.com/in/sharonch3n/" target="_blank">LinkedIn</a></li>
+                        <li><a href="https://medium.com/@sharingchen" target="_blank">Medium</a></li>
+                        <li><a href="https://twitter.com/sharingchen" target="_blank">Twitter</a></li>
+                        <li><a href="https://github.com/sharpiechen" target="_blank">Github</a></li>
+                        <li><a href="https://dribbble.com/sharingchen" target="_blank">Dribbble</a></li>
+                    </ul>
+                </div>
+                <div class="col-6">
+                    <h4 class="heading heading--regular heading--emphasize">for fun</h4>
+                    <ul class="list">
+                        <li><a href="http://instagram.com/seesharunforit" target="_blank">Photography</a></li>
+                        <li><a href="http://instagram.com/sharunswithmarkers" target="_blank">Instant Mindgrams</a></li>
+                        <li><a href="https://www.pinterest.com/sharingchen/" target="_blank">Mood Boards</a></li>
+                        <li><a href="https://soundcloud.com/sharonius" target="_blank">Music Inspo</a></li>
+                    </ul>
+                </div>
+            </div>
+
         </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
         <script src="{{site.url}}/scripts.js"></script>
