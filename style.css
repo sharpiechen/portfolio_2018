@@ -844,6 +844,9 @@
 .experience__img-5 {
   background-position:left;
   background-size:cover;
+  filter:gray;
+  -webkit-filter: grayscale(1);
+  transition: all .25s ease-in-out;
 }
 
 .experience__img-2:hover,
@@ -861,9 +864,6 @@
   left:0px;
   top:20%;
   position:absolute;
-  filter:gray;
-  -webkit-filter: grayscale(1);
-  transition: all .25s ease-in-out;
 }
 
 .experience__img-3 {
