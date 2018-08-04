@@ -20,7 +20,13 @@ number: 5
 
 <p>
 	Design thinking is a key component to the success of all companies and extends far beyond the design team. All components of the methodology, from identifying the problem, to creating hypotheses and prototyping an idea, ensure that a product or service is created for the intended end-user.
- 	<br><br>
+</p>
+<div class="post__quote">
+    <p>
+        Design thinking is a <a href="https://www.ideou.com/pages/design-thinking" target="_blank">human-centered approach to innovation</a> that draws from the designer's toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success. - Tim Brown, CEO if IDEO
+    </p>
+</div>
+<p>
 	Design thinking helps companies understand that no design will be “right” the first time, but that following this solutions-based approach will ensure that with each incremental iteration, the design will become closer to being what the user expects. Above all, it helps companies gain an empathetic understanding of the people who are using their products and services.
 	<br><br>
 	For over six years, I’ve been educating myself on and applying design thinking strategies to agile product development. I've learned that although it's challenging to apply a comprehensive design approach to agile, it's always possible to incorporate some level of design thinking to move the project forward. As I’ve shifted my mindset towards problem solving and learned to quickly adapt to different constraints, I’ve begun to share my experiences with co-workers and other members of the design community. 
