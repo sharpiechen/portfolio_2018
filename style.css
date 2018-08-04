@@ -839,12 +839,17 @@
 }
 
 .experience__img-2 {
-  height:110%;
+  background-position:left;
+  background-size:cover;
+}
+
+.experience__img-2 {
+  height:95%;
   width:115%;
   left:0px;
   top:20%;
-  background-color:#252525;
-  position:absolute;
+/*  background-color:#252525;
+*/  position:absolute;
 }
 
 .experience__img-3 {
