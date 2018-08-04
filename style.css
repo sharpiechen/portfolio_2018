@@ -849,6 +849,14 @@
   left:0px;
   top:20%;
   position:absolute;
+  filter:gray;
+  -webkit-filter: grayscale(1);
+  transition: all .25s ease-in-out;
+}
+
+.experience__img-2:hover {
+  filter: none;
+  -webkit-filter: grayscale(0);
 }
 
 .experience__img-3 {
