@@ -6,7 +6,7 @@ categories:
 - user experience research
 - user experience design
 - user interface design
-position: Lead UI & UX Designer
+position: 0
 layout: post
 timeline: Spring 2014
 tools: Adobe Illustrator CS6, Adobe Photoshop CS6

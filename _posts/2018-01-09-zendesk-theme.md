@@ -7,7 +7,7 @@ categories:
 - user interface design
 - front-end development
 - featured
-position: Lead UI & UX Designer, Front-End Engineer
+position: 0
 layout: post
 timeline: Winter 2017
 tools: HTML, CSS, Bootstrap 4, ZenDesk, Curlybars
