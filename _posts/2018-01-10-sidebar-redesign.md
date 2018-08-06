@@ -28,6 +28,15 @@ Following synthesis of feedback from multiple focus groups and requests to add m
 As the design lead for this project, I established a new user experience and visual aesthetic for the sidebar by prototyping designs and conducting user tests. In Q1 of 2017, I assumed the role of Technical Product Manager and, along with my day-to-day design responsibilities, led a scrum team of four front-end engineers to ensure the successful delivery of the refactored narrative configuration sidebar. 
 <br><br>
 The sidebar refactor was successfully completed and delivered at the end of Q1, 2017.</p>
+<div class="post__quote">
+	<ul>
+		<li>
+			"As an engineering team lead, I worked closely with Sharon to deliver a complete redesign and reimplementation of the Quill3 sidebar user experience.  Sharon wore two hats for the duration of this project; user experience designer and technical product manager. Working with Sharon was a delight, as she kept our team unblocked and fully aware of our progress towards the finish line...<a href="https://www.dropbox.com/s/lh04bq0buhaxiwh/Letter%20of%20Recommendation_Mike%20Smathers.pdf?dl=0" target="_blank">Read full recommendation</a>" - Mike Smathers, Principle Engineer at Narrative Science
+		</li>
+	</ul>
+</div>
+
+
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">my role</h4>
 <div class="marker-post-heading"></div>
 <ul>
