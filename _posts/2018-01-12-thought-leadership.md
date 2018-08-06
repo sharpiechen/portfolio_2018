@@ -36,7 +36,7 @@ number: 5
         <img src="{{site.url}}/assets/img-asset-5a.jpg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img5a">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-5a.jpg">
 </a>
 <p>
@@ -60,7 +60,7 @@ number: 5
         <img src="{{site.url}}/assets/img-asset-5b.jpg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img5b">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-5b.jpg">
 </a>
 
@@ -73,7 +73,7 @@ number: 5
         <img src="{{site.url}}/assets/img-asset-5c.jpg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img5c">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-5c.jpg">
 </a>
 
@@ -81,7 +81,7 @@ number: 5
         <img src="{{site.url}}/assets/img-asset-5d.jpg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img5d">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-5d.jpg">
 </a>
 <p>
