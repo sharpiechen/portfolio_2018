@@ -5,7 +5,7 @@ permalink: "/emailtemplates/"
 categories:
 - user interface design
 - front-end development
-position: 0
+position: Lead UI & UX Designer
 layout: post
 timeline: Fall - Winter 2015
 tools: Adobe Photoshop CS6, Adobe Illustrator CS6, HTML, CSS, Customer.io, SendGrid

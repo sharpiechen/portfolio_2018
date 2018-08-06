@@ -7,7 +7,7 @@ categories:
 - user interface design
 - product management
 - featured
-position: 0
+position: Technical Product Manager, Lead UI & UX Designer
 layout: post
 timeline: Fall 2016 - Summer 2017
 tools: Sketch, InVision
