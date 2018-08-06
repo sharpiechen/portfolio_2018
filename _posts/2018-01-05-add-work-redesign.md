@@ -30,7 +30,7 @@ number: 9
         <img src="{{site.url}}/assets/img-asset-9a.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img9a">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-9a.jpeg">
     </a>
 
@@ -44,7 +44,7 @@ number: 9
         <img src="{{site.url}}/assets/img-asset-9b.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img9b">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-9b.jpeg">
     </a>
 	<p>
@@ -63,7 +63,7 @@ number: 9
         <img src="{{site.url}}/assets/img-asset-9c.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img9c">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-9c.jpeg">
     </a>
 	
@@ -92,21 +92,21 @@ number: 9
         <img src="{{site.url}}/assets/img-asset-9d.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img9d">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-9d.jpeg">
     </a>
     <a href="#img9e">
         <img src="{{site.url}}/assets/img-asset-9e.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img9e">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-9e.jpeg">
     </a>
     <a href="#img9f">
         <img src="{{site.url}}/assets/img-asset-9f.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img9f">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-9f.jpeg">
     </a>
 

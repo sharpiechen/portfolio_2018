@@ -34,7 +34,7 @@ number: 12
         <img src="{{site.url}}/assets/img-asset-12a.png" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12a">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-12a.png">
     </a>
 
@@ -53,7 +53,7 @@ number: 12
         <img src="{{site.url}}/assets/img-asset-12b.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12b">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-12b.jpeg">
     </a>
 	<p>
@@ -71,7 +71,7 @@ number: 12
         <img src="{{site.url}}/assets/img-asset-12c.png" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12c">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-12c.png">
     </a>
 	<h4 class="heading heading--regular heading--emphasize post__heading--stacked">create & test</h4>
@@ -84,7 +84,7 @@ number: 12
         <img src="{{site.url}}/assets/img-asset-12d.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12d">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-12d.jpeg">
     </a>
     <p>While we wanted to maximize our redesign and account for all user suggestions and issues, we were determined not to lose sight of our overall vision. Many users were comparing us to website-building sites such as Squarespace, Weebly, and Wix and expressed a desire for similar themes and flexibility. However, we felt as though too much customization might compromise some of Seelio’s simplicity and ease-of-use.
@@ -93,21 +93,21 @@ number: 12
         <img src="{{site.url}}/assets/img-asset-12e.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12e">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-12e.jpeg">
     </a>
     <a href="#img12f">
         <img src="{{site.url}}/assets/img-asset-12f.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12f">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-12f.jpeg">
     </a>
     <a href="#img12g">
         <img src="{{site.url}}/assets/img-asset-12g.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img12g">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-12g.jpeg">
     </a>
     <p>

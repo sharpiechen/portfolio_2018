@@ -29,7 +29,7 @@ number: 11
         <img src="{{site.url}}/assets/img-asset-10a.jpeg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10a">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-10a.jpeg">
 </a>
 <p>
@@ -39,7 +39,7 @@ number: 11
         <img src="{{site.url}}/assets/img-asset-10b.jpeg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10b">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-10b.jpeg">
 </a>
 <p>
@@ -49,14 +49,14 @@ number: 11
         <img src="{{site.url}}/assets/img-asset-10c.jpeg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10c">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-10c.jpeg">
 </a>
 <a href="#img10d">
         <img src="{{site.url}}/assets/img-asset-10d.jpeg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10d">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-10d.jpeg">
 </a>
 <h4 class="heading heading--regular heading--emphasize post__heading--stacked">understand</h4>
@@ -78,14 +78,14 @@ number: 11
         <img src="{{site.url}}/assets/img-asset-10e.jpeg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10e">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-10e.jpeg">
 </a>
 <a href="#img10f">
         <img src="{{site.url}}/assets/img-asset-10f.jpeg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10f">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-10f.jpeg">
 </a>
 <p>
@@ -101,28 +101,28 @@ number: 11
         <img src="{{site.url}}/assets/gallery/14/img-asset-14f.jpg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10g">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/gallery/14/img-asset-14f.jpg">
 </a>
 <a href="#img10h">
         <img src="{{site.url}}/assets/img-asset-10h.jpeg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10h">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-10h.jpeg">
 </a>
 <a href="#img10i">
         <img src="{{site.url}}/assets/gallery/14/img-asset-14g.jpg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10i">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/gallery/14/img-asset-14g.jpg">
 </a>
 <a href="#img10j">
         <img src="{{site.url}}/assets/img-asset-10j.jpeg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10j">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-10j.jpeg">
 </a>
 <p>
@@ -143,28 +143,28 @@ number: 11
         <img src="{{site.url}}/assets/img-asset-10k.jpeg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10k">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-10k.jpeg">
 </a>
 <a href="#img10l">
         <img src="{{site.url}}/assets/img-asset-10l.jpeg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10l">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-10l.jpeg">
 </a>
 <a href="#img10m">
         <img src="{{site.url}}/assets/img-asset-10m.jpeg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10m">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-10m.jpeg">
 </a>
 <a href="#img10n">
         <img src="{{site.url}}/assets/img-asset-10n.jpeg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10n">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-10n.jpeg">
 </a>
 <p>
@@ -219,7 +219,7 @@ number: 11
         <img src="{{site.url}}/assets/img-asset-10o.jpeg" alt="image" class="post__asset">
 </a>
 <a href="#_" class="post__lightbox" id="img10o">
-    <p class="post__lightbox__close">&#x2715;</p>
+    <!-- <p class="post__lightbox__close">&#x2715;</p> -->
     <img src="{{site.url}}/assets/img-asset-10o.jpeg">
 </a>
 

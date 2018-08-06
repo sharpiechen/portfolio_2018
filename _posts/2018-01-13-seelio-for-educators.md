@@ -53,7 +53,7 @@ number: 6
         <img src="{{site.url}}/assets/img-asset-6j.png" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img6j">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-6j.png">
     </a>
 	<p>
@@ -63,14 +63,14 @@ number: 6
         <img src="{{site.url}}/assets/img-asset-6k.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img6k">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-6k.jpeg">
     </a>
     <a href="#img6l">
         <img src="{{site.url}}/assets/img-asset-6l.jpeg" alt="image" class="post__asset">
     </a>
 	<a href="#_" class="post__lightbox" id="img6l">
-        <p class="post__lightbox__close">&#x2715;</p>
+        <!-- <p class="post__lightbox__close">&#x2715;</p> -->
         <img src="{{site.url}}/assets/img-asset-6l.jpeg">
     </a>
 	<p>
