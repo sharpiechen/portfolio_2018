@@ -31,7 +31,8 @@ The sidebar refactor was successfully completed and delivered at the end of Q1, 
 <div class="post__quote">
 	<ul>
 		<li>
-			"As an engineering team lead, I worked closely with Sharon to deliver a complete redesign and reimplementation of the Quill3 sidebar user experience.  Sharon wore two hats for the duration of this project; user experience designer and technical product manager. Working with Sharon was a delight, as she kept our team unblocked and fully aware of our progress towards the finish line...<a href="https://www.dropbox.com/s/lh04bq0buhaxiwh/Letter%20of%20Recommendation_Mike%20Smathers.pdf?dl=0" target="_blank">Read full recommendation</a>" - Mike Smathers, Principle Engineer at Narrative Science
+			"As an engineering team lead, I worked closely with Sharon to deliver a complete redesign and reimplementation of the Quill3 sidebar user experience.  Sharon wore two hats for the duration of this project; user experience designer and technical product manager. Working with Sharon was a delight, as she kept our team unblocked and fully aware of our progress towards the finish line. <a href="https://www.dropbox.com/s/lh04bq0buhaxiwh/Letter%20of%20Recommendation_Mike%20Smathers.pdf?dl=0" target="_blank">Read full recommendation</a>"
+			<br><br>- Mike Smathers, Principle Engineer at Narrative Science
 		</li>
 	</ul>
 </div>
