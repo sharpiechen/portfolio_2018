@@ -1,6 +1,6 @@
 ---
 title: IntroAssist Help Tool
-date: 2018-01-11 00:00:00 Z
+date: 2018-01-10 00:00:00 Z
 permalink: "/introassist/"
 categories:
 - user interface design
