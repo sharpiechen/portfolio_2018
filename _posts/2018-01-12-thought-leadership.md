@@ -40,7 +40,7 @@ number: 5
     <img src="{{site.url}}/assets/img-asset-5a.jpg">
 </a>
 <p>
-    At <a href="http://narrativescience.com" target="_blank">Narrative Science</a>, I’ve given multiple presentations to the product team about how design processes and best practices for working with designers. The goal of these presentations was to help product team members understand that UX design is more than just crafting a pretty design. UX design is about engaging users through delightful exeriences and using design to solve complex problems. It helped shift the mindset of members away from specific features and solutions, and back to the larger problem at hand. 
+    At <a href="http://narrativescience.com" target="_blank">Narrative Science</a>, I’ve given multiple presentations to the product team about how design processes and best practices for working with designers. The goal of these presentations was to help product team members understand that UX design is more than just crafting a pretty design -- UX design is about engaging users through delightful exeriences and using design to solve complex problems. They helped product team members understand how to leverage the design team's expertise to collaborately build a more user-centered product. 
 </p>
 
 <div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:20px;">
@@ -51,7 +51,7 @@ number: 5
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlEAT-wYcBsP9IZ2jOsi1GD8-2ZNcZm2anfQzmx3wmLUFJRABgbb-oOmoHyg8JTZMPXpDGqS-6UZ8Z/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="work__page__attach--video" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
 </div>
 <p>
-	I’ve also organized and led two product team design hackathons. During the hackathons, I taught product team members rapid brainstorming techniques and encouraged members to think beyond the features they focus on daily. The goal of these design hackathons was not only to generate concrete ideas to incorporate into our product roadmap, but rather to prove that anyone can be a designer and that even a low-fidelity prototype can act as a proof of concept.
+	I’ve also organized and led two product team design hackathons. During the hackathons, I taught product team members rapid brainstorming techniques and encouraged members to think beyond the features they focus on daily. The goal of these design hackathons was not only to generate concrete ideas to incorporate into our product roadmap, but also to prove that anyone can be a designer and that even a low-fidelity prototype can act as a proof of concept.
 </p>
 <div class="work__page__attach__container--video" style="position:relative;width:100%;height:0;padding-bottom:56.25%;margin-bottom:30px;">
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK_UGHvMx3DCkl2ve0arYZOhAt1vkUmnGVa5uvMw8e3wmDmlMsDybno6d5ypoPQKTYVnU4rewVuIbQ/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="work__page__attach--video" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
